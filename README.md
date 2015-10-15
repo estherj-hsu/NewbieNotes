@@ -17,10 +17,12 @@ CSS3 / HTML5
 * Media Queries (RWD)
 
 *Browsers
+
 | Safari / Chrome | Opera | Firefox | IE9 |
 |:---:|:---:|:---:|:---:|
-|-webkit|-o|-moz|-ms|
-[Can I Use](http://caniuse.com/)
+| -webkit | -o | -moz | -ms |
+
+Useful site: [Can I Use](http://caniuse.com/)
 
 Sass / SCSS
 ===
