@@ -1,7 +1,8 @@
-# Notes
 
-CSS3 / HTML5
-===
+#Notes
+
+##CSS3 / HTML5
+
 * Round Corners*
 * Multiple Backgrounds (layers)
 * Color Opacity (1.0-0.0)
@@ -24,8 +25,8 @@ CSS3 / HTML5
 
 Useful site: [Can I Use](http://caniuse.com/)
 
-Sass / SCSS
-===
+##Sass / SCSS
+
 | . | Sass | SCSS | 
 |:---:|:---:|:---:|
 | ; / {} | NO | YES |
@@ -40,8 +41,8 @@ Sass / SCSS
 !default
 
 
-@mixin
----
+###@mixin
+
     /* SASS */
     
     =stf ($font:Arial, $color:#000000, $size:0.8em, $fwt:normal, $lh:100%)
@@ -104,8 +105,8 @@ Sass / SCSS
     }
 
 
-@mixin ($args...) 不定量引數
---
+###@mixin ($args...) 不定量引數
+
     /* SASS */
     
     @mixin box-shadow($args...)
@@ -115,8 +116,8 @@ Sass / SCSS
     .box
       @include box-shadow(5px 5px 3px lightgray, inset 5px 5px 5px yellow)
 
-@each+map (loop)
---
+###@each+map (loop)
+
     /* SCSS */
     
     $menus: (
@@ -168,8 +169,9 @@ Sass / SCSS
     .menu3:hover {
       background: #6a6a6a;
     }
-@for (loop)
---
+    
+###@for (loop)
+
     /* SCSS */
     
     @for $i from 1 through 3 {
@@ -191,8 +193,8 @@ Sass / SCSS
     }
 
 
-list
---
+###list
+
 Data structure is **flat** (different from **maps**)
 
     /* SCSS */
@@ -215,8 +217,8 @@ Data structure is **flat** (different from **maps**)
     }
 
 
-@function
---
+###@function
+
 Output = **single value**  (different form **mixin**)
 
     /* SCSS */
@@ -235,9 +237,9 @@ Output = **single value**  (different form **mixin**)
       padding-left: 0.375em;
     }
 
-&
---
-&.--
+###&
+
+####&.--
 
     /*  SASS */
     
@@ -261,7 +263,7 @@ Output = **single value**  (different form **mixin**)
       margin-bottom: 20px;
     }
 
--- &
+####-- &
 
     /* Sass */
     
@@ -286,8 +288,8 @@ Output = **single value**  (different form **mixin**)
       margin-bottom: 20px;
     }
 
-@extend + %
---
+##@extend + %
+
 
     /* Sass */
     
