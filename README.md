@@ -16,23 +16,11 @@ CSS3 / HTML5
 * Flex Concept*
 * Media Queries (RWD)
 
-***Browsers**
-
-Safari / Chrome
-
-    -webkit
-
-Opera
-
-    -o
-
-Firefox
-
-    -moz
-
-IE9
-
-    -ms
+*Browsers
+| Safari / Chrome | Opera | Firefox | IE9 |
+|:---:|:---:|:---:|:---:|
+|-webkit|-o|-moz|-ms|
+[Can I Use](http://caniuse.com/)
 
 Sass / SCSS
 ===
