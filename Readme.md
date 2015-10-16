@@ -4,9 +4,9 @@
 ##Git
 
 Useful links:
-* [Backlogtoll(TW)](http://backlogtool.com/git-guide/tw/)
-* [Command list(EN)](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html)
-* [Command list(TW)](http://shyuanliang.blogspot.tw/2010/12/git-command-list.html)
+* [Backlogtoll(TW)](http://backlogtool.com/git-guide/tw/){:target="_blank"}
+* [Command list(EN)](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html){:target="_blank"}
+* [Command list(TW)](http://shyuanliang.blogspot.tw/2010/12/git-command-list.html){:target="_blank"}
 
 ##CSS3 / HTML5
 
