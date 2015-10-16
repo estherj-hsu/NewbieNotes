@@ -25,6 +25,9 @@
 
 Useful site: [Can I Use](http://caniuse.com/)
 
+**Reset style**: a style to reset all settings, especially for margin, padding, height, etc.
+**Wrapper** = container
+
 ##Sass / SCSS
 
 | . | Sass | SCSS | 
