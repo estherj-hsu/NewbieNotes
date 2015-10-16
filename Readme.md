@@ -1,6 +1,13 @@
 
 #Notes
 
+##Git
+
+Useful links:
+* [Backlogtoll(TW)](http://backlogtool.com/git-guide/tw/)
+* [Command list(EN)](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html)
+* [Command list(TW)](http://shyuanliang.blogspot.tw/2010/12/git-command-list.html)
+
 ##CSS3 / HTML5
 
 * Round Corners*
