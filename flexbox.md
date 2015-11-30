@@ -1,6 +1,7 @@
 # Flexbox
 
 ## Parent (wrap/container)
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-container.svg)
 
     display: flex
@@ -29,6 +30,7 @@
 
 ###justify-content
 容器內部主軸(X軸)對齊
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/justify-content.svg)
 
     justify-content: flex-start 對齊主軸起始點
@@ -39,6 +41,7 @@
  
 ###align-items
 容器內部側軸(Y軸)對齊
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
 
     align-items: flex-start 對齊側軸起始點
@@ -49,6 +52,7 @@
 
 ###align-content
 容器內部多行對齊
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
 
     align-content: flex-start 對齊主軸起始點
@@ -59,6 +63,7 @@
     align-content: space-around 對齊主軸左右且每個item左右保有相同空間
 
 ##Child (item)
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-items.svg)
 
 ###order
@@ -74,6 +79,7 @@
 
 
 ###flex-grow
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-grow.svg)
 
 主容器剩餘空間索取之擴大比例，default為0，代表皆不索取，數字代表索取之份量。
@@ -97,7 +103,9 @@
 
 ###align-self
 針對item之側軸對齊設定，可取代主容器之align-item屬性
+
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
+
 
     align-self: auto 跟從align-item設定
     align-self: flex-start 對齊側軸起始邊
