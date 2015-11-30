@@ -137,3 +137,13 @@
 	-moz-box-ordinal-group: 2 
 	-ms-flex-order: 2
 	order: 2
+
+
+
+##Reference
+* https://css-tricks.com/using-flexbox/
+* http://www.w3.org/html/ig/zh/wiki/Css3-flexbox
+* http://css.doyoe.com/properties/flex/index.htm
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://egghead.io/lessons/misc-flexbox-fundamentals
+* http://zh-tw.learnlayout.com/flexbox.html
