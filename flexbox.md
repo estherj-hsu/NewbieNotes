@@ -129,14 +129,14 @@
 
 ###Child
 
-    -webkit-box-flex: 1 200px
-	-moz-box-flex: 1 200px
-	flex: 1 200px
+    -webkit-box-flex: 0 1 auto
+	-moz-box-flex: 0 1 auto
+	flex: 0 1 auto
 
-	-webkit-box-ordinal-group: 2
-	-moz-box-ordinal-group: 2 
-	-ms-flex-order: 2
-	order: 2
+	-webkit-box-ordinal-group: 1
+	-moz-box-ordinal-group: 1 
+	-ms-flex-order: 1
+	order: 1
 
 
 
