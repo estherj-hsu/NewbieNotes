@@ -113,3 +113,27 @@
     align-self: center 對齊側軸中間
     align-self: baseline 以文字為基準
     align-self: stretch 延展至側軸雙邊、對齊側軸雙邊
+
+
+----------
+
+##Compatibility
+
+###Parant
+
+    display: -webkit-box
+    display: -moz-box
+    display: -ms-flexbox
+    display: -webkit-flex
+    display: flex
+
+###Child
+
+    -webkit-box-flex: 1 200px
+	-moz-box-flex: 1 200px
+	flex: 1 200px
+
+	-webkit-box-ordinal-group: 2
+	-moz-box-ordinal-group: 2 
+	-ms-flex-order: 2
+	order: 2
