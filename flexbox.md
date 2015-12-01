@@ -1,5 +1,7 @@
 # Flexbox
 
+[pinterest grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY)
+
 ## Parent (wrap/container)
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-container.svg)
