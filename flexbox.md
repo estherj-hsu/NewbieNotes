@@ -1,6 +1,6 @@
 # Flexbox
 
-[pinterest grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY)
+[Pinterest Grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY) 實作
 
 ## Parent (wrap/container)
 
