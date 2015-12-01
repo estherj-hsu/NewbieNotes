@@ -10,10 +10,13 @@
 
 容器內部child排列方向
 
+
     flex-direction: row(default) 橫向 | ltr 左到右 | rtl 右到左 
     flex-direction: row-reverse 逆橫向
     flex-direction: column 縱向
     flex-direction: column-reverse 逆縱向
+
+> 當採**縱向**(column/column-reverse)排列時，需藉由控制**容器高度**來呈現多行排列模式
 
 ###flex-wrap
 容器內部child換行，多行時藉由控制parent **寬度** / **高度** 實現
@@ -29,7 +32,7 @@
     flex-flow: column wrap
 
 ###justify-content
-容器內部主軸(X軸)對齊
+容器內部**單行**主軸(X軸)對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/justify-content.svg)
 
@@ -40,7 +43,7 @@
     justify-content: space-around 對齊主軸左右且每個item左右保有相同空間
  
 ###align-items
-容器內部側軸(Y軸)對齊
+容器內部**單行**側軸(Y軸)對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
 
@@ -51,7 +54,7 @@
     align-items: baseline 對齊文字基準線
 
 ###align-content
-容器內部多行對齊
+容器內部**多行**對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
 
@@ -73,6 +76,7 @@
 
 ###flex-basis
 取代item之width，預約空間
+
 *[注意]  flex-shrink屬性優先於width，但若兩者之一為auto，非auto之屬性優先*
 
     flex-basis: auto(default) 不指定 | <width> (100px, 50%, ...) 指定 | content 以內容計算
