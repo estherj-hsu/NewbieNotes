@@ -18,14 +18,16 @@
     flex-direction: column 縱向
     flex-direction: column-reverse 逆縱向
 
-> 當採**縱向**(column/column-reverse)排列時，需藉由控制**容器高度**來呈現多行排列模式
 
 ###flex-wrap
-容器內部child換行，多行時藉由控制parent **寬度** / **高度** 實現
+容器內部child換行
 
     flex-wrap: nowrap 單行
     flex-wrap: wrap 多行
     flex-wrap: wrap-reverse 逆向多行
+
+> 當採**橫向**(row/row-reverse)排列時，需藉由控制**容器寬度**來呈現多行排列模式
+> 當採**縱向**(column/column-reverse)排列時，需藉由控制**容器高度**來呈現多行排列模式
 
 ###flex-flow
 合併flex-direction與flex-wrap，共有4(方向)*3(換行)總組合方式
