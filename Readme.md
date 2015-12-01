@@ -7,6 +7,6 @@
    - Sass/SCSS
 
 * [Flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) last updated Dec 1, 2015
-   - Pinterest Grid with flexbox
+   - Pinterest Grid with flexbox [Demo](http://codepen.io/estherj-hsu/pen/bVXOMY)
 
 * Centering
