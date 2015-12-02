@@ -10,6 +10,8 @@
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * https://egghead.io/lessons/misc-flexbox-fundamentals
 * http://zh-tw.learnlayout.com/flexbox.html
+* http://flexboxfroggy.com/
+* http://tympanus.net/codrops/css_reference/flexbox
 
 ## Parent (wrap/container)
 
