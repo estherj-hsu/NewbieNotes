@@ -1,6 +1,7 @@
 # Flexbox
 
-[Pinterest Grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY) 實作
+**實作**
+* [Pinterest Grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY)
 
 **Reference**
 * https://css-tricks.com/using-flexbox/
