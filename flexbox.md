@@ -2,6 +2,14 @@
 
 [Pinterest Grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY) 實作
 
+**Reference**
+* https://css-tricks.com/using-flexbox/
+* http://www.w3.org/html/ig/zh/wiki/Css3-flexbox
+* http://css.doyoe.com/properties/flex/index.htm
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* https://egghead.io/lessons/misc-flexbox-fundamentals
+* http://zh-tw.learnlayout.com/flexbox.html
+
 ## Parent (wrap/container)
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-container.svg)
@@ -154,13 +162,3 @@
 	-moz-box-ordinal-group: 1 
 	-ms-flex-order: 1
 	order: 1
-
-
-
-##Reference
-* https://css-tricks.com/using-flexbox/
-* http://www.w3.org/html/ig/zh/wiki/Css3-flexbox
-* http://css.doyoe.com/properties/flex/index.htm
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* https://egghead.io/lessons/misc-flexbox-fundamentals
-* http://zh-tw.learnlayout.com/flexbox.html
