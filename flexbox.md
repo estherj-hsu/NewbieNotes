@@ -26,8 +26,8 @@
     flex-wrap: wrap 多行
     flex-wrap: wrap-reverse 逆向多行
 
-> 當採**橫向**(row/row-reverse)排列時，需藉由控制**容器寬度**來呈現多行排列模式
-> 當採**縱向**(column/column-reverse)排列時，需藉由控制**容器高度**來呈現多行排列模式
+> 當採**橫向**(row/row-reverse)排列時，需藉由控制容器**寬度**來呈現多行排列模式
+> 當採**縱向**(column/column-reverse)排列時，需藉由控制容器**高度**來呈現多行排列模式
 
 ###flex-flow
 合併flex-direction與flex-wrap，共有4(方向)*3(換行)總組合方式
@@ -81,36 +81,45 @@
 ###flex-basis
 取代item之width，預約空間
 
-*[注意]  flex-shrink屬性優先於width，但若兩者之一為auto，非auto之屬性優先*
-
     flex-basis: auto(default) 不指定 | <width> (100px, 50%, ...) 指定 | content 以內容計算
 
+> [注意]  flex-shrink屬性優先於width，但若兩者之一為auto，非auto之屬性優先
 
 ###flex-grow
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-grow.svg)
 
-主容器剩餘空間索取之擴大比例，default為0，代表皆不索取，數字代表索取之份量。
-假設容器寬度為500px，若flex-grow為0時，每個item寬度為500/3px；
-但若設定三個item寬度為100px，再針對其中一個itemA設定flex-grow為1，則itemA之寬度為100px(預設寬度)+200px(總剩餘寬度)。
-承上，若再設定itemB之flex-grow為3，則itemB寬度為100px+150px(總剩餘寬度200px中的3/4)，而A之寬度為100px+50px(總剩餘寬度200px中的1/4)
+主容器剩餘空間索取之擴大比例，default為0(代表皆不索取)，代表若主容器寬/高度大於各item寬/高度總和時，如何分配於各item，數字代表索取之份量。
+
+假設容器寬度為500px，且flex-grow為預設值0時，每個item寬度為500/3px；
+但若設定三個item寬度為100px，再針對其中一個itemA設定flex-grow為1，
+則itemA之寬度為100px(預設寬度) **+200px** (總剩餘寬度)。
+
+承上，若再設定itemB之flex-grow為3，
+則itemB寬度為100px **+ 150px**(總剩餘寬度200px中的3/4)，
+而A之寬度為100px **+ 50px**(總剩餘寬度200px中的1/4)。
 
     flex-grow: 0(default) | #(1, 2, 3, ...)
  
 ###flex-shrink
-主容器剩餘空間索取之縮小比例，default為1，代表若主容器寬度不足時，各item收縮比例皆相同，數字代表索取之份量。
-假設容器寬度為700px，若flex-shrink為1，且4個item預設寬度皆為200px，此時主容器寬度不足100px，預設情況(flex-shrink: 1)下，不足的100px平均由4個item吸收，因此每個item的寬度為200px-25px(100px/4)；
-承上，若再設定itemA之flex-shrink為2，則itemA之寬度為200px(預設寬度)+40px(不足寬度100px的2/5)。
+主容器剩餘空間吸收之縮小比例，default為1，代表若主容器寬/高度**不足時**，各item吸收比例皆相同，數字代表吸收之份量。
+
+假設容器寬度為700px，預設4個item的寬度皆為200px，
+此時主容器寬度不足100px(200px*4=800px)，
+預設情況(flex-shrink: 1)下，不足的100px平均由4個item吸收，
+因此每個item的寬度為200px **- 25px**(不足寬度100px的1/4)。
+
+承上，若再指定itemA之flex-shrink為2，則itemA之寬度為200px(預設寬度) **- 40px**(不足寬度100px的2/5)。
 
     flex-shrink: 1(default) | #(1, 2, 3, ...)
 
 ###flex
-整合flex-grow、flex-shrink、flex-basis之屬性
+整合**flex-grow**、**flex-shrink**、**flex-basis**之屬性，依序以空格區隔
 
     flex: 0 1 auto(default) | none 不指定
 
 ###align-self
-針對item之側軸對齊設定，可取代主容器之align-item屬性
+針對item之側軸對齊設定，**可取代主容器之align-item屬性**
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
 
