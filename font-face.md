@@ -2,6 +2,10 @@
 
 **Reference**
  - https://css-tricks.com/snippets/css/using-font-face/
+ - https://css-tricks.com/snippets/css/css-font-families/
+ - https://www.google.com/fonts/earlyaccess
+ - https://dev.opera.com/articles/better-font-face/
+
 
     // define a custom font
     @font-face {
