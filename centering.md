@@ -19,9 +19,11 @@
     vertical-align: middle
     
     // Div
-    top: 50%
-    position: absolute (並設定容器position: relative)
+    top: 50% (不論child高度是否固定情況下皆可用)
+    position: absolute (並設定parent容器position: relative)
 
+
+----
 ##display
 
 * display: none 不可見、不佔空間
