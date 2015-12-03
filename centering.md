@@ -1,5 +1,9 @@
 #Centering
 
+**Reference**
+* https://css-tricks.com/centering-css-complete-guide/
+* http://howtocenterincss.com/
+
 ##Horizontal
 
     // Text
