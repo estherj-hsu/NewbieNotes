@@ -5,6 +5,7 @@
  - https://css-tricks.com/snippets/css/css-font-families/
  - https://www.google.com/fonts/earlyaccess
  - https://dev.opera.com/articles/better-font-face/
+ - http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
 
 ##usage
 
@@ -50,7 +51,8 @@
       // cwTeXYen 圓體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
       
-> Other languages: https://www.google.com/fonts/earlyaccess
+> Other (Korean or Japanese) languages: https://www.google.com/fonts/earlyaccess
+
 
 ##Browser Support
 |  font format   |   Chrome  |  IE Edge  |  Firefox  |  Safari  | Opera
@@ -62,3 +64,30 @@
 | EOT | x | 12.0| x | x | x |
 
 > WOFF/WOFF2: Web Open Font Format
+
+
+##Font Families
+
+ - **Sans-Serif**
+Arial, sans-serif;
+Helvetica, sans-serif;
+Gill Sans, sans-serif;
+Lucida, sans-serif;
+Helvetica Narrow, sans-serif;
+sans-serif;
+
+ - **Serif**
+Times, serif;
+Times New Roman, serif;
+Palatino, serif;
+Bookman, serif;
+New Century Schoolbook, serif;
+serif;
+
+ - **Monospace**
+Andale Mono, monospace;
+Courier New, monospace;
+Courier, monospace;
+Lucidatypewriter, monospace;
+Fixed, monospace;
+monospace;
