@@ -1,9 +1,7 @@
 #font-face
 
 **Reference**
-
  - https://css-tricks.com/snippets/css/using-font-face/
-
 
     // define a custom font
     @font-face {
@@ -46,7 +44,7 @@
       
       // cwTeXYen 圓體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
-
+      
 > Other languages: https://www.google.com/fonts/earlyaccess
 
 ##Browser Support
