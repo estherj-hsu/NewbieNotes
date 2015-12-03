@@ -10,3 +10,5 @@
    - Pinterest Grid with flexbox [Demo](http://codepen.io/estherj-hsu/pen/bVXOMY)
 
 * [Centering](https://github.com/estherj-hsu/NewbieNotes/blob/master/centering.md) last updatd Dec 3, 2015
+
+* font-face
