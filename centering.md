@@ -27,6 +27,8 @@
 **Reference**
 * https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8
 
+Refer to [flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) note. :")
+
 ----
 ##display
 
