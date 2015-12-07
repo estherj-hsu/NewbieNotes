@@ -12,6 +12,8 @@
 * http://zh-tw.learnlayout.com/flexbox.html
 * http://flexboxfroggy.com/
 * http://tympanus.net/codrops/css_reference/flexbox
+* https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.txc4ylkrf
+* https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8
 
 ## Parent (wrap/container)
 
