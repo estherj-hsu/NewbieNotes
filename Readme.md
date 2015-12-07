@@ -11,4 +11,4 @@
 
 * [Centering](https://github.com/estherj-hsu/NewbieNotes/blob/master/centering.md) last updatd Dec 3, 2015
 
-* [font-face](https://github.com/estherj-hsu/NewbieNotes/blob/master/font.md) last updatd Dec 4, 2015
+* [font-face](https://github.com/estherj-hsu/NewbieNotes/blob/master/font.md) last updatd Dec 7, 2015
