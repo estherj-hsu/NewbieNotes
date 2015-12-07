@@ -68,6 +68,18 @@
 
 > WOFF/WOFF2: Web Open Font Format
 
+##漢字標準格式
+
+Source: 
+* https://css.hanzi.co/manual/
+* https://css.hanzi.co/manual/sass-api
+
+
+    // Sass
+    @import '[node_modules]/han-css/index';
+
+
+
 
 ##Font Families
 
