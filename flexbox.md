@@ -167,3 +167,24 @@
 	-moz-box-ordinal-group: 1 
 	-ms-flex-order: 1
 	order: 1
+
+###Bugs in IE10, IE11
+
+**Reference**
+ - [Flexbugs](https://github.com/philipwalton/flexbugs)
+ - [Normalizing Cross-browser Flexbox Bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
+
+**Bugs**
+
+ - 子項目設定min-height情況下，容器的高度設定將會被忽略 [[solution](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)](fixed in Edge)
+ - 子項目不允許無單位的flex-basis [[solution](https://github.com/philipwalton/flexbugs#4-flex-shorthand-declarations-with-unitless-flex-basis-values-are-ignored)](fixed in Edge)
+ - 子項目圖片自動調整比例問題[[solution](https://github.com/philipwalton/flexbugs#5-column-flex-items-dont-always-preserve-intrinsic-aspect-ratios)](fixed in Edge)
+ - flex-basis: auto超出容器大小（包含::before/after）[[solution](https://github.com/philipwalton/flexbugs#7-flex-basis-doesnt-account-for-box-sizingborder-box)](fixed in Edge)
+ - inline元件無法成為子項目
+
+**Extra**
+
+    box-sizing: content-box(default) | border-box | initial | inherit
+
+> **content-box:** element size =  width/height + padding + border
+> **border-box:** element size =  width/height
