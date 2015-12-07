@@ -184,6 +184,8 @@
 
 **Extra**
 
+![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2010/09/widthbox.png)
+
     box-sizing: content-box(default) | border-box | initial | inherit
 
 > **content-box:** element size =  width/height + padding + border
