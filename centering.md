@@ -22,6 +22,9 @@
     top: 50% (不論child高度是否固定情況下皆可用)
     position: absolute (並設定parent容器position: relative)
 
+##Flexbox
+**Reference**
+* https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8
 
 ----
 ##display
