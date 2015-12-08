@@ -193,4 +193,5 @@
     box-sizing: content-box(default) | border-box | initial | inherit
 
 > **content-box:** element size =  width/height + padding + border
+> 
 > **border-box:** element size =  width/height
