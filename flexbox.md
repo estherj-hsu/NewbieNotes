@@ -4,16 +4,20 @@
 * [Pinterest Grid with Flexbox](http://codepen.io/estherj-hsu/pen/bVXOMY)
 
 **Reference**
-* https://css-tricks.com/using-flexbox/
-* http://www.w3.org/html/ig/zh/wiki/Css3-flexbox
-* http://css.doyoe.com/properties/flex/index.htm
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* https://egghead.io/lessons/misc-flexbox-fundamentals
-* http://zh-tw.learnlayout.com/flexbox.html
-* http://flexboxfroggy.com/
-* http://tympanus.net/codrops/css_reference/flexbox
-* https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.txc4ylkrf
-* https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8
+* [CSS-Tricks: Flexbox](https://css-tricks.com/using-flexbox/)
+* [W3 - Flexbox](http://www.w3.org/html/ig/zh/wiki/Css3-flexbox)
+* [CSS參考手冊 - Flexbox](http://css.doyoe.com/properties/flex/index.htm)
+* [CSS-Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Fundamentals (video)](https://egghead.io/lessons/misc-flexbox-fundamentals)
+* [Flexbox版面配置](http://zh-tw.learnlayout.com/flexbox.html)
+* [Flexbox Froggy (learning tool)](http://flexboxfroggy.com/)
+* [CSS Reference - Flexbox](http://tympanus.net/codrops/css_reference/flexbox)
+* [Flexbox Grid Finesse](https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.txc4ylkrf)
+* [Flexbox’s Best-Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8)
+* [Vertical Centering (flexbox)](https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/)
+* [What is Flexbox](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef#.4wvachxkk)
+* [Floats, Inline Block or Display Table? Or Flexbox?](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/)
+* [CSS-Tricks: Alignment Shifting Wrapping](https://css-tricks.com/useful-flexbox-technique-alignment-shifting-wrapping/)
 
 ## Parent (wrap/container)
 
@@ -96,7 +100,7 @@
 
     flex-basis: auto(default) 不指定 | <width> (100px, 50%, ...) 指定 | content 以內容計算
 
-> [注意]  flex-shrink屬性優先於width，但若兩者之一為auto，非auto之屬性優先
+> [注意]  flex-shrink屬性**優先**於width，但若兩者之一值為auto，則非auto之屬性優先
 
 ###flex-grow
 
@@ -180,7 +184,7 @@
  - 子項目不允許無單位的flex-basis [[solution](https://github.com/philipwalton/flexbugs#4-flex-shorthand-declarations-with-unitless-flex-basis-values-are-ignored)](fixed in Edge)
  - 子項目圖片自動調整比例問題[[solution](https://github.com/philipwalton/flexbugs#5-column-flex-items-dont-always-preserve-intrinsic-aspect-ratios)](fixed in Edge)
  - flex-basis: auto超出容器大小（包含::before/after）[[solution](https://github.com/philipwalton/flexbugs#7-flex-basis-doesnt-account-for-box-sizingborder-box)](fixed in Edge)
- - inline元件無法成為子項目
+ - inline元件無法成為子項目[[solution](https://github.com/philipwalton/flexbugs#12-inline-elements-are-not-treated-as-flex-items)](fixed in Edge)
 
 **Extra**
 
@@ -189,5 +193,4 @@
     box-sizing: content-box(default) | border-box | initial | inherit
 
 > **content-box:** element size =  width/height + padding + border
-> 
 > **border-box:** element size =  width/height
