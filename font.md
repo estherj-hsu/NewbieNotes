@@ -80,7 +80,9 @@ Source:
     // Sass
     @import '[node_modules]/han-css/index';
 
+##amazeUI 簡體中文字體定義
 
+    font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans","wenquanyi micro hei","Hiragino Sans GB", "Hiragino Sans GB W3", Arial, sans-serif;
 
 
 ##Font Families
