@@ -19,6 +19,8 @@
  - [What is Flexbox](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef#.4wvachxkk)
  - [Floats, Inline Block or Display Table? Or Flexbox?](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/)
  - [Responsive Multi-Column Lists with Flexbox](http://fourword.fourkitchens.com/article/responsive-multi-column-lists-flexbox)
+ - [Flexbox Grid](http://callmenick.com/post/flexbox-examples)
+ - [Flexbox.help](http://flexbox.help/)
 
 ## Parent (wrap/container)
 
