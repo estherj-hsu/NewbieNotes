@@ -6,7 +6,7 @@
    - CSS3/HTML5
    - Sass/SCSS
 
-* [Flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) last updated: Dec 8, 2015
+* [Flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) last updated: Dec 10, 2015
    - Pinterest Grid with flexbox [Demo](http://codepen.io/estherj-hsu/pen/bVXOMY)
 
 * [Centering](https://github.com/estherj-hsu/NewbieNotes/blob/master/centering.md) last updatd: Dec 7, 2015
