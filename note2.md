@@ -34,7 +34,7 @@
 
 **Reference**
  - [CSS Modules](https://github.com/css-modules/css-modules)
- - [CSS Modules: Welcome to the Future](ttp://glenmaddern.com/articles/css-modules)
+ - [CSS Modules: Welcome to the Future](http://glenmaddern.com/articles/css-modules)
 
 -----------
 
