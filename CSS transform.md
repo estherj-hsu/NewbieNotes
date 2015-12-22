@@ -70,7 +70,7 @@
 
 ![enter image description here](http://image.zhangxinxu.com/image/blog/201206/css-transforms-matrix5.gif)
 
-由參考點依據數學變形矩陣 (transformation matrix) 的 6 個參數值產生 2D 變形。
+由參考點依據數學變形矩陣 (transformation matrix) 的 6 個參數值產生 2D 變形。(很恐怖，不要研究。)
 
     transform:matrix(0,1.611,1.611,0.278,5,5)
 
@@ -114,4 +114,18 @@
       transform-origin: 0 0
 
 ##perspective
-3D transform
+以透視角度控制3D效果
+
+    perspective: 150px 視角
+    perspectove: bottom left 基準點控制
+
+> perspectiv與perspective-origin是針對子元素做控制，非元素本身，在父層下perspective後針對子層做transform設定即可
+
+    //parent
+    .wrap
+      perspective: 150px
+    
+    //child
+    .item
+      transform: rotateX(30deg) scale(1.5)
+      
