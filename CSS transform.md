@@ -70,13 +70,13 @@
 
 ![enter image description here](http://image.zhangxinxu.com/image/blog/201206/css-transforms-matrix5.gif)
 
-由參考點依據數學變形矩陣 (transformation matrix) 的 6 個參數值產生 2D 變形。(很恐怖，不要研究。)
+由參考點依據數學變形矩陣 (transformation matrix) 的 6 個參數值產生 2D 變形。(很恐怖。)
 
     transform:matrix(0,1.611,1.611,0.278,5,5)
 
 > Reference
 >  - [Understanding the CSS Transforms Matrix](https://dev.opera.com/articles/understanding-the-css-transforms-matrix/)
->   - [Matrix Construction Set](http://www.useragentman.com/matrix/)
+>  - [Matrix Construction Set](http://www.useragentman.com/matrix/)
 
 ##transform-origin
 
