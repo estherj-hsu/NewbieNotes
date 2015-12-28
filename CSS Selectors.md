@@ -178,8 +178,8 @@ HTML標籤
 
 ####:nth-of-type(n) & :nth-last-of-type(n)
 
-    :nth-of-type 同階層下相同樣式的第N子項目
-    :nth-of-type 同階層下相同樣式的倒數第N個子項目
+    :nth-of-type(n) 同階層下相同樣式的第N子項目
+    :nth-last-of-type(n) 同階層下相同樣式的倒數第N個子項目
 
 ###Target Pseudo-class 目標虛擬類別 :target
 
