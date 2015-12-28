@@ -19,4 +19,4 @@
 
 * [CSS Transform](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS%20transform.md) last updated: Dec 22, 2015
 
-* [CSS Selectors](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS%20Selectors.md) last updated: Dec 22, 2015
+* [CSS Selectors](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS%20Selectors.md) last updated: Dec 28, 2015
