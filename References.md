@@ -1,5 +1,7 @@
 ## SASS, CSS
 
+ - [The Benefits of Inheritance via @Extend in Sass](http://www.sitepoint.com/the-benefits-of-inheritance-via-extend-in-sass/) 2016/01/21
+ - [CSS Specificity is Base-Infinite](https://css-tricks.com/css-specificity-is-base-infinite/) 2016/01/21
  - [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js) 2016/01/18
  - [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/) 2016/01/18
  - [The New Defaults: A Sass Color Thesaurus](http://thenewcode.com/927/The-New-Defaults-A-Sass-Color-Thesaurus) 2016/01/18
@@ -10,4 +12,5 @@
 
 ## Others
 
+ - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
  - [THE BEST OF WHAT’S NEW FOR DESIGNERS, 2015](http://www.webdesignerdepot.com/2015/12/the-best-of-whats-new-for-designers-2015/) 2016/01/14
