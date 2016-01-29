@@ -10,6 +10,18 @@
  - [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS](https://youtu.be/ERB1TJBn32c) 2016/01/15
  - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/) 2016/01/15
 
+## Front-End 
+ - [20+ Docs and Guides for Front-end Developers (No. 7)](http://www.sitepoint.com/20-docs-guides-front-end-developers-7/) 2016/01/29
+ - [20+ Docs and Guides for Front-end Developers (No. 6)](http://www.sitepoint.com/20-docs-guides-front-end-developers-6/) 2015
+ - [20+ Docs and Guides for Front-end Developers (No. 5)](http://www.sitepoint.com/20-docs-guides-front-end-developers-5/) 2015
+ - [20+ Docs and Guides for Front-end Developers (No. 4)](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/) 2015
+ - [20 More Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/) 2015
+ - [Another 20 Docs and Guides for Front-End Developers](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/) 2015
+ - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
+
+## Web Design
+ - [8 MORE PREDICTIONS FOR WEB DESIGN IN 2016](http://www.webdesignerdepot.com/2016/01/8-more-predictions-for-web-design-in-2016/) 2016/01/29
+
 ## Others
 
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
