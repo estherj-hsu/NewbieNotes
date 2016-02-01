@@ -1,5 +1,7 @@
 ## SASS, CSS
 
+ - [Extending Sass with PostCSS](http://www.zachleat.com/web/critical-webfonts/) 2016/02/01
+ - [Editing Images in CSS](http://www.thedotpost.com/2015/12/una-kravets-editing-images-in-css) 2016/02/01
  - [The Benefits of Inheritance via @Extend in Sass](http://www.sitepoint.com/the-benefits-of-inheritance-via-extend-in-sass/) 2016/01/21
  - [CSS Specificity is Base-Infinite](https://css-tricks.com/css-specificity-is-base-infinite/) 2016/01/21
  - [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js) 2016/01/18
@@ -20,9 +22,13 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design
+ - [ESSENTIAL DESIGN TRENDS, JANUARY 2016](http://www.webdesignerdepot.com/2016/01/essential-design-trends-january-2016/) 2016/02/01
  - [8 MORE PREDICTIONS FOR WEB DESIGN IN 2016](http://www.webdesignerdepot.com/2016/01/8-more-predictions-for-web-design-in-2016/) 2016/01/29
+ - [THE BEST OF WHAT’S NEW FOR DESIGNERS, 2015](http://www.webdesignerdepot.com/2015/12/the-best-of-whats-new-for-designers-2015/) 2016/01/14
 
 ## Others
 
+ - [CRITICAL WEB FONTS](http://www.zachleat.com/web/critical-webfonts/) 2016/02/01
+ - [React的设计哲学-简单之美](http://mp.weixin.qq.com/s?__biz=MzA5MzE4NDA4OQ==&mid=403253585&idx=1&sn=6fc6de5b389eb32020275f3e0407c1eb&scene=0#wechat_redirect)
+ - [民工精髓Blog](https://github.com/xufei/blog) 2016/02/01
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
- - [THE BEST OF WHAT’S NEW FOR DESIGNERS, 2015](http://www.webdesignerdepot.com/2015/12/the-best-of-whats-new-for-designers-2015/) 2016/01/14
