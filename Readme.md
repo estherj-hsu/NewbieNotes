@@ -1,6 +1,10 @@
 
 #My Newbie Notes
 
+* [SASS](https://github.com/estherj-hsu/NewbieNotes/blob/master/SASS.md) last updated: Feb 9, 2016
+
+* [MVCSS](https://github.com/estherj-hsu/NewbieNotes/blob/master/MVCSS.md) last updated: Feb 9, 2016
+
 * [Reference](https://github.com/estherj-hsu/NewbieNotes/blob/master/References.md) last updated: Jan 18, 2016
 
 * [CSS Selectors](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS%20Selectors.md) last updated: Dec 28, 2015
@@ -11,10 +15,10 @@
    - PostCSS
    - CSS Modules
 
-* [Note](https://github.com/estherj-hsu/NewbieNotes/blob/master/note.md) last updated: Oct 19, 2015
+* [Note](https://github.com/estherj-hsu/NewbieNotes/blob/master/note.md) last updated: Feb 9, 201
    - Git
    - CSS3/HTML5
-   - Sass/SCSS
+   - Sass/SCSS (take apart to SASS.md)
 
 
 * [Flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) last updated: Dec 10, 2015
