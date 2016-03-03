@@ -1,10 +1,10 @@
 ## SASS, CSS
 
  - [Foundation 6: The New Flex Grid](http://www.sitepoint.com/foundation-6-the-new-flex-grid/) 2016/03/03
-	 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid/)
-	 - [Grid by Example](http://gridbyexample.com/)
  - [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/) 2016/03/03
  - [An Introduction to the CSS Grid Layout Module](http://www.sitepoint.com/introduction-css-grid-layout-module/) 2016/03/03
+	 - [CSS Grid Layout Module Level 1](https://drafts.csswg.org/css-grid/)
+	 - [Grid by Example](http://gridbyexample.com/)
  - [Mixins Better for Performance](http://csswizardry.com/2016/02/mixins-better-for-performance/) 2016/03/01
  - [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.kauic0h7o) 2016/02/22
  - [GETTING STARTED WITH FLEXBOX GRID SYSTEMS](http://www.webdesignerdepot.com/2016/02/getting-started-with-flexbox-grid-systems/) 2016/02/18
