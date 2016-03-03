@@ -1,5 +1,8 @@
 ## SASS, CSS
 
+ - [Foundation 6: The New Flex Grid](http://www.sitepoint.com/foundation-6-the-new-flex-grid/) 2016/03/03
+ - [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/) 2016/03/03
+ - [An Introduction to the CSS Grid Layout Module](http://www.sitepoint.com/introduction-css-grid-layout-module/) 2016/03/03
  - [Mixins Better for Performance](http://csswizardry.com/2016/02/mixins-better-for-performance/) 2016/03/01
  - [HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.kauic0h7o) 2016/02/22
  - [GETTING STARTED WITH FLEXBOX GRID SYSTEMS](http://www.webdesignerdepot.com/2016/02/getting-started-with-flexbox-grid-systems/) 2016/02/18
@@ -28,12 +31,14 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design
+ - [DESIGN TRENDS: FLAT DESIGN 2.0](http://www.webdesignerdepot.com/2016/02/design-trends-flat-design-2-0/) 2016/03/03
  - [ESSENTIAL DESIGN TRENDS, JANUARY 2016](http://www.webdesignerdepot.com/2016/01/essential-design-trends-january-2016/) 2016/02/01
  - [8 MORE PREDICTIONS FOR WEB DESIGN IN 2016](http://www.webdesignerdepot.com/2016/01/8-more-predictions-for-web-design-in-2016/) 2016/01/29
  - [THE BEST OF WHAT’S NEW FOR DESIGNERS, 2015](http://www.webdesignerdepot.com/2015/12/the-best-of-whats-new-for-designers-2015/) 2016/01/14
 
 ## Others
 
+ - [Do You Know These Eight HTML5 Tags?](http://www.sitepoint.com/eight-html5-tags-you-might-not-know/) 2016/03/03
  - [CRITICAL WEB FONTS](http://www.zachleat.com/web/critical-webfonts/) 2016/02/01
  - [React的设计哲学-简单之美](http://mp.weixin.qq.com/s?__biz=MzA5MzE4NDA4OQ==&mid=403253585&idx=1&sn=6fc6de5b389eb32020275f3e0407c1eb&scene=0#wechat_redirect)
  - [民工精髓Blog](https://github.com/xufei/blog) 2016/02/01
