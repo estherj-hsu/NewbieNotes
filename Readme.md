@@ -5,7 +5,7 @@
 
 * [MVCSS](https://github.com/estherj-hsu/NewbieNotes/blob/master/MVCSS.md) last updated: Feb 9, 2016
 
-* [Reference](https://github.com/estherj-hsu/NewbieNotes/blob/master/References.md) last updated: Jan 18, 2016
+* [Reference](https://github.com/estherj-hsu/NewbieNotes/blob/master/References.md) last updated: Mar 3, 2016
 
 * [CSS Selectors](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS%20Selectors.md) last updated: Dec 28, 2015
 
