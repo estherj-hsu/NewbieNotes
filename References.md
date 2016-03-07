@@ -41,6 +41,7 @@
 
 ## Others
 
+ - [Reactions: Not everything in life is Likable](https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f#.v9ove0c47) 2016/03/07
  - [Do You Know These Eight HTML5 Tags?](http://www.sitepoint.com/eight-html5-tags-you-might-not-know/) 2016/03/03
  - [CRITICAL WEB FONTS](http://www.zachleat.com/web/critical-webfonts/) 2016/02/01
  - [React的设计哲学-简单之美](http://mp.weixin.qq.com/s?__biz=MzA5MzE4NDA4OQ==&mid=403253585&idx=1&sn=6fc6de5b389eb32020275f3e0407c1eb&scene=0#wechat_redirect)
