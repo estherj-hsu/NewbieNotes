@@ -1,5 +1,7 @@
 ## SASS, CSS
 
+ - [SASS, LESS 退散，原生 CSS 可以使用變數啦！](http://muki.tw/tech/native-css-variables/) 2016/03/08
+	 - [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
  - [css属性的选择对动画性能的影响](http://web.jobbole.com/85238/) 2016/03/07
  - [Foundation 6: The New Flex Grid](http://www.sitepoint.com/foundation-6-the-new-flex-grid/) 2016/03/03
  - [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/) 2016/03/03
