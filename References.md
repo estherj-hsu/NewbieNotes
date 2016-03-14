@@ -1,5 +1,6 @@
 ## SASS, CSS
 
+ - [Use `rem` for Global Sizing; Use `em` for Local Sizing](https://css-tricks.com/rem-global-em-local/) 2016/03/14
  - [SASS, LESS 退散，原生 CSS 可以使用變數啦！](http://muki.tw/tech/native-css-variables/) 2016/03/08
 	 - [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
  - [css属性的选择对动画性能的影响](http://web.jobbole.com/85238/) 2016/03/07
@@ -26,6 +27,8 @@
  - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/) 2016/01/15
 
 ## Front-End 
+ - [Instagram-style filters in HTML5 Canvas](https://www.viget.com/articles/instagram-style-filters-in-html5-canvas) 2016/03/14
+ - [前端工程師分享：十大好用易上手 HTML 5 前端框架](http://buzzorange.com/techorange/2016/03/11/html5-frames/) 2016/03/14
  - [2015年末必备前端工具集](http://zxc0328.github.io/2015/12/28/2015-javascript-tools/) 2016/03/03
  - [20+ Docs and Guides for Front-end Developers (No. 7)](http://www.sitepoint.com/20-docs-guides-front-end-developers-7/) 2016/01/29
  - [20+ Docs and Guides for Front-end Developers (No. 6)](http://www.sitepoint.com/20-docs-guides-front-end-developers-6/) 2015
@@ -36,6 +39,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design
+ - [POPULAR DESIGN NEWS OF THE WEEK: MARCH 7, 2016 – MARCH 13, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-march-7-2016-march-13-2016/) 2016/03/14
  - [POPULAR DESIGN NEWS OF THE WEEK: FEBRUARY 29, 2016 – MARCH 6, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-february-29-2016-march-6-2016/) 2016/03/07
  - [DESIGN TRENDS: FLAT DESIGN 2.0](http://www.webdesignerdepot.com/2016/02/design-trends-flat-design-2-0/) 2016/03/03
  - [ESSENTIAL DESIGN TRENDS, JANUARY 2016](http://www.webdesignerdepot.com/2016/01/essential-design-trends-january-2016/) 2016/02/01
