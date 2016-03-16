@@ -1,5 +1,6 @@
 ## SASS, CSS
 
+ - [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/?utm_source=CSS-Weekly&utm_campaign=Issue-206&utm_medium=web) 2016/03/16
  - [Use `rem` for Global Sizing; Use `em` for Local Sizing](https://css-tricks.com/rem-global-em-local/) 2016/03/14
  - [SASS, LESS 退散，原生 CSS 可以使用變數啦！](http://muki.tw/tech/native-css-variables/) 2016/03/08
 	 - [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
@@ -39,6 +40,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design
+ - [A Practical Introduction to Material Design Lite by Google](http://www.sitepoint.com/practical-introduction-material-design-lite-google/) 2016/03/16
  - [POPULAR DESIGN NEWS OF THE WEEK: MARCH 7, 2016 – MARCH 13, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-march-7-2016-march-13-2016/) 2016/03/14
  - [POPULAR DESIGN NEWS OF THE WEEK: FEBRUARY 29, 2016 – MARCH 6, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-february-29-2016-march-6-2016/) 2016/03/07
  - [DESIGN TRENDS: FLAT DESIGN 2.0](http://www.webdesignerdepot.com/2016/02/design-trends-flat-design-2-0/) 2016/03/03
