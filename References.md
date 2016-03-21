@@ -1,5 +1,8 @@
 ## SASS, CSS
 
+ - [CSS Gradient详解](http://www.alloyteam.com/2016/03/css-gradient/) 2016/03/21
+ - [CSS镂空图片transition过渡初加载背景色块问题解决](http://www.zhangxinxu.com/wordpress/2016/02/css-hollow-image-for-transition-background-color-problem-fixed/) 2016/03/21
+ - [Cleaning Up a CSS Codebase](http://www.thenewslens.com/post/299974/) 2016/03/21
  - [Content & Display Patterns with Expressive CSS](http://johnpolacek.com/content-display-patterns/) 2016/03/18
  - [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/?utm_source=CSS-Weekly&utm_campaign=Issue-206&utm_medium=web) 2016/03/16
  - [Use `rem` for Global Sizing; Use `em` for Local Sizing](https://css-tricks.com/rem-global-em-local/) 2016/03/14
@@ -41,6 +44,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design
+ - [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.3rmnz6ae0) 2016/03/21
  - [A Practical Introduction to Material Design Lite by Google](http://www.sitepoint.com/practical-introduction-material-design-lite-google/) 2016/03/16
  - [POPULAR DESIGN NEWS OF THE WEEK: MARCH 7, 2016 – MARCH 13, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-march-7-2016-march-13-2016/) 2016/03/14
  - [POPULAR DESIGN NEWS OF THE WEEK: FEBRUARY 29, 2016 – MARCH 6, 2016](http://www.webdesignerdepot.com/2016/03/popular-design-news-of-the-week-february-29-2016-march-6-2016/) 2016/03/07
@@ -51,6 +55,11 @@
 
 ## Others
 
+ - [给你的色彩重命名——红色篇](http://www.ifeiwu.com/blog/design/1372) 2016/03/21
+ - [给你的色彩重命名——橙色篇](http://www.ifeiwu.com/blog/design/1374) 2016/03/21
+ - [给你的色彩重命名——黄色篇](http://www.ifeiwu.com/blog/design/1376) 2016/03/21
+ - [给你的色彩重命名——綠色篇](http://www.ifeiwu.com/blog/story/1378) 2016/03/21
+ - [给你的色彩重命名——藍色篇](http://www.ifeiwu.com/blog/design/1380) 2016/03/21
  - [Reactions: Not everything in life is Likable](https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f#.v9ove0c47) 2016/03/07
  - [Do You Know These Eight HTML5 Tags?](http://www.sitepoint.com/eight-html5-tags-you-might-not-know/) 2016/03/03
  - [CRITICAL WEB FONTS](http://www.zachleat.com/web/critical-webfonts/) 2016/02/01
