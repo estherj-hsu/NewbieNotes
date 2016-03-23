@@ -1,5 +1,8 @@
 ## SASS, CSS
 
+ - [On :not and Specificity](http://bitsofco.de/on-not-and-specificity/) 2016/03/23
+ - [Web typography is broken. Here’s how we can fix it](http://www.studiothick.com/essays/web-typography-is-broken) 2016/03/23
+ - [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/) 2016/03/23
  - [CSS Gradient详解](http://www.alloyteam.com/2016/03/css-gradient/) 2016/03/21
  - [CSS镂空图片transition过渡初加载背景色块问题解决](http://www.zhangxinxu.com/wordpress/2016/02/css-hollow-image-for-transition-background-color-problem-fixed/) 2016/03/21
  - [Cleaning Up a CSS Codebase](http://www.thenewslens.com/post/299974/) 2016/03/21
