@@ -1,5 +1,6 @@
 ## SASS, CSS
 
+ - [How Good Are Your HTML and CSS Comments?](http://www.sitepoint.com/how-good-are-your-html-and-css-comments/) 2016/03/24
  - [On :not and Specificity](http://bitsofco.de/on-not-and-specificity/) 2016/03/23
  - [Web typography is broken. Here’s how we can fix it](http://www.studiothick.com/essays/web-typography-is-broken) 2016/03/23
  - [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/) 2016/03/23
@@ -59,6 +60,7 @@
 
 ## Others
 
+ - [Canvas vs. SVG: Choosing the Right Tool for the Job](http://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/) 2016/03/24
  - [给你的色彩重命名——红色篇](http://www.ifeiwu.com/blog/design/1372) 2016/03/21
  - [给你的色彩重命名——橙色篇](http://www.ifeiwu.com/blog/design/1374) 2016/03/21
  - [给你的色彩重命名——黄色篇](http://www.ifeiwu.com/blog/design/1376) 2016/03/21
