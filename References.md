@@ -54,6 +54,8 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+ - [Essential design trends, March 2016](http://www.webdesignerdepot.com/2016/03/essential-design-trends-march-2016/) 2016/03/29
+ - [Everything You Need to Know About HD Design](http://designshack.net/articles/graphics/everything-you-need-to-know-about-hd-design/) 2016/03/29
  - [7 Free UX E-Books Worth Reading](http://www.tuicool.com/articles/FB7zY3) 2016/03/22
  - [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.3rmnz6ae0) 2016/03/21
  - [A Practical Introduction to Material Design Lite by Google](http://www.sitepoint.com/practical-introduction-material-design-lite-google/) 2016/03/16
