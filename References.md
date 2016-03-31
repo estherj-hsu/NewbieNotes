@@ -1,5 +1,9 @@
 ## SASS, CSS
 
+ - [How to work with SVG icons](http://fvsch.com/code/svg-icons/how-to/) 2016/03/31
+ - [Why I don’t use CSS preprocessors](http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/) 2016/03/31
+ - [Annotating Your (Critical) CSS](https://css-tricks.com/annotating-critical-css/) 2016/03/31
+ - [Image decorations for object-fit](http://fvsch.com/code/object-fit-decoration/) 2016/03/31
  - [Sneak Peek Into The Future: CSS Selectors, Level 4](https://www.smashingmagazine.com/2013/01/sneak-peek-future-selectors-level-4/) 2016/03/30
  - [CSS Typography: Kerning, Ligatures, Swashes & Small-Caps](https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-caps) 2016/03/28
  - [Accessible, Simple, Responsive Tables](https://css-tricks.com/accessible-simple-responsive-tables/) 2016/03/28
@@ -55,6 +59,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+ - [Designing for the Web: Are There Colors You Should Avoid?](http://designshack.net/articles/ux-design/designing-for-the-web-are-there-colors-you-should-avoid/) 2016/03/31
  - [Essential design trends, March 2016](http://www.webdesignerdepot.com/2016/03/essential-design-trends-march-2016/) 2016/03/29
  - [Everything You Need to Know About HD Design](http://designshack.net/articles/graphics/everything-you-need-to-know-about-hd-design/) 2016/03/29
  - [7 Free UX E-Books Worth Reading](http://www.tuicool.com/articles/FB7zY3) 2016/03/22
