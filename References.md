@@ -1,5 +1,13 @@
 ## SASS, CSS
 
+ - [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/) 2016/04/12
+ - [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm) 2016/04/11
+ - [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth) 2016/04/11
+ - [CSS AND SCALABILITY](http://mrmrs.io/writing/2016/03/24/scalable-css/) 2016/04/11
+ - [What is the Definition of a “CSS Hack”?](http://www.sitepoint.com/what-is-the-definition-of-a-css-hack/) 2016/04/11
+ - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) 2016/04/11
+ - [CSS3 Columns:比table更好用的分列式布局方法](http://www.webhek.com/css3-columns) 2016/04/11
+	 - [CSS3多列布局(columns)的用法](http://www.webhek.com/css3-multi-columns)
  - [简单了解CSS3的all属性](http://www.zhangxinxu.com/wordpress/2016/03/know-about-css3-all/) 2016/04/01
  - [How to work with SVG icons](http://fvsch.com/code/svg-icons/how-to/) 2016/03/31
  - [Why I don’t use CSS preprocessors](http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/) 2016/03/31
@@ -60,6 +68,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+ - [7 signs your design style is out of date](http://thenextweb.com/dd/2016/04/05/7-signs-design-style-date/?ref=webdesignernews.com)
  - [Designing for the Web: Are There Colors You Should Avoid?](http://designshack.net/articles/ux-design/designing-for-the-web-are-there-colors-you-should-avoid/) 2016/03/31
  - [Essential design trends, March 2016](http://www.webdesignerdepot.com/2016/03/essential-design-trends-march-2016/) 2016/03/29
  - [Everything You Need to Know About HD Design](http://designshack.net/articles/graphics/everything-you-need-to-know-about-hd-design/) 2016/03/29
@@ -87,3 +96,6 @@
  - [React的设计哲学-简单之美](http://mp.weixin.qq.com/s?__biz=MzA5MzE4NDA4OQ==&mid=403253585&idx=1&sn=6fc6de5b389eb32020275f3e0407c1eb&scene=0#wechat_redirect)
  - [民工精髓Blog](https://github.com/xufei/blog) 2016/02/01
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
+
+## Tools
+ - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
