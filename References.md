@@ -10,7 +10,8 @@
 > 　[重新认识Box Model、IFC、BFC和Collapsing margins](https://segmentfault.com/a/1190000004625635) 2016/04/20
 > 　["那不是bug，是你不懂我!" by inline-block](https://segmentfault.com/a/1190000004964365) 2016/04/20
 > 　[hasLayout原来是这样的！](https://segmentfault.com/a/1190000004632071) 2016/04/20
-> 　[不得不说的Containing Block](https://segmentfault.com/a/1190000004642650)
+> 　[不得不说的Containing Block](https://segmentfault.com/a/1190000004642650) 2016/04/20
+> 　[你一定误解过的Normal flow](https://segmentfault.com/a/1190000004891489) 2016/04/21
 
  - [CSS @apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule) 2016/04/18
  - [Future CSS](https://medium.com/techspiration-ideas-making-it-happen/future-css-dbc2cb8f1baf#.5bwxgsiq9) 2016/04/13
