@@ -1,5 +1,19 @@
 ## SASS, CSS
 
+
+ - [Data Type in sass](http://www.sitepoint.com/data-types-in-sass/) 2016/04/21
+
+
+> 針對IE8+&IE7以下CSS詳解
+> 
+> **CSS魔法堂**
+> 　[重新认识Box Model、IFC、BFC和Collapsing margins](https://segmentfault.com/a/1190000004625635) 2016/04/20
+> 　["那不是bug，是你不懂我!" by inline-block](https://segmentfault.com/a/1190000004964365) 2016/04/20
+> 　[hasLayout原来是这样的！](https://segmentfault.com/a/1190000004632071) 2016/04/20
+> 　[不得不说的Containing Block](https://segmentfault.com/a/1190000004642650)
+
+ - [CSS @apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule) 2016/04/18
+ - [Future CSS](https://medium.com/techspiration-ideas-making-it-happen/future-css-dbc2cb8f1baf#.5bwxgsiq9) 2016/04/13
  - [Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/) 2016/04/12
  - [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm) 2016/04/11
  - [CSS custom properties (native variables) In-Depth](https://blog.gospodarets.com/css_properties_in_depth) 2016/04/11
@@ -56,6 +70,9 @@
  - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/) 2016/01/15
 
 ## Front-End 
+ - [20+ Docs and Guides for Front-end Developers (No. 8)](http://www.sitepoint.com/20-docs-guides-front-end-developers-8/) 2016/04/21
+	 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) 2016/04/21
+	 - [Flexbox playground](http://codepen.io/enxaneta/pen/adLPwv) 2016/04/21
  - [Instagram-style filters in HTML5 Canvas](https://www.viget.com/articles/instagram-style-filters-in-html5-canvas) 2016/03/14
  - [前端工程師分享：十大好用易上手 HTML 5 前端框架](http://buzzorange.com/techorange/2016/03/11/html5-frames/) 2016/03/14
  - [2015年末必备前端工具集](http://zxc0328.github.io/2015/12/28/2015-javascript-tools/) 2016/03/03
