@@ -1,6 +1,9 @@
 ## SASS, CSS
 
 
+ - [MaintainableCSS](http://maintainablecss.com/) 2016/04/25
+ - [The Cutting-Edge CSS3 Features That Are Essential to Modern Web Design](https://speckyboy.com/2016/04/10/css3-features-essential-modern-web-design/?ref=webdesignernews.com) 2016/04/25
+ - [Flexbox Patterns](http://www.flexboxpatterns.com/) 2016/04/22
  - [Data Type in sass](http://www.sitepoint.com/data-types-in-sass/) 2016/04/21
 
 
@@ -86,6 +89,11 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+ - [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23#.z81kf4a35) 2016/05/03
+ - [Essential design trends, April 2016](http://www.webdesignerdepot.com/2016/05/essential-design-trends-april-2016/) 2016/05/03
+ - [Designing UX Login Form and Process](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9#.e52ivmvry) 2016/04/25
+ - [Styleguide ](http://devbridge.github.io/Styleguide/) 2016/04/25
+ - [**Web designers, can you speak web?**](https://www.chenhuijing.com/blog/speak-web/) 2016/04/25
  - [7 signs your design style is out of date](http://thenextweb.com/dd/2016/04/05/7-signs-design-style-date/?ref=webdesignernews.com)
  - [Designing for the Web: Are There Colors You Should Avoid?](http://designshack.net/articles/ux-design/designing-for-the-web-are-there-colors-you-should-avoid/) 2016/03/31
  - [Essential design trends, March 2016](http://www.webdesignerdepot.com/2016/03/essential-design-trends-march-2016/) 2016/03/29
@@ -102,6 +110,8 @@
 
 ## Others
 
+ - [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/) 2016/04/29
+ - [Wyre: Web Layout Flowcharts](https://pixelbuddha.net/freebie/wyre-web-layout-flowcharts) 2016/04/27
  - [Canvas vs. SVG: Choosing the Right Tool for the Job](http://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/) 2016/03/24
  - [给你的色彩重命名——红色篇](http://www.ifeiwu.com/blog/design/1372) 2016/03/21
  - [给你的色彩重命名——橙色篇](http://www.ifeiwu.com/blog/design/1374) 2016/03/21
