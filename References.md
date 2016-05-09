@@ -1,6 +1,7 @@
 ## SASS, CSS
 
-
+ - [简单易懂的CSS Modules](http://acgtofe.com/posts/2016/04/css-modules-made-simple?utm_source=tuicool&utm_medium=referral) 2016/05/09
+ - [10个值得前端收藏的CSS3动效库](http://www.jianshu.com/p/31118d83cb5f?utm_source=tuicool&utm_medium=referral) 2016/05/09
  - [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/) 2016/05/09
  - [CSS from the Future](http://zeke.sikelianos.com/css-from-the-future/) 2016/05/09
  - [MaintainableCSS](http://maintainablecss.com/) 2016/04/25
@@ -76,6 +77,7 @@
  - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/) 2016/01/15
 
 ## Front-End 
+ - [2016 年后 Web 开发趋势是什么](http://yafeilee.me/blogs/86?utm_source=tuicool&utm_medium=referral) 2016/05/09
  - [20+ Docs and Guides for Front-end Developers (No. 8)](http://www.sitepoint.com/20-docs-guides-front-end-developers-8/) 2016/04/21
 	 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) 2016/04/21
 	 - [Flexbox playground](http://codepen.io/enxaneta/pen/adLPwv) 2016/04/21
@@ -91,6 +93,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+ - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.plnj83q8x) 2016/05/09
  - [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23#.z81kf4a35) 2016/05/03
  - [Essential design trends, April 2016](http://www.webdesignerdepot.com/2016/05/essential-design-trends-april-2016/) 2016/05/03
  - [Designing UX Login Form and Process](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9#.e52ivmvry) 2016/04/25
@@ -112,6 +115,7 @@
 
 ## Others
 
+ - [How to design HTML5 games](http://www.webdesignerdepot.com/2016/05/how-to-design-html5-games/) 2016/05/09
  - [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/) 2016/04/29
  - [Wyre: Web Layout Flowcharts](https://pixelbuddha.net/freebie/wyre-web-layout-flowcharts) 2016/04/27
  - [Canvas vs. SVG: Choosing the Right Tool for the Job](http://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/) 2016/03/24
