@@ -1,3 +1,61 @@
+
+## Event Object
+
+ - load / unload
+ - click
+ - resize
+ - play / pause
+ - dragstart / drop
+ - touchstart / touchend
+ - mouseover / mouseout / mousemove
+ - keypress
+
+    // load 瀏覽器載入
+    window.onload = init;
+    
+    // click 滑鼠點擊
+    function init () {
+	  var images = document.getElementsByTagName("img");
+	  for (var i = 0; i < images.length; i++) {
+	    images[i].onclick = showAnswer;
+	  }
+	}
+	function showAnswer (eventObj) {
+	  var image = eventObj.target;
+	
+	  var name = image.id;
+	  name = "src/img/" + name + ".jpg";
+	  image.src = name;
+	}
+	
+    // mousemove 滑鼠移動
+    function init() {
+	  var map = document.getElementById("map");
+	  map.onmousemove = showCoords;
+	}
+	function showCoords (eventObj) {
+	  var map = document.getElementById("coords");
+	  var x = eventObj.pageX;
+	  var y = eventObj.pageY;
+	  map.innerHTML = "Map coordinates: " + x + ", " + y;
+	}
+    
+   
+
+### Random numbers
+
+    // 0 -> 10
+    Math.floor(Math.random() * 11);
+    
+    // 1 -> 10
+    Math.floor(Math.random() * 10) + 1;
+    
+    // 5 -> 20
+    Math.floor(Math.random() * 16) + 5;
+    
+    // -10 -> (-2)
+    Math.floor(Math.random() * 9) - 10;
+
 ##Data Type
 
 ### 字串方法&屬性
