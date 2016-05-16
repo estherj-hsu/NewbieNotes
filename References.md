@@ -1,5 +1,11 @@
 ## SASS, CSS
 
+ - [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/) 2016/05/15
+ - [Masking in the Browser with CSS and SVG](http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/) 2016/05/12
+ - [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/) 2016/05/11
+ - [Enhancing modular design with BEM](https://medium.com/@BuiltByGraph/enhancing-modular-design-with-bem-139e6b1d5329#.461oljtrf) 2016/05/11
+ - [Let’s Write Beautiful CSS Comments](http://seesparkbox.com/foundry/lets_write_beautiful_css_comments) 2016/05/11
+ - [What’s new for designers, May 2016](http://www.webdesignerdepot.com/2016/05/whats-new-for-designers-may-2016/) 2016/05/10
  - [CSS from the Future](http://zeke.sikelianos.com/css-from-the-future/) 2016/05/09
  - [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/) 2016/05/09
  - [简单易懂的CSS Modules](http://acgtofe.com/posts/2016/04/css-modules-made-simple?utm_source=tuicool&utm_medium=referral) 2016/05/09
@@ -79,6 +85,8 @@
  - [Cinema Seat Preview Experiment](http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/) 2016/01/15
 
 ## Front-End 
+
+ - [Web Design Trends 2016: The Definitive Guide](https://www.uxpin.com/web-design-trends-2016-definitive-guide) 2016/05/15
  - [2016 年后 Web 开发趋势是什么](http://yafeilee.me/blogs/86?utm_source=tuicool&utm_medium=referral) 2016/05/09
  - [20+ Docs and Guides for Front-end Developers (No. 8)](http://www.sitepoint.com/20-docs-guides-front-end-developers-8/) 2016/04/21
 	 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) 2016/04/21
@@ -95,6 +103,7 @@
  - [20 Useful Docs and Guides for Front-End Developers](http://www.sitepoint.com/20-docs-guides-front-end-developers/) 2015
 
 ## Web Design / UX
+
  - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.plnj83q8x) 2016/05/09
  - [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23#.z81kf4a35) 2016/05/03
  - [Essential design trends, April 2016](http://www.webdesignerdepot.com/2016/05/essential-design-trends-april-2016/) 2016/05/03
@@ -134,4 +143,9 @@
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
 
 ## Tools
+ - [Google Material Design Lite](https://getmdl.io/)
+ - [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details)
+ - [Flexbox Grid](http://flexboxgrid.com/)
+ - [Material Color](http://www.cosmicmind.io/material/color)
  - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
+ - [The 7 Cross-Browser Testing Tools You Need in 2016](http://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/)
