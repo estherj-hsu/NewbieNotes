@@ -1,5 +1,7 @@
 ## SASS, CSS
 
+ - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css) 2016/05/24
+ - [CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/) 2016/05/24
  - [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/) 2016/05/15
  - [Masking in the Browser with CSS and SVG](http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/) 2016/05/12
  - [Use Cases For CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries/) 2016/05/11
@@ -104,6 +106,7 @@
 
 ## Web Design / UX
 
+ - [What’s Flat 2.0 and Why Should You Care?](https://designshack.net/articles/graphics/whats-flat-2-0-and-why-should-you-care/) 2016/05/24
  - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.plnj83q8x) 2016/05/09
  - [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23#.z81kf4a35) 2016/05/03
  - [Essential design trends, April 2016](http://www.webdesignerdepot.com/2016/05/essential-design-trends-april-2016/) 2016/05/03
