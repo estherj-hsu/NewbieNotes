@@ -108,6 +108,7 @@
 
 ## Web Design / UX
 
+ - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.5fvonisea) 2016/05/24
  - [What’s Flat 2.0 and Why Should You Care?](https://designshack.net/articles/graphics/whats-flat-2-0-and-why-should-you-care/) 2016/05/24
  - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.plnj83q8x) 2016/05/09
  - [Buttons in Design Systems](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23#.z81kf4a35) 2016/05/03
