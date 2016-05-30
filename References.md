@@ -1,5 +1,9 @@
 ## SASS, CSS
 
+ - [inStyle (Modifying the Current Selector `&` in Sass)](https://css-tricks.com/instyle-current-selector-sass/)
+ - [Make a Simple JavaScript Slideshow without jQuery](https://www.sitepoint.com/make-a-simple-javascript-slideshow-without-jquery/) 2016/05/30
+ - [Migrating to Flexbox by Cutting the Mustard](https://www.sitepoint.com/migrating-flexbox-cutting-mustard/) 2016/05/27
+ - [Using CSS’s object-fit and object-position Properties](https://www.sitepoint.com/using-css-object-fit-object-position-properties/) 2016/05/25
  - [An Introduction to the Basics of Modern CSS Buttons](https://www.sitepoint.com/modern-css-buttons/) 2016/05/25
  - [这可能是史上最全的CSS自适应布局总结](http://www.cnblogs.com/qieguo/p/5421252.html) 2016/05/24
  - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css) 2016/05/24
@@ -91,6 +95,8 @@
 
 ## Front-End 
 
+ - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.4gcelveb0) 2016/05/30
+ - [Why JPEGs are like McDonalds Apple Pies (and SVGs are not)](https://www.sitepoint.com/svg-vector-effects-non-scaling-strokes/) 2016/05/25
  - [Web Design Trends 2016: The Definitive Guide](https://www.uxpin.com/web-design-trends-2016-definitive-guide) 2016/05/15
  - [2016 年后 Web 开发趋势是什么](http://yafeilee.me/blogs/86?utm_source=tuicool&utm_medium=referral) 2016/05/09
  - [20+ Docs and Guides for Front-end Developers (No. 8)](http://www.sitepoint.com/20-docs-guides-front-end-developers-8/) 2016/04/21
