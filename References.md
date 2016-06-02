@@ -1,5 +1,9 @@
 ## SASS, CSS
 
+ - [Jump Start Sass: Architecture in Sass](https://www.sitepoint.com/architecture-in-sass/) 2016/06/02
+ - [Creating a CSS Curtain Opening Effect](https://css-tricks.com/creating-css-sliding-door-effect/) 2016/06/02
+ - [Multi-Layer Page Reveal Effects](http://tympanus.net/codrops/2016/06/01/multi-layer-page-reveal-effects/) 2016/06/02
+ - [Improving Your CSS with Parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/) 2016/06/02
  - [Flex Layout Attribute](http://progressivered.com/fla/) 2016/05/30
  - [Family.scss](http://lukyvj.github.io/family.scss/) 2016/05/30
  - [inStyle (Modifying the Current Selector `&` in Sass)](https://css-tricks.com/instyle-current-selector-sass/) 2016/05/30
@@ -97,6 +101,7 @@
 
 ## Front-End 
 
+ - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
  - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.4gcelveb0) 2016/05/30
  - [Why JPEGs are like McDonalds Apple Pies (and SVGs are not)](https://www.sitepoint.com/svg-vector-effects-non-scaling-strokes/) 2016/05/25
  - [Web Design Trends 2016: The Definitive Guide](https://www.uxpin.com/web-design-trends-2016-definitive-guide) 2016/05/15
@@ -117,6 +122,7 @@
 
 ## Web Design / UX
 
+ - [What Needs to Be in Your Style Guide? (And How Do You Enforce It?)](https://designshack.net/articles/business-articles/what-needs-to-be-in-your-style-guide-and-how-do-you-enforce-it/) 2016/06/02
  - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.5fvonisea) 2016/05/24
  - [What’s Flat 2.0 and Why Should You Care?](https://designshack.net/articles/graphics/whats-flat-2-0-and-why-should-you-care/) 2016/05/24
  - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.plnj83q8x) 2016/05/09
