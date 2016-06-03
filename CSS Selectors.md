@@ -1,5 +1,9 @@
 ##Common Selectors
 
+### Reference 
+ - http://learn.shayhowe.com/advanced-html-css/complex-selectors/
+ - https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/
+
 ###Type Selector
 
 HTML標籤
@@ -151,7 +155,7 @@ HTML標籤
     :indeterminate 樹狀情況下，部分子項目被選取之父項目元素
 
 
-###Structural & Position Pseudo-classes 結構&定位虛擬類別 :root, :nth-child(), ...
+###Structural Pseudo-classes 結構&定位虛擬類別 :root, :nth-child(), ...
 
 ![enter image description here](https://css-tricks.com/wp-content/csstricks-uploads/relationalpseudos2.png)
 
@@ -175,19 +179,71 @@ HTML標籤
 > N可為數字(1, 2, 3, ...)、關鍵詞(odd, even)或公式(4n, 4n+5, ...)。
 > 4n: 每四個子元素
 > 4n+5: 第5個元素後起每4個元素
+> n+2: 第2個元素起每個元素
 
 ####:nth-of-type(n) & :nth-last-of-type(n)
 
     :nth-of-type(n) 同階層下相同樣式的第N子項目
     :nth-last-of-type(n) 同階層下相同樣式的倒數第N個子項目
 
-###Target Pseudo-class 目標虛擬類別 :target
+### Target Pseudo-class 目標虛擬類別 :target
+
+利用a與ID套用:target樣式，常用於lightbox類的效果
+
+    // sass
+    #lightbox
+      display: none
+    #lightbox:target
+      display: block
+    
+    // html
+    <a href="#lightbox">Show content</a>
+    <div id="lightbox">content</div>
+
+### Empty Pseudo-class
+
+選擇樣式內的空元素
+
+    // sass
+    .box
+	  background: red
+	.box:empty
+	  background: green
+	
+	//html
+	<div class="box">Red</div>
+	<div class="box"></div> //green
 
 
+### Negation Pseudo-class 否定虛擬類別 :not()
 
-###Empty Pseudo-class
+選擇「非」指定樣式或物件類型之元素，可搭配Structural Pseudo-classes共同使用
 
+    :not(div) 非div之所有元素
+    :not(.box) 非box樣式之所有元素
+    :not(.A):not(.B) 非A與B樣式之所有元素
+    :not(:nth-child(2n+1)) 非第2元素起每隔1個元素之所有元素
+    button:not[disable] 非disable狀態之所有button
 
+## Pseudo-elements 偽元素
 
-###Negation Pseudo-class 否定虛擬類別 :not()
+### Textual Pseudo-elements 文字偽元素
 
+    :first-letter 第一個字母
+    :first-line 第一行
+
+### Generated Content Pseudo-elements 生成內容偽元素
+
+    ::before 元素前方新增樣式
+    ::after 元素後方新增樣式
+    
+    //sass
+    a::after
+      content: "(" attr(href) ")";
+    
+    //html
+    <a href="http://showurl.com">You can see URL after</a>
+
+### Fragment Pseudo-element 片段偽元素
+
+    ::selection 選擇文字內容時之樣式
