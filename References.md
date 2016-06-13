@@ -1,5 +1,18 @@
 ## SASS, CSS
 
+ - [Finally, CSS In JavaScript! Meet CSSX](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/) 2016/06/13
+ - [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them) 2016/06/13
+ - [Computer says NO to HTML5 document outline](http://html5doctor.com/computer-says-no-to-html5-document-outline/) 2016/06/13
+ - [Five Ways to Hide Elements in CSS](https://www.sitepoint.com/five-ways-to-hide-elements-in-css/) 2016/06/13
+ - [How z-index and Auto Margins Work in Flexbox](https://www.sitepoint.com/quick-tip-how-z-index-and-auto-margins-work-in-flexbox/) 2016/06/13
+ - [CSS at BBC Sport (Part 1)](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66#.yg0bs8nvt) 2016/06/08
+ - [AOS: CSS-Driven “On Scroll” Animation Library](https://css-tricks.com/aos-css-driven-scroll-animation-library/) 2016/06/07
+ - [Molten Leading in CSS](https://css-tricks.com/molten-leading-css/) 2016/06/03
+ - [Introducing the CSS clip-path Property](https://www.sitepoint.com/introducing-css-clip-path-property/) 2016/06/03
+ - [**Mixin to Manage Breakpoints**](https://css-tricks.com/snippets/sass/mixin-manage-breakpoints/) 2016/06/02
+ - [Houdini – Demystifying CSS](https://developers.google.com/web/updates/2016/05/houdini?utm_source=CSS-Weekly&utm_campaign=Issue-217&utm_medium=web) 2016/06/02
+ - [Evolving Product CSS from Dinosaur to Juicy Snake](https://blog.prototypr.io/evolving-product-css-from-dinosaur-to-juicy-snake-4e4392fce8e8#.hy9880ml3) 2016/06/02
+ - [Unfolding Critical CSS](https://medium.com/@jpdevries/unfolding-critical-css-91619401b4e#.kzgshjij5) 2016/06/02
  - [Jump Start Sass: Architecture in Sass](https://www.sitepoint.com/architecture-in-sass/) 2016/06/02
  - [Creating a CSS Curtain Opening Effect](https://css-tricks.com/creating-css-sliding-door-effect/) 2016/06/02
  - [Multi-Layer Page Reveal Effects](http://tympanus.net/codrops/2016/06/01/multi-layer-page-reveal-effects/) 2016/06/02
@@ -122,6 +135,10 @@
 
 ## Web Design / UX
 
+ - [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0?ref=webdesignernews.com#.8u0bseijh) 2016/06/13
+ - [A Fun Approach To Creating More Successful Websites](https://www.smashingmagazine.com/2012/02/a-fun-approach-to-creating-more-successful-websites/) 2016/06/06
+ - [5 Lessons We Can Learn From Japanese Web Design](https://speckyboy.com/2016/05/27/japanese-web-design/) 2016/06/06
+ - [My process of creating the Arriva web site](http://veerle.duoh.com/design/article/my_process_of_creating_the_arriva_web_site) 2016/06/02
  - [What Needs to Be in Your Style Guide? (And How Do You Enforce It?)](https://designshack.net/articles/business-articles/what-needs-to-be-in-your-style-guide-and-how-do-you-enforce-it/) 2016/06/02
  - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.5fvonisea) 2016/05/24
  - [What’s Flat 2.0 and Why Should You Care?](https://designshack.net/articles/graphics/whats-flat-2-0-and-why-should-you-care/) 2016/05/24
@@ -164,6 +181,8 @@
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
 
 ## Tools
+ - [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) 2016/06/13
+ - [Think with Google:Test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/) 2016/06/06
  - [Google Material Design Lite](https://getmdl.io/)
  - [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details)
  - [Flexbox Grid](http://flexboxgrid.com/)
