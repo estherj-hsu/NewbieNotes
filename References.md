@@ -1,5 +1,9 @@
 ## SASS, CSS
 
+ - [Rationalizing Functional CSS](https://marcelosomers.com/writing/rationalizing-functional-css/) 2016/06/15
+ - [7 PostCSS Plugins to Ease You into PostCSS](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/) 2016/06/15
+ - [純 CSS Material Design 風格按鈕](http://www.oxxostudio.tw/articles/201503/css-material-design-icon.html) 2016/06/14
+ - [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css/) 2016/06/14
  - [Finally, CSS In JavaScript! Meet CSSX](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/) 2016/06/13
  - [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them) 2016/06/13
  - [Computer says NO to HTML5 document outline](http://html5doctor.com/computer-says-no-to-html5-document-outline/) 2016/06/13
@@ -135,6 +139,7 @@
 
 ## Web Design / UX
 
+ - [Pixel Density, Demystified: How pixel density works and how it affects your designs.](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.t4a1ktxz2) 2016/06/15
  - [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0?ref=webdesignernews.com#.8u0bseijh) 2016/06/13
  - [A Fun Approach To Creating More Successful Websites](https://www.smashingmagazine.com/2012/02/a-fun-approach-to-creating-more-successful-websites/) 2016/06/06
  - [5 Lessons We Can Learn From Japanese Web Design](https://speckyboy.com/2016/05/27/japanese-web-design/) 2016/06/06
@@ -164,6 +169,10 @@
 
 ## Others
 
+ - [Blisk: Your Next Web Development Browser?](https://www.sitepoint.com/blisk-your-next-web-development-browser/) 2016/06/15
+ - [5 Things Every Designer Needs to Know About Conversational UIs](https://www.sitepoint.com/5-things-every-designer-needs-to-know-about-conversational-uis/) 2016/06/15
+ - [Bootstrap 4: A Visual Guide](https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387#.msy7j6y70) 2016/06/15
+ - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
  - [How to design HTML5 games](http://www.webdesignerdepot.com/2016/05/how-to-design-html5-games/) 2016/05/09
  - [Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/) 2016/04/29
  - [Wyre: Web Layout Flowcharts](https://pixelbuddha.net/freebie/wyre-web-layout-flowcharts) 2016/04/27
@@ -180,7 +189,8 @@
  - [民工精髓Blog](https://github.com/xufei/blog) 2016/02/01
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
 
-## Tools
+## Tools/Materials
+ - [UI Gradients](http://uigradients.com/) 2016/06/13
  - [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) 2016/06/13
  - [Think with Google:Test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/) 2016/06/06
  - [Google Material Design Lite](https://getmdl.io/)
