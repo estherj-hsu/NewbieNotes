@@ -150,7 +150,7 @@ From "Head First JavaScript"
 
 新增物件建構程序
 	
-	function Car(make, model, year, color, passengers, converitble) {
+	function Car(make, model, year, color, passengers, converitble, mileage) {
 	  this.make = params.make;
 	  this.model = params.model;
 	  this.year = params.year;
