@@ -153,13 +153,13 @@ From "Head First JavaScript"
 新增物件建構程序
 	
 	function Car(make, model, year, color, passengers, converitble, mileage) {
-	  this.make = params.make;
-	  this.model = params.model;
-	  this.year = params.year;
-	  this.color = params.color;
-	  this.passengers = params.passengers;
-	  this.convertible = params.convertible;
-	  this.mileage = params.mileage;
+	  this.make = make;
+	  this.model = model;
+	  this.year = year;
+	  this.color = color;
+	  this.passengers = passengers;
+	  this.convertible = convertible;
+	  this.mileage = mileage;
 	  this.started = false;
 	  this.start = function() {
 	    this.started = true;
@@ -182,6 +182,17 @@ From "Head First JavaScript"
 
 改寫為物件字面
 
+
+	var chevyParams = {make:"Chevy",
+	                   model: "Bel Air",
+	                   year: 1957,
+	                   color: "red",
+	                   passengers: 2,
+	                   convertible: false,
+	                   mileage: 1021};
+	
+	var chevy = new Car(chevyParams)
+	
 	function Car(params) {
 	  this.make = params.make;
 	  this.model = params.model;
@@ -205,14 +216,7 @@ From "Head First JavaScript"
 	    }
 	  };
 	}
-	var chevyParams = {make:"Chevy",
-	                   model: "Bel Air",
-	                   year: 1957,
-	                   color: "red",
-	                   passengers: 2,
-	                   convertible: false,
-	                   mileage: 1021};
-	var chevy = new Car(chevyParams)
+
 
 ## Ch13. Prototype
 
