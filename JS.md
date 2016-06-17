@@ -191,8 +191,7 @@ From "Head First JavaScript"
 	}
 	setTimer("Cookies are done!", 1000)
 
----------------------------
-#### Before
+#### 範例
 
 	var count = 0;
 	window.onload = function() {
@@ -207,7 +206,7 @@ From "Head First JavaScript"
 	  div.innerHTML = message + count + " times!";
 	}
 
-#### After
+-----------
 
 	window.onload = function() {
 	  var count = 0;
