@@ -91,7 +91,9 @@ From "Head First JavaScript"
 	index = phrase.indexOf("the");
 
 ## Ch8. Building an app
+
  
+
 ## Ch9. Handling events
 
  - load / unload
@@ -103,12 +105,11 @@ From "Head First JavaScript"
  - mouseover / mouseout / mousemove
  - keypress
 
--
 
-    // load 瀏覽器載入
+#### load 瀏覽器載入
     window.onload = init;
     
-    // click 滑鼠點擊
+#### click 滑鼠點擊
     function init () {
       var images = document.getElementsByTagName("img");
       for (var i = 0; i < images.length; i++) {
@@ -123,7 +124,8 @@ From "Head First JavaScript"
       image.src = name;
     }
     
-    // mousemove 滑鼠移動
+#### mousemove 滑鼠移動
+
     function init() {
       var map = document.getElementById("map");
       map.onmousemove = showCoords;
@@ -154,7 +156,41 @@ From "Head First JavaScript"
 
 ## Ch10. Liberated functions
 
+ - 函式可賦予變數值
+ - 函式可傳遞給其他函式
+ - 函式可回傳其他函式
 
+### 函式宣告
+
+	function quack(num) {
+	  for (var i = 0; i <= num; i++) {
+	    console.log("quack!");
+	  }
+	};
+
+### 函式運算式
+
+	var fly = function (num) {
+	  for (var i = 0; i <= num; i++) {
+	    console.log("Flying!");
+	  }
+	};
+
+### 陣列sort
+
+    var numberArray = [60, 50, 62, 58, 54, 54, 53];
+    
+    function compareNumbers(num1, num2) {
+      if (num1 > num2) {
+        return 1;
+      } else if (num1 == num2) {
+        return 0;
+      } else {
+        return -1;
+      }
+    }
+    
+    numberArray.sort(compareNumbers);
 
 ## Ch11. Serious Functions
 
