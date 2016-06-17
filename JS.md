@@ -154,6 +154,8 @@ From "Head First JavaScript"
 
 ## Ch10. Liberated functions
 
+
+
 ## Ch11. Serious Functions
 
 ### 匿名函式
