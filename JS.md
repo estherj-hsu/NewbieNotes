@@ -156,6 +156,71 @@ From "Head First JavaScript"
 
 ## Ch11. Serious Functions
 
+### 匿名函式
+
+	function alarm() {
+	  alert("Time is done!");
+	}
+	setTimeout(alarm, 1000);
+
+-------------------------------------
+
+	setTimeout(function() { alert("Time is done!");}, 1000);
+
+函式宣告建立的函式會較函式運算式**優先定義**
+
+### 嵌套函式
+
+	function setTimer(doneMessage, n) {
+	  setTimeout(function() {
+	    alert(doneMessage);
+	  }, n);
+	  doneMessage= "OUCH!";
+	}
+	setTimer("Cookies are done!", 1000)
+
+### 閉包
+
+**包含操作環境的函式**
+
+	function setTimer(doneMessage, n) {
+	  setTimeout(function() {
+	    alert(doneMessage);
+	  }, n);
+	  doneMessage= "OUCH!";
+	}
+	setTimer("Cookies are done!", 1000)
+
+---------------------------
+#### Before
+
+	var count = 0;
+	window.onload = function() {
+	  var button = document.getElementById("clickme");
+	  button.onclick = handleClick;
+	};
+	
+	function handleClick() {
+	  var message = "You clicked me! ";
+	  var div = document.getElementById("message");
+	  count++;
+	  div.innerHTML = message + count + " times!";
+	}
+
+#### After
+
+	window.onload = function() {
+	  var count = 0;
+	  var message = "You clicked me! ";
+	  var div = document.getElementById("message");
+	
+	  var button = document.getElementById("clickme");
+	  button.onclick = function() {
+	    count++;
+	    div.innerHTML = message + count + " times!";
+	  };
+	};
+
 ## Ch12. Creating objects
 
 ### 物件建構程序
