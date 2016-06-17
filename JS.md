@@ -1,10 +1,6 @@
 From "Head First JavaScript"
 
-## Ch3. Getting functional
-
-## Ch4. Arrays
-
-## Ch5. A trip to Objectville
+[All practice code on Github](https://github.com/estherj-hsu/js-sandbox/blob/master/HeadFirstJS/)
 
 ## Ch6. DOM
 
@@ -92,7 +88,7 @@ From "Head First JavaScript"
 
 ## Ch8. Building an app
 
- 
+ [Battleship實作](https://github.com/estherj-hsu/js-sandbox/blob/master/HeadFirstJS/src/js/battleShipApp.js)
 
 ## Ch9. Handling events
 
