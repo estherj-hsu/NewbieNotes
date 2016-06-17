@@ -1,6 +1,10 @@
 From "Head First JavaScript"
 
+## Ch3. Getting functional
 
+## Ch4. Arrays
+
+## Ch5. A trip to Objectville
 
 ## Ch6. DOM
 
@@ -86,9 +90,9 @@ From "Head First JavaScript"
 	// 取得字串中the最後出現位置
 	index = phrase.indexOf("the");
 
-
+## Ch8. Building an app
  
-## Ch9. Event Object
+## Ch9. Handling events
 
  - load / unload
  - click
@@ -148,9 +152,13 @@ From "Head First JavaScript"
     Math.floor(Math.random() * 9) - 10;
 
 
-## Ch12. Object Constructor
+## Ch10. Liberated functions
 
-新增物件建構程序
+## Ch11. Serious Functions
+
+## Ch12. Creating objects
+
+### 物件建構程序
 	
 	function Car(make, model, year, color, passengers, converitble, mileage) {
 	  this.make = make;
@@ -176,11 +184,10 @@ From "Head First JavaScript"
 	  };
 	}
 
-新增物件
-
+	// 新增物件
     var chevy = new Car("Chevy", "Bel Air", 1957, "red", 2, false, 1021);
 
-改寫為物件字面
+### 改寫為物件字面
 
 
 	var chevyParams = {make:"Chevy",
@@ -218,7 +225,7 @@ From "Head First JavaScript"
 	}
 
 
-## Ch13. Prototype
+## Ch13. Extra strength objects
 
 新增prototype Dog
 
@@ -252,7 +259,7 @@ From "Head First JavaScript"
     spot.bark = function (){
 	    console.log(this.name + " says WOOF!");
 	};
-
+### 繼承
 新增prototype(ShowDog)並繼承原有prototype(Dog)
 
     function ShowDog(name, breed, weight, handler) {
