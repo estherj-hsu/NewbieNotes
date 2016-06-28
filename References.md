@@ -1,5 +1,9 @@
 ## SASS, CSS
 
+ - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584?utm_source=CSS-Weekly&utm_campaign=Issue-220&utm_medium=web) 2016/06/26
+ - [Enabling Upcoming CSS Features with PostCSS](https://www.sitepoint.com/enabling-upcoming-css-features-with-postcss/) 2016/06/26
+ - [Implementing baseline rhythm in CSS](https://pilot.co/blog/implementing-baseline-rhythm-in-css/) 2016/06/21
+ - [26 Impressive web projects built with CSS only](https://medium.mybridge.co/26-impressive-web-projects-built-with-css-only-4a4c2f773a21#.mqu8ggf7t) 2016/06/21
  - [Rationalizing Functional CSS](https://marcelosomers.com/writing/rationalizing-functional-css/) 2016/06/15
  - [7 PostCSS Plugins to Ease You into PostCSS](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/) 2016/06/15
  - [純 CSS Material Design 風格按鈕](http://www.oxxostudio.tw/articles/201503/css-material-design-icon.html) 2016/06/14
@@ -139,6 +143,8 @@
 
 ## Web Design / UX
 
+ - [Design Trend: Incorporating Whimsy](https://designshack.net/articles/graphics/design-trend-incorporating-whimsy/) 2016/06/27
+ - [Essential design trends, June 2016](http://www.webdesignerdepot.com/2016/06/essential-design-trends-june-2016/) 2016/06/27
  - [Pixel Density, Demystified: How pixel density works and how it affects your designs.](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.t4a1ktxz2) 2016/06/15
  - [Design for Programmers](https://blog.prototypr.io/design-for-programmers-d38c56982cd0?ref=webdesignernews.com#.8u0bseijh) 2016/06/13
  - [A Fun Approach To Creating More Successful Websites](https://www.smashingmagazine.com/2012/02/a-fun-approach-to-creating-more-successful-websites/) 2016/06/06
@@ -169,6 +175,10 @@
 
 ## Others
 
+ - [How to Ask Good Coding Questions That Get Great Answers](http://zellwk.com/blog/asking-questions/) 2016/06/26
+ - [Build a Powerful Freelance Portfolio Website that Gets Results](https://www.sitepoint.com/build-a-powerful-freelance-portfolio-website-that-gets-results/) 2016/06/16
+ - [Typography Handbook](http://typographyhandbook.com/) 2016/06/16
+ - [Google Fonts unveils huge redesign](http://www.webdesignerdepot.com/2016/06/google-fonts-unveils-huge-redesign/) 2016/06/16
  - [Blisk: Your Next Web Development Browser?](https://www.sitepoint.com/blisk-your-next-web-development-browser/) 2016/06/15
  - [5 Things Every Designer Needs to Know About Conversational UIs](https://www.sitepoint.com/5-things-every-designer-needs-to-know-about-conversational-uis/) 2016/06/15
  - [Bootstrap 4: A Visual Guide](https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387#.msy7j6y70) 2016/06/15
@@ -190,6 +200,8 @@
  - [What’s the Best Programming Language to Learn in 2016?](http://www.sitepoint.com/whats-best-programming-language-learn-2016/) 2016/01/21
 
 ## Tools/Materials
+ - [Material Kit](http://demos.creative-tim.com/material-kit/) 2016/06/26
+ - [CodeComet](https://codecomet.io/) 2016/06/21
  - [UI Gradients](http://uigradients.com/) 2016/06/13
  - [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) 2016/06/13
  - [Think with Google:Test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/) 2016/06/06
