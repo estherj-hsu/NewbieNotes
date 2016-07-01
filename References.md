@@ -1,5 +1,18 @@
 ## SASS, CSS
 
+ - [Leveling up in CSS](https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.23rd9msun) 2016/07/01
+ - [The `background-clip` Property and its Use Cases](https://css-tricks.com/the-backgound-clip-property-and-use-cases/) 2016/07/01
+ - [10 things to need to know about CSS](http://dsheiko.com/weblog/10-things-to-need-to-know-about-css) 2016/07/01
+ - [8 Tips to Write CSS You Won't Hate](http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate) 2016/07/01
+ - [DAY 7: SURPRISING CSS PROPERTIES YOU CAN USE TODAY](http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/) 2016/07/01
+ - [Introducing CSS Scroll Snap Points](https://css-tricks.com/introducing-css-scroll-snap-points/) 2016/07/01
+ - [An Introduction to CSS’s @supports Rule (Feature Queries)](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) 2016/07/01
+ - [Decorative Text Underline](https://codepen.io/jonneal/pen/PzGYEE) 2016/07/01
+ - [How To Use Code As Your Primary Design Tool](https://stories.uplabs.com/how-to-use-code-as-a-primary-design-tool-791d50849cb6#.y1bvyqsa1) 2016/07/01
+ - [Can You Code This UI Concept?](https://stories.uplabs.com/can-you-code-this-design-concept-efe0132b9744#.gc2cuh2jp) 2016/07/01
+ - [Can you Code this UI Concept? Vol. 2](https://stories.uplabs.com/can-you-code-this-ui-concept-vol-2-9c9763269640#.4uxks9ucn) 2016/07/01
+ - [Can you Code this UI Concept? Vol. 3](https://stories.uplabs.com/can-you-code-this-ui-concept-vol-3-10a9c0927015#.iu8d9cd61) 2016/07/01
+ - [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/) 2016/07/01
  - CSS in 2016 and Beyond
 	 - [video](https://www.youtube.com/watch?v=9AG35HCBpo4)
 	 - [presentation](http://christianvuerings.github.io/presentations/css-2016/)
@@ -61,8 +74,10 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) 2016/07/01
+ - [Material Up](http://www.materialup.com/) 2016/07/01
  - [Material Kit](http://demos.creative-tim.com/material-kit/) 2016/06/26
  - [CodeComet](https://codecomet.io/) 2016/06/21
  - [UI Gradients](http://uigradients.com/) 2016/06/13
  - [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/) 2016/06/13
- - [Think with Google:Test how mobile-friendly your site is.](https://testmysite.thinkwithgoogle.com/) 2016/06/06
+ - [Think with Google:Test how mobile-friendly your site is](https://testmysite.thinkwithgoogle.com/) 2016/06/06
