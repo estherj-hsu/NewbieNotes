@@ -1,5 +1,8 @@
 ## SASS, CSS
 
+ - [Improved Font Loading](https://webkit.org/blog/6643/improved-font-loading/) 2016/07/06
+ - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) 2016/07/06
+ - [A GUIDE TO DISCERNIBLE WEB DESIGN](http://photoshopetiquette.com/?ref=webdesignernews.com) 2016/07/06
  - [Leveling up in CSS](https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.23rd9msun) 2016/07/01
  - [The `background-clip` Property and its Use Cases](https://css-tricks.com/the-backgound-clip-property-and-use-cases/) 2016/07/01
  - [10 things to need to know about CSS](http://dsheiko.com/weblog/10-things-to-need-to-know-about-css) 2016/07/01
@@ -74,6 +77,7 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [Photoshop Etiquette](http://photoshopetiquette.com/) 2016/07/06
  - [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) 2016/07/01
  - [Material Up](http://www.materialup.com/) 2016/07/01
  - [Material Kit](http://demos.creative-tim.com/material-kit/) 2016/06/26
