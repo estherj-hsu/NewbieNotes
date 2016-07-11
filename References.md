@@ -1,5 +1,8 @@
 ## SASS, CSS
 
+ - [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving) 2016/07/11
+ - [Structuring CSS in large projects](https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.xsp83p54h) 2016/07/11
+ - [Front-End Challenge Accepted: CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/) 2016/07/11
  - [Improved Font Loading](https://webkit.org/blog/6643/improved-font-loading/) 2016/07/06
  - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/) 2016/07/06
  - [A GUIDE TO DISCERNIBLE WEB DESIGN](http://photoshopetiquette.com/?ref=webdesignernews.com) 2016/07/06
@@ -50,8 +53,8 @@
 
 ## Front-End 
 
+ - [A Front End Developer is Aware](https://css-tricks.com/front-end-developer-aware/) 2016/07/11
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
-
 
 ## Web Design / UX
 
@@ -67,6 +70,8 @@
 
 ## Others
 
+ - [BUTTERICK’S PRACTICAL TYPOGRAPHY](http://practicaltypography.com/) 2016/07/11
+ - [Infographic: Fontsmith’s complete guide to typography terms](http://www.webdesignerdepot.com/2016/07/infographic-fontsmiths-complete-guide-to-typography-terms/) 2016/07/11
  - [How to Ask Good Coding Questions That Get Great Answers](http://zellwk.com/blog/asking-questions/) 2016/06/26
  - [Build a Powerful Freelance Portfolio Website that Gets Results](https://www.sitepoint.com/build-a-powerful-freelance-portfolio-website-that-gets-results/) 2016/06/16
  - [Typography Handbook](http://typographyhandbook.com/) 2016/06/16
