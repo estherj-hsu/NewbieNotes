@@ -1,5 +1,13 @@
 ## SASS, CSS
 
+ - [The Moment CSS Started Making “Sense”](https://css-tricks.com/moment-css-started-making-sense/) 2016/07/15
+ - [A Case Study in Components, Theming and Flexbox](https://www.sitepoint.com/sitepoints-tiles-a-case-study/) 2016/07/15
+ - [Creating dynamically theme-able websites using CSS currentColor](http://johnm.io/blog/creating-themeable-websites-using-currentcolor/) 2016/07/15
+ - [等宽字体在web布局中应用以及CSS3 ch单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/) 2016/07/15
+ - [CSS Filter Effects: Blur, Grayscale, Brightness and More in CSS!](https://www.sitepoint.com/css-filter-effects-blur-grayscale-brightness-and-more-in-css/) 2016/07/15
+ - [10 CSS Rules Every Web Designer Should Know](http://line25.com/articles/10-css-rules-every-web-designer-should-know) 2016/07/12
+ - [Snapper: A CSS Snap Points Carousel](https://www.filamentgroup.com/lab/introducing-snapper.html) 2016/07/12
+ - [The :target Trick](https://bitsofco.de/the-target-trick/) 2016/07/12
  - [BEM & Atomic Design: A CSS Architecture Worth Loving](https://www.lullabot.com/articles/bem-atomic-design-a-css-architecture-worth-loving) 2016/07/11
  - [Structuring CSS in large projects](https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8#.xsp83p54h) 2016/07/11
  - [Front-End Challenge Accepted: CSS 3D Cube](https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/) 2016/07/11
@@ -53,11 +61,22 @@
 
 ## Front-End 
 
+ - [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) 2016/07/15
+ - [Using White Space: How Emptiness Can Give So Much to Design](https://www.sitepoint.com/using-white-space-how-emptiness-can-give-so-much-to-design/) 2016/07/15
+ - [Front-End Development in an Internet of Things World](https://www.sitepoint.com/the-future-of-the-web-in-an-internet-of-things-world/) 2016/07/15
  - [A Front End Developer is Aware](https://css-tricks.com/front-end-developer-aware/) 2016/07/11
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
 
+ - [7 Tips for Designing Consistency](https://designshack.net/articles/graphics/7-tips-for-designing-consistency/) 2016/07/15
+ - [15 Best Moodle Themes of 2016](https://designshack.net/articles/inspiration/15-best-moodle-themes-of-2016/) 2016/07/15
+ - [3 Easy Performance Wins for Designers](https://una.im/perf-design-wins/) 2016/07/15
+ - [Is no design the new design?](http://www.webdesignerdepot.com/2016/07/is-no-design-the-new-design/) 2016/07/15
+ - [Designing the perfect notification UX](http://www.webdesignerdepot.com/2016/07/designing-the-perfect-notification-ux/) 2016/07/15
+ - [Mimic Relative Positioning Inside an SVG with Nested SVGs](https://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/) 2016/07/14
+ - [The *designer* is in the details](https://medium.com/interviews-with-myself/the-designer-is-in-the-details-2ff33b407976) 2016/07/12
+ - [How to Declutter your Design](https://medium.com/wdstack/how-to-declutter-your-design-88cbd9e45015) 2016/07/12
  - [Design Trend: Incorporating Whimsy](https://designshack.net/articles/graphics/design-trend-incorporating-whimsy/) 2016/06/27
  - [Essential design trends, June 2016](http://www.webdesignerdepot.com/2016/06/essential-design-trends-june-2016/) 2016/06/27
  - [Pixel Density, Demystified: How pixel density works and how it affects your designs.](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.t4a1ktxz2) 2016/06/15
@@ -69,7 +88,7 @@
 
 
 ## Others
-
+ - [zingtouch](https://zingchart.github.io/zingtouch/) 2016/07/15
  - [BUTTERICK’S PRACTICAL TYPOGRAPHY](http://practicaltypography.com/) 2016/07/11
  - [Infographic: Fontsmith’s complete guide to typography terms](http://www.webdesignerdepot.com/2016/07/infographic-fontsmiths-complete-guide-to-typography-terms/) 2016/07/11
  - [How to Ask Good Coding Questions That Get Great Answers](http://zellwk.com/blog/asking-questions/) 2016/06/26
@@ -82,6 +101,9 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [MarkSheet](http://marksheet.io/) 2016/07/15
+ - [ImageOptim](https://imageoptim.com/) 2016/07/15
+ - [Gravit](https://www.gravit.io/) 2016/07/12
  - [Photoshop Etiquette](http://photoshopetiquette.com/) 2016/07/06
  - [Progress Tracker](http://nigelotoole.github.io/progress-tracker/) 2016/07/01
  - [Material Up](http://www.materialup.com/) 2016/07/01
