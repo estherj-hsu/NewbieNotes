@@ -83,7 +83,7 @@
 
 ## Front-End
  - [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) 2016/08/17
- - [Using A Static Site Generator At Scale: Lessons Learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/) 2016/08/17v
+ - [Using A Static Site Generator At Scale: Lessons Learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/) 2016/08/17
  - [UX Designers: Had enough of agile sprints? Time for design sprints](https://medium.com/@willd/ux-designers-had-enough-of-agile-sprints-time-for-design-sprints-1847601c4e6d) 2016/08/17
  - [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) 2016/07/15
  - [Using White Space: How Emptiness Can Give So Much to Design](https://www.sitepoint.com/using-white-space-how-emptiness-can-give-so-much-to-design/) 2016/07/15
