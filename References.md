@@ -1,4 +1,13 @@
 ## SASS, CSS
+ - [Parallax Image Scrolling Animation with CSS 3D and JavaScript](http://thenewcode.com/1123/Parallax-Image-Scrolling-Animation-with-CSS-3D-and-JavaScript) 2016/08/23
+ - [Journey to Enjoyable, Maintainable Styling with React, ITCSS, and CSS-in-JS](https://medium.com/maintainable-react-apps/journey-to-enjoyable-maintainable-styling-with-react-itcss-and-css-in-js-632cfa9c70d6#.jkyvv1g4s) 2016/08/23
+ - [How to create a simple layout with CSS Grid Layouts](https://getflywheel.com/layout/css-grid-layouts-how-to/) 2016/08/23
+ - [Building Themes with CSS4 Color Features](https://cloudfour.com/thinks/building-themes-with-css4-color-features/) 2016/08/23
+ - [Force Selection of Text Block](https://css-tricks.com/force-selection-text-block/) 2016/08/23
+ - [`font-display` for the Masses](https://css-tricks.com/font-display-masses/) 2016/08/23
+ - [A Case Study on Boosting Front-End Performance](https://css-tricks.com/case-study-boosting-front-end-performance/) 2016/08/23
+ - [Flexible typography with CSS locks](http://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/) 2016/08/23
+ - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/) 2016/08/23
  - [Clipped SVG Slider](https://codyhouse.co/gem/clipped-svg-slider/) 2016/08/17
  - [The Background Properties](https://bitsofco.de/the-background-properties/) 2016/08/17
  - [Color Wheel Animation with CSS Filters](http://evaferreira.com.ar/blog/2016/07/color-wheel-animation-with-css-filters) 2016/08/17
@@ -46,8 +55,8 @@
  - [Can you Code this UI Concept? Vol. 3](https://stories.uplabs.com/can-you-code-this-ui-concept-vol-3-10a9c0927015#.iu8d9cd61) 2016/07/01
  - [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/) 2016/07/01
  - CSS in 2016 and Beyond
-	 - [video](https://www.youtube.com/watch?v=9AG35HCBpo4)
-	 - [presentation](http://christianvuerings.github.io/presentations/css-2016/)
+   - [video](https://www.youtube.com/watch?v=9AG35HCBpo4)
+   - [presentation](http://christianvuerings.github.io/presentations/css-2016/)
  - [How well do you know CSS display?](https://www.chenhuijing.com/blog/how-well-do-you-know-display/) 2016/06/30
  - [Introducing the CSS text-align-last Property](https://www.sitepoint.com/introducing-the-css-text-align-last-property/) 2016/06/30
  - [The 14 Most Popular CSS Links of 2016 So Far](https://medium.com/statuscode/the-14-most-popular-css-links-of-2016-so-far-96a6e64378d5#.1pe2frpnq) 2016/06/30
@@ -77,11 +86,13 @@
  - [Multi-Layer Page Reveal Effects](http://tympanus.net/codrops/2016/06/01/multi-layer-page-reveal-effects/) 2016/06/02
  - [Improving Your CSS with Parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/) 2016/06/02
 
-## JS, jQuery
+## JS
+ - [Shadow DOM](https://developers.google.com/web/fundamentals/primers/shadowdom/) 2016/08/23
  - [A Live Lesson in Diving into ES2015, with Darin Haener](https://www.sitepoint.com/a-live-lesson-in-diving-into-es2015-with-darin-haener/) 2016/08/17
  - [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/) 2016/08/17
 
 ## Front-End
+ - [4 clear benefits of an A/B tested website](http://www.webdesignerdepot.com/2016/08/4-clear-benefits-of-an-ab-tested-website/) 2016/08/23
  - [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) 2016/08/17
  - [Using A Static Site Generator At Scale: Lessons Learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/) 2016/08/17
  - [UX Designers: Had enough of agile sprints? Time for design sprints](https://medium.com/@willd/ux-designers-had-enough-of-agile-sprints-time-for-design-sprints-1847601c4e6d) 2016/08/17
@@ -92,6 +103,11 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
+ - [Communicating Animation](http://alistapart.com/article/communicating-animation) 2016/08/23
+ - [Things I've Learned About Responsive Email Design](http://www.leemunroe.com/responsive-email-design) 2016/08/23
+ - [Optical Adjustment – Logic vs. Designers](https://blog.marvelapp.com/optical-adjustment-logic-vs-designers/) 2016/08/23
+ - [An Introduction to Facebook Insights](https://www.sitepoint.com/an-introduction-to-facebook-insights/)
+ - [The future of UX design](https://medium.com/user-defenders/the-future-of-ux-design-76b69d302ac5) 2016/08/22
  - [Smart redesign makes Google Maps easier on the eyes](http://thenextweb.com/google/2016/07/25/google-maps-just-got-cleaner-leaner-design/) 2016/08/17
  - [5 Awesome Design Hacks to Create Highly Shareable Social Media Graphics](http://socialmouths.com/2015/05/12/design-hacks-to-create-shareable-social-media-graphics/) 2016/08/17
  - [Hover is dead. Long live hover.](https://medium.com/instacart-design/hover-is-dead-long-live-hover-37a89d3795df) 2016/08/17
@@ -147,6 +163,7 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [Kit FUI](https://www.noteloop.com/kit/fui/) 2016/08/23
  - [Getting to Know Cutestrap, a Lightweight CSS Framework](https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/) 2016/08/17
  - [10 professional fonts for designers](http://www.creativebloq.com/features/9-professional-fonts-for-designers) 2016/08/17
  - [MarkSheet](http://marksheet.io/) 2016/07/15
