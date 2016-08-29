@@ -1,4 +1,11 @@
 ## SASS, CSS
+ - [Introducing CSS’ new font-display property](http://www.webdesignerdepot.com/2016/08/introducing-css-new-font-display-property/) 2016/08/29
+ - [Use Cases for Fixed Backgrounds in CSS](https://css-tricks.com/use-cases-fixed-backgrounds-css/) 2016/08/29
+ - [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.x0p1hqf0d) 2016/08/29
+ - [8 Clever Tricks with CSS Functions](https://www.sitepoint.com/8-clever-tricks-with-css-functions/) 2016/08/29
+ - [Upgrading CSS Animation With Motion Curves](https://www.smashingmagazine.com/2016/08/css-animations-motion-curves/) 2016/08/29
+ - [Cool CSS Text Effects – 20 Amazing Examples](http://www.designyourway.net/blog/web-and-mobile-design/yes-you-can-actually-make-these-text-effects-in-css/) 2016/08/29
+ - [A few HTML tips](https://hacks.mozilla.org/2016/08/a-few-html-tips/) 2016/08/29
  - [Parallax Image Scrolling Animation with CSS 3D and JavaScript](http://thenewcode.com/1123/Parallax-Image-Scrolling-Animation-with-CSS-3D-and-JavaScript) 2016/08/23
  - [Journey to Enjoyable, Maintainable Styling with React, ITCSS, and CSS-in-JS](https://medium.com/maintainable-react-apps/journey-to-enjoyable-maintainable-styling-with-react-itcss-and-css-in-js-632cfa9c70d6#.jkyvv1g4s) 2016/08/23
  - [How to create a simple layout with CSS Grid Layouts](https://getflywheel.com/layout/css-grid-layouts-how-to/) 2016/08/23
@@ -87,11 +94,13 @@
  - [Improving Your CSS with Parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/) 2016/06/02
 
 ## JS
+ - [webpack 从入门到上线](https://segmentfault.com/a/1190000006649986) 2016/08/29
  - [Shadow DOM](https://developers.google.com/web/fundamentals/primers/shadowdom/) 2016/08/23
  - [A Live Lesson in Diving into ES2015, with Darin Haener](https://www.sitepoint.com/a-live-lesson-in-diving-into-es2015-with-darin-haener/) 2016/08/17
  - [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/) 2016/08/17
 
 ## Front-End
+ - [Designers Should Learn Marketing](http://www.erickarjaluoto.com/blog/designers-should-learn-marketing/) 2016/08/29
  - [4 clear benefits of an A/B tested website](http://www.webdesignerdepot.com/2016/08/4-clear-benefits-of-an-ab-tested-website/) 2016/08/23
  - [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) 2016/08/17
  - [Using A Static Site Generator At Scale: Lessons Learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/) 2016/08/17
@@ -103,6 +112,13 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
+ - [How to design words](https://medium.com/@jsaito/how-to-design-words-63d6965051e9#.r7ena86he) 2016/08/29
+ - [The New Rules of Form Design](http://www.uxbooth.com/articles/the-new-rules-of-form-design/) 2016/08/29
+ - [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.flrwvqtlh) 2016/08/29
+ - [All about creating design style guides](https://medium.mybridge.co/all-about-creating-design-style-guides-cba6f6ca509d#.oatauy372) 2016/08/29
+ - [Helping users easily access content on mobile](https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html) 2016/08/29
+ - [Better web images](http://rorymacrae.co.uk/better-web-images/) 2016/08/29
+ - [The rise and rise of the brutalist design trend](http://www.webdesignerdepot.com/2016/08/the-rise-and-rise-of-the-brutalist-design-trend/) 2016/08/29
  - [Communicating Animation](http://alistapart.com/article/communicating-animation) 2016/08/23
  - [Things I've Learned About Responsive Email Design](http://www.leemunroe.com/responsive-email-design) 2016/08/23
  - [Optical Adjustment – Logic vs. Designers](https://blog.marvelapp.com/optical-adjustment-logic-vs-designers/) 2016/08/23
@@ -163,6 +179,7 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [codedammit](http://codedammit.co/) 2016/08/29
  - [Kit FUI](https://www.noteloop.com/kit/fui/) 2016/08/23
  - [Getting to Know Cutestrap, a Lightweight CSS Framework](https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/) 2016/08/17
  - [10 professional fonts for designers](http://www.creativebloq.com/features/9-professional-fonts-for-designers) 2016/08/17
