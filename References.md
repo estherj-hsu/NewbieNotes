@@ -1,4 +1,11 @@
 ## SASS, CSS
+ - [How to use the module pattern in your SCSS/SASS stylesheets](https://medium.com/@marcmintel/how-to-use-the-module-pattern-in-your-scss-sass-stylesheets-89fe38a6e1f3#.nszbk6vca) 2016/09/01
+ - [Fun Times With CSS Pixel Art](https://css-tricks.com/fun-times-css-pixel-art/) 2016/09/01
+ - [action button with checkbox trick (NO JS)](http://codepen.io/jpag82/pen/xOmomX) 2016/09/01
+ - [Refactoring CSS: The Three I’s](http://csswizardry.com/2016/08/refactoring-css-the-three-i-s/) 2016/09/01
+ - [Pure CSS implementation of Google Photos / 500px image layout](https://github.com/xieranmaya/blog/issues/6) 2016/09/01
+ - [Developing Extensible HTML and CSS Components](https://css-tricks.com/developing-extensible-html-css-components/) 2016/09/01
+ - [CSS Positioning Explained By Building An Ice Cream Sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.qxyh7bju8) 2016/09/01
  - [Introducing CSS’ new font-display property](http://www.webdesignerdepot.com/2016/08/introducing-css-new-font-display-property/) 2016/08/29
  - [Use Cases for Fixed Backgrounds in CSS](https://css-tricks.com/use-cases-fixed-backgrounds-css/) 2016/08/29
  - [Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.x0p1hqf0d) 2016/08/29
@@ -100,6 +107,12 @@
  - [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/) 2016/08/17
 
 ## Front-End
+ - [Web Development Reading List #150: Less Code, GitHub’s Security, And The Morals Of Science](https://www.smashingmagazine.com/2016/08/web-development-reading-list-150/) 2016/09/01
+ - [Ways To Reduce Content Shifting On Page Load](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) 2016/09/01
+ - [When is the Right Time to Think about Web Performance?](https://css-tricks.com/right-time-think-web-performance/) 2016/09/01
+ - [40 Hours to Prototype](http://www.uxbooth.com/articles/40-hours-to-prototype/) 2016/09/01
+ - [7 Tips for Better Responsive Photo Galleries](https://designshack.net/articles/layouts/photo-gallery-tips/) 2016/09/01
+ - [How to Translate from DOM to SVG Coordinates and Back Again](https://www.sitepoint.com/how-to-translate-from-dom-to-svg-coordinates-and-back-again/) 2016/09/01
  - [Designers Should Learn Marketing](http://www.erickarjaluoto.com/blog/designers-should-learn-marketing/) 2016/08/29
  - [4 clear benefits of an A/B tested website](http://www.webdesignerdepot.com/2016/08/4-clear-benefits-of-an-ab-tested-website/) 2016/08/23
  - [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) 2016/08/17
@@ -112,6 +125,8 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
+ - [Essential design trends, August 2016](http://www.webdesignerdepot.com/2016/08/essential-design-trends-august-2016/) 2016/09/01
+ - [The Design Process](https://thedesignteam.io/the-design-process-67df3e8ec68f#.khdvc4v4b) 2016/09/01
  - [How to design words](https://medium.com/@jsaito/how-to-design-words-63d6965051e9#.r7ena86he) 2016/08/29
  - [The New Rules of Form Design](http://www.uxbooth.com/articles/the-new-rules-of-form-design/) 2016/08/29
  - [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.flrwvqtlh) 2016/08/29
@@ -179,6 +194,8 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [spectre (CSS Framework)](https://github.com/picturepan2/spectre) 2016/09/01
+ - [CanvasFlip](https://canvasflip.com/) 2016/09/01
  - [codedammit](http://codedammit.co/) 2016/08/29
  - [Kit FUI](https://www.noteloop.com/kit/fui/) 2016/08/23
  - [Getting to Know Cutestrap, a Lightweight CSS Framework](https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/) 2016/08/17
