@@ -1,4 +1,12 @@
 ## SASS, CSS
+ - [Front End Center — Current Color: The First CSS Variable](https://youtu.be/krbKkLPXwlQ) 2016/09/21
+ - [svg-patterns](https://github.com/derhuerst/svg-patterns) 2016/09/21
+ - [How To Create CSS Glitch Effect](https://ihatetomatoes.net/how-to-create-css-glitch-effect/) 2016/09/21
+ - [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS) 2016/09/21 :star:
+ - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) 2016/09/21 :star::star:
+ - [Captivatingly colourful campaigns: Our guide to using CSS Filters in email](https://medium.com/email-marketing-development/captivatingly-colourful-campaigns-our-guide-to-using-css-filters-in-email-b90214f58b63#.v46fsdb8n) 2016/09/21
+ - [Fullscreen Background Video with mix-blend-mode Overlay Text](http://thenewcode.com/1136/Fullscreen-Background-Video-with-mix-blend-mode-Overlay-Text) 2016/09/21 :star:
+ - [Fun with CSS: NBA edition](https://www.chenhuijing.com/blog/progressive-enhancement-experiment) 2016/09/21
  - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/) 2016/09/20
  - [A Few Different CSS Methods for Changing Display Order](http://webdesign.tutsplus.com/tutorials/a-few-different-css-methods-for-column-ordering--cms-27079) 2016/09/12
  - [The math of CSS locks](http://fvsch.com/code/css-locks/) 2016/09/12
@@ -117,6 +125,7 @@
  - [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/) 2016/08/17
 
 ## Front-End
+ - [Don’t ruin your `<img>`](https://medium.freecodecamp.com/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be#.qh9k50rvr) 2016/09/21
  - [The Conversion Certainty Framework: Building Certainty From Multiple A/B Tests](http://goodui.org/blog/the-conversion-certainty-framework-building-certainty-from-multiple-ab-tests/) 2016/09/12
  - [Content Marketing & SEO for Local Businesses](https://www.sitepoint.com/content-marketing-seo-for-local-businesses/) 2016/09/05
  - [Web Development Reading List #150: Less Code, GitHub’s Security, And The Morals Of Science](https://www.smashingmagazine.com/2016/08/web-development-reading-list-150/) 2016/09/01
@@ -137,7 +146,14 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
- - [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 2016/09/20 <i class="icon-star"></i>
+ - [Designing Interface Animation](http://alistapart.com/article/designing-interface-animation) 2016/09/21
+ - [The Beauty of Ultra-Minimal Web Design](https://speckyboy.com/beauty-ultra-minimal-web-design/) 2016/09/21
+ - [Variable fonts, a new kind of font for flexible design](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/) 2016/09/21
+ - [When Card UI Design Doesn’t Work](https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108?swoff=true#.bs2b28sja) 2016/09/21 :star::star::star::star::star: 
+ - [The Colors Used by the Ten Most Popular Sites](http://paulhebertdesigns.com/web_colors/) 2016/09/21 :star::star::star:
+ - [HAMBURGER MENUS AND HIDDEN NAVIGATION DAMAGE UX](http://whatusersdo.com/blog/hamburger-menus-damage-ux/) 2016/09/21
+ - [It’s Time, We Think Beyond Flat Designs in Website Development](https://medium.com/@kasparlavik/its-time-we-think-beyond-flat-designs-in-website-development-96171d7dae2e?ref=webdesignernews.com#.w3siu32dl) 2016/09/21 :star:
+ - [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 2016/09/20 :star::star::star: 
  - [Email finally wakes up to responsive design](http://www.webdesignerdepot.com/2016/09/email-finally-wakes-up-to-responsive-design/) 2016/09/20
  - [Design Trend: What’s Up With All Those Tiny Corner Logos?](https://designshack.net/articles/graphics/design-trend-whats-up-with-all-those-tiny-corner-logos/) 2016/09/20
  - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/) 2016/09/20 :star::star::star:
@@ -209,6 +225,8 @@
 
 
 ## Others
+ - [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.2r0s8s20b) 2016/09/21
+ - [IBM is gearing up to become the world’s largest and most sophisticated design company](http://qz.com/755741/ibm-is-becoming-the-worlds-largest-design-company/) 2016/09/21
  - [How not to design a Jobs page](https://webflow.com/blog/how-not-to-design-a-jobs-page) 2016/09/05
  - [This Development Tool Hurts Developers — Here’s How to Win Anyway](https://www.sitepoint.com/this-development-tool-hurts-developers-heres-how-to-win-anyway/) 2016/08/17
  - [Browser Trends August 2016: How Do Chrome’s Rivals Stack Up?](https://www.sitepoint.com/browser-trends-august-2016-how-do-chromes-rivals-stack-up/) 2016/08/17
@@ -225,6 +243,9 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [shoutem](http://shoutem.github.io/) 2016/09/21
+ - [Figma](https://www.figma.com/) 2016/09/21 :star:
+ - [lory](http://meandmax.github.io/lory/) 2016/09/21
  - [adioma](https://adioma.com/) 2016/09/20
  - [Sans Francis](http://www.sansfrancis.co/) 2016/09/12 :star::star::star::star::star:
  - [nippon colors](http://nipponcolors.com/) 2016/09/12 :star::star::star:
