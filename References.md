@@ -1,4 +1,14 @@
 ## SASS, CSS
+ - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/) 2016/09/20
+ - [A Few Different CSS Methods for Changing Display Order](http://webdesign.tutsplus.com/tutorials/a-few-different-css-methods-for-column-ordering--cms-27079) 2016/09/12
+ - [The math of CSS locks](http://fvsch.com/code/css-locks/) 2016/09/12
+ - [8-Digit Hex Codes?](https://css-tricks.com/8-digit-hex-codes/) 2016/09/12
+ - [Where Things Are at in the CSS Grid Layout Working Draft](https://www.sitepoint.com/where-things-are-at-in-the-css-grid-layout-working-draft/) 2016/09/12
+ - [Autoprefixing, with CSS variables!](http://lea.verou.me/2016/09/autoprefixing-with-css-variables/) 2016/09/12
+ - [Building Resizeable Components with Relative CSS Units](https://css-tricks.com/building-resizeable-components-relative-css-units/) 2016/09/12
+ - [AtoZ CSS Quick Tip: Auto](https://www.sitepoint.com/atoz-css-auto/) 2016/09/05
+ - [I Wanted to Type a Number](https://www.filamentgroup.com/lab/type-number.html) 2016/09/05
+ - [Inspiration for Navigation Indicators](http://tympanus.net/codrops/2016/09/02/inspiration-navigation-indicators/) 2016/09/05
  - [How to use the module pattern in your SCSS/SASS stylesheets](https://medium.com/@marcmintel/how-to-use-the-module-pattern-in-your-scss-sass-stylesheets-89fe38a6e1f3#.nszbk6vca) 2016/09/01
  - [Fun Times With CSS Pixel Art](https://css-tricks.com/fun-times-css-pixel-art/) 2016/09/01
  - [action button with checkbox trick (NO JS)](http://codepen.io/jpag82/pen/xOmomX) 2016/09/01
@@ -107,6 +117,8 @@
  - [A Comprehensive Look at jQuery Selectors](https://www.sitepoint.com/comprehensive-jquery-selectors/) 2016/08/17
 
 ## Front-End
+ - [The Conversion Certainty Framework: Building Certainty From Multiple A/B Tests](http://goodui.org/blog/the-conversion-certainty-framework-building-certainty-from-multiple-ab-tests/) 2016/09/12
+ - [Content Marketing & SEO for Local Businesses](https://www.sitepoint.com/content-marketing-seo-for-local-businesses/) 2016/09/05
  - [Web Development Reading List #150: Less Code, GitHub’s Security, And The Morals Of Science](https://www.smashingmagazine.com/2016/08/web-development-reading-list-150/) 2016/09/01
  - [Ways To Reduce Content Shifting On Page Load](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) 2016/09/01
  - [When is the Right Time to Think about Web Performance?](https://css-tricks.com/right-time-think-web-performance/) 2016/09/01
@@ -125,6 +137,24 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
+ - [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 2016/09/20 <i class="icon-star"></i>
+ - [Email finally wakes up to responsive design](http://www.webdesignerdepot.com/2016/09/email-finally-wakes-up-to-responsive-design/) 2016/09/20
+ - [Design Trend: What’s Up With All Those Tiny Corner Logos?](https://designshack.net/articles/graphics/design-trend-whats-up-with-all-those-tiny-corner-logos/) 2016/09/20
+ - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/) 2016/09/20 :star::star::star:
+ - [How to Create a Timeless Design: 7 Tips](https://designshack.net/articles/graphics/create-a-timeless-design/) 2016/09/20
+ - [How great onboarding leads to great UX](http://www.webdesignerdepot.com/2016/09/how-great-onboarding-leads-to-great-ux/) 2016/09/20
+ - [Experiential Design 101: Designing for VR](https://designshack.net/articles/graphics/experiential-design-101/) 2016/09/20
+ - [How to Stop Designing Square Layouts by Thinking Outside of the Box](https://www.sitepoint.com/stop-designing-square-layouts-thinking-outside-box/) 2016/09/20
+ - [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/) 2016/09/12
+ - [Breaking Out Of The Box: Design Inspiration (September 2016)](https://www.smashingmagazine.com/2016/09/breaking-out-of-the-box-design-inspiration-september-2016/) 2016/09/12
+ - [3 MORE Clever Psychology Rules for Making Better UX Decisions](https://www.sitepoint.com/3-clever-psychology-rules-making-better-ux-decisions/) 2016/09/12
+ - [Designer’s Guide to Working With Style Guides & Style Tiles](http://www.hongkiat.com/blog/style-guides-style-tiles/) 2016/09/12
+ - [Duotone in Web Design](https://blog.prototypr.io/duotone-in-web-design-875d8e90da4b) 2016/09/12
+ - [10 Skills Every Designer Needs on Their Resume](https://designshack.net/articles/business-articles/10-skills-every-designer-needs-on-their-resume/) 2016/09/12
+ - [Think Less. Design Better.](https://medium.com/@xtianmiller/think-less-design-better-f812c1617888) 2016/09/05
+ - [How to create trust with UX design](http://thenextweb.com/dd/2016/08/26/creating-trust-with-ux-design/) 2016/09/05
+ - [5 Design Jobs That Won't Exist In The Future](https://www.fastcodesign.com/3063318/5-design-jobs-that-wont-exist-in-the-future) 2016/09/05
+ - [4 Clever Psychology Rules for Making Better UX Decisions](https://www.sitepoint.com/4-clever-psychology-rules-for-making-better-ux-decisions/) 2016/09/05
  - [Essential design trends, August 2016](http://www.webdesignerdepot.com/2016/08/essential-design-trends-august-2016/) 2016/09/01
  - [The Design Process](https://thedesignteam.io/the-design-process-67df3e8ec68f#.khdvc4v4b) 2016/09/01
  - [How to design words](https://medium.com/@jsaito/how-to-design-words-63d6965051e9#.r7ena86he) 2016/08/29
@@ -149,7 +179,7 @@
  - [Why companies go for rebranding
 ](https://medium.com/@preeteshjain/why-companies-go-for-rebranding-b2c4f9237599) 2016/08/17
  - [How a Grid Based Approach Will Improve Your Designs](http://imediacanada.blogspot.tw/2016/08/how-grid-based-approach-will-improve_2.html) 2016/08/17
- - [http://www.webdesignerdepot.com/2016/08/facebook-delivers-a-better-ux-for-businesses](http://www.webdesignerdepot.com/2016/08/facebook-delivers-a-better-ux-for-businesses/) 2016/08/17
+ - [Facebook Delivers a Better UX for Businesses](http://www.webdesignerdepot.com/2016/08/facebook-delivers-a-better-ux-for-businesses/) 2016/08/17
  - [When to Use a Switch or Checkbox](http://uxmovement.com/buttons/when-to-use-a-switch-or-checkbox/) 2016/08/17
  - [Find Design Inspiration for the Web… In Print](https://designshack.net/articles/inspiration/print-design-inspiration/) 2016/08/17
  - [Does startup efficiency kill design originality?](http://www.webdesignerdepot.com/2016/08/does-startup-efficiency-kill-design-originality/) 2016/08/17
@@ -179,6 +209,7 @@
 
 
 ## Others
+ - [How not to design a Jobs page](https://webflow.com/blog/how-not-to-design-a-jobs-page) 2016/09/05
  - [This Development Tool Hurts Developers — Here’s How to Win Anyway](https://www.sitepoint.com/this-development-tool-hurts-developers-heres-how-to-win-anyway/) 2016/08/17
  - [Browser Trends August 2016: How Do Chrome’s Rivals Stack Up?](https://www.sitepoint.com/browser-trends-august-2016-how-do-chromes-rivals-stack-up/) 2016/08/17
  - [zingtouch](https://zingchart.github.io/zingtouch/) 2016/07/15
@@ -194,6 +225,11 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [adioma](https://adioma.com/) 2016/09/20
+ - [Sans Francis](http://www.sansfrancis.co/) 2016/09/12 :star::star::star::star::star:
+ - [nippon colors](http://nipponcolors.com/) 2016/09/12 :star::star::star:
+ - [Material Colorion](http://material.colorion.co/) 2016/09/05
+ - [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) 2016/09/05
  - [spectre (CSS Framework)](https://github.com/picturepan2/spectre) 2016/09/01
  - [CanvasFlip](https://canvasflip.com/) 2016/09/01
  - [codedammit](http://codedammit.co/) 2016/08/29
