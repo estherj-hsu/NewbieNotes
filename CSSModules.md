@@ -33,6 +33,7 @@
 
 ## References
  - [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.xk8dhx3fn)
+ - [Embracing Constraint with CSS Modules](https://medium.com/cartogram/embracing-constraint-with-css-modules-89ba3bbcb95d#.6w9h41hv0)
  - [CSS Modules 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20495964)
  - [React CSS Modules](https://github.com/gajus/react-css-modules)
  - [react-css-modules(中文)](https://segmentfault.com/a/1190000004530909#articleHeader0)

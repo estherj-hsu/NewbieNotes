@@ -1,11 +1,29 @@
 ## SASS, CSS
+ - [Understanding CSS Grid Layout](https://webdesign.tutsplus.com/series/understanding-css-grid-layout--cms-1079) 2016/09/30
+     - [CSS Grid Layout: Fluid Columns and Better Gutters](https://webdesign.tutsplus.com/tutorials/css-grid-layout-units-of-measurement-and-basic-keywords--cms-27259) 2016/09/30
+     - [CSS Grid Layout: Using Grid Areas](https://webdesign.tutsplus.com/tutorials/css-grid-layout-using-grid-areas--cms-27264) 2016/09/30
+     - [CSS Grid Layout: A Quick Start Guide](https://webdesign.tutsplus.com/tutorials/css-grid-layout-quick-start-guide--cms-27238) 2016/09/29
+ - [Make Forms Fun with Flexbox](https://www.sitepoint.com/make-forms-fun-with-flexbox/) 2016/09/29
+ - [Column Charts in CSS](https://blog.browserstream.com/column-charts-in-css-a2ae33fc80e7#.ireaeivq8) 2016/09/29
+ - [Why there is no CSS4 - explaining CSS Levels](https://www.rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/) 2016/09/29
+ - [SVG has more potential](https://madebymike.com.au//writing/svg-has-more-potential/) 2016/09/29
+ - [CSS Floats Explained By Riding An Escalator](https://medium.freecodecamp.com/css-floats-explained-by-riding-an-escalator-57fa55232333#.4a51bptdf) 2016/09/29
+ - [9 Underutilized Features in CSS](https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.iwyohsnm3) 2016/09/29 ★★
+ - [CSS Grid meets the real world - a login form](https://www.rachelandrew.co.uk/archives/2016/09/20/css-grid-meets-the-real-world-a-login-form) 2016/09/29
+ - [Accessible SVGs in High Contrast Mode](https://css-tricks.com/accessible-svgs-high-contrast-mode/) 2016/09/29
+ - [Responsive Images 201: Client Hints](https://cloudfour.com/thinks/responsive-images-201-client-hints/) 2016/09/29
+ - [Tilted Angles in Sass](https://www.sitepoint.com/tilted-angles-in-sass/) 2016/09/29
+ - [Mark Robbins | Modern CSS and interactive email | CSS Day 2016 (Video)](https://vimeo.com/181481382) 2016/09/29
+ - [text-spinners](https://github.com/tawian/text-spinners) 2016/09/29
+ - [Things to Watch Out for When Working with CSS 3D](https://css-tricks.com/things-watch-working-css-3d/) 2016/09/29 ★★★
+ - [AtoZ CSS Quick Tip: Justifying Text and Using Flexbox](https://www.sitepoint.com/atoz-css-quick-tip-justify-text/) 2016/09/29
  - [Front End Center — Current Color: The First CSS Variable](https://youtu.be/krbKkLPXwlQ) 2016/09/21
  - [svg-patterns](https://github.com/derhuerst/svg-patterns) 2016/09/21
  - [How To Create CSS Glitch Effect](https://ihatetomatoes.net/how-to-create-css-glitch-effect/) 2016/09/21
- - [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS) 2016/09/21 :star:
- - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) 2016/09/21 :star::star:
+ - [MinMaxing: Understanding vMin and vMax in CSS](http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS) 2016/09/21 ★
+ - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) 2016/09/21 ★★
  - [Captivatingly colourful campaigns: Our guide to using CSS Filters in email](https://medium.com/email-marketing-development/captivatingly-colourful-campaigns-our-guide-to-using-css-filters-in-email-b90214f58b63#.v46fsdb8n) 2016/09/21
- - [Fullscreen Background Video with mix-blend-mode Overlay Text](http://thenewcode.com/1136/Fullscreen-Background-Video-with-mix-blend-mode-Overlay-Text) 2016/09/21 :star:
+ - [Fullscreen Background Video with mix-blend-mode Overlay Text](http://thenewcode.com/1136/Fullscreen-Background-Video-with-mix-blend-mode-Overlay-Text) 2016/09/21 ★
  - [Fun with CSS: NBA edition](https://www.chenhuijing.com/blog/progressive-enhancement-experiment) 2016/09/21
  - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/) 2016/09/20
  - [A Few Different CSS Methods for Changing Display Order](http://webdesign.tutsplus.com/tutorials/a-few-different-css-methods-for-column-ordering--cms-27079) 2016/09/12
@@ -119,6 +137,8 @@
  - [Improving Your CSS with Parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/) 2016/06/02
 
 ## JS
+ - [Quick Tip: Add or Remove a CSS Class with Vanilla JavaScript](https://www.sitepoint.com/add-remove-css-class-vanilla-js/) 2016/09/29
+ - [Improve Your JavaScript Learning with Fun Experiments](https://www.sitepoint.com/improve-javascript-learning-experiments/) 2016/09/29
  - [webpack 从入门到上线](https://segmentfault.com/a/1190000006649986) 2016/08/29
  - [Shadow DOM](https://developers.google.com/web/fundamentals/primers/shadowdom/) 2016/08/23
  - [A Live Lesson in Diving into ES2015, with Darin Haener](https://www.sitepoint.com/a-live-lesson-in-diving-into-es2015-with-darin-haener/) 2016/08/17
@@ -146,17 +166,27 @@
  - [Browser Trends June 2016: Microsoft Misfortune](https://www.sitepoint.com/browser-trends-june-2016-microsoft-misfortune/) 2016/06/02
 
 ## Web Design / UX
+ - [Why your client needs a responsive website — not an app](https://webflow.com/blog/why-your-client-needs-a-responsive-website-not-an-app) 2016/09/30
+ - [Making Motion Meaningful](https://design.google.com/articles/making-motion-meaningful/) 2016/09/30
+ - [Inspirational Examples of UI Style Guides](https://speckyboy.com/inspirational-examples-ui-style-guides/) 2016/09/30
+ - [Form UX: Sometimes Even Apple, Google and Amazon Make Mistakes](https://www.sitepoint.com/form-ux-sometimes-even-apple-google-and-amazon-make-mistakes/) 2016/09/29 ★
+ - [How Constant UX Benchmarking Helps You Avoid UX Nightmares](https://www.sitepoint.com/how-constant-benchmarking-ux-helps-you-avoid-disasters/) 2016/09/29
+ - [36 BRILLIANT USER INTERFACE ANIMATIONS](http://digitalsynopsis.com/design/gif-icons-menu-transition-animations/) 2016/09/29
+ - [Tips for Using Icons in Your App](https://uxplanet.org/tips-for-using-icons-in-your-app-541a6728e7d4#.1s35hbfvu) 2016/09/29
+ - [Choosing The Right Prototyping Tool](https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/) 2016/09/29
+ - [Methods for Controlling Spacing in Web Typography](https://css-tricks.com/methods-controlling-spacing-web-typography/) 2016/09/29
+ - [A Usable Guide to Cognitive Dimensions](http://www.uxbooth.com/articles/a-usable-guide-to-cognitive-dimensions/) 2016/09/29 ★★★
  - [Designing Interface Animation](http://alistapart.com/article/designing-interface-animation) 2016/09/21
  - [The Beauty of Ultra-Minimal Web Design](https://speckyboy.com/beauty-ultra-minimal-web-design/) 2016/09/21
  - [Variable fonts, a new kind of font for flexible design](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/) 2016/09/21
- - [When Card UI Design Doesn’t Work](https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108?swoff=true#.bs2b28sja) 2016/09/21 :star::star::star::star::star: 
- - [The Colors Used by the Ten Most Popular Sites](http://paulhebertdesigns.com/web_colors/) 2016/09/21 :star::star::star:
+ - [When Card UI Design Doesn’t Work](https://medium.theuxblog.com/when-card-ui-design-doesnt-work-f4343118d108?swoff=true#.bs2b28sja) 2016/09/21 ★★★★★ 
+ - [The Colors Used by the Ten Most Popular Sites](http://paulhebertdesigns.com/web_colors/) 2016/09/21 ★★★
  - [HAMBURGER MENUS AND HIDDEN NAVIGATION DAMAGE UX](http://whatusersdo.com/blog/hamburger-menus-damage-ux/) 2016/09/21
- - [It’s Time, We Think Beyond Flat Designs in Website Development](https://medium.com/@kasparlavik/its-time-we-think-beyond-flat-designs-in-website-development-96171d7dae2e?ref=webdesignernews.com#.w3siu32dl) 2016/09/21 :star:
- - [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 2016/09/20 :star::star::star: 
+ - [It’s Time, We Think Beyond Flat Designs in Website Development](https://medium.com/@kasparlavik/its-time-we-think-beyond-flat-designs-in-website-development-96171d7dae2e?ref=webdesignernews.com#.w3siu32dl) 2016/09/21 ★
+ - [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/) 2016/09/20 ★★★ 
  - [Email finally wakes up to responsive design](http://www.webdesignerdepot.com/2016/09/email-finally-wakes-up-to-responsive-design/) 2016/09/20
  - [Design Trend: What’s Up With All Those Tiny Corner Logos?](https://designshack.net/articles/graphics/design-trend-whats-up-with-all-those-tiny-corner-logos/) 2016/09/20
- - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/) 2016/09/20 :star::star::star:
+ - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/) 2016/09/20 ★★★
  - [How to Create a Timeless Design: 7 Tips](https://designshack.net/articles/graphics/create-a-timeless-design/) 2016/09/20
  - [How great onboarding leads to great UX](http://www.webdesignerdepot.com/2016/09/how-great-onboarding-leads-to-great-ux/) 2016/09/20
  - [Experiential Design 101: Designing for VR](https://designshack.net/articles/graphics/experiential-design-101/) 2016/09/20
@@ -225,6 +255,8 @@
 
 
 ## Others
+ - [15 Must-have Chrome extensions for web designers and front end developer](https://medium.muz.li/15-must-have-chrome-extensions-for-web-designers-and-front-end-developer-b12c1bd9490c#.koi8csl9m) 2016/09/30
+ - [3 Years of Pattern Libraries: Lessons Learned](http://una.im/pattern-libs) 2016/09/29
  - [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.2r0s8s20b) 2016/09/21
  - [IBM is gearing up to become the world’s largest and most sophisticated design company](http://qz.com/755741/ibm-is-becoming-the-worlds-largest-design-company/) 2016/09/21
  - [How not to design a Jobs page](https://webflow.com/blog/how-not-to-design-a-jobs-page) 2016/09/05
@@ -243,12 +275,14 @@
  - [7 Things You Didn’t Learn in Design School (but Use Every Day)](https://designshack.net/articles/business-articles/7-things-you-didnt-learn-in-design-school-but-use-every-day/) 2016/06/14
 
 ## Tools/Materials
+ - [react-animations](http://react-animations.herokuapp.com/) 2016/09/29
+ - [Web Performance Checklist](http://jonyablonski.com/designers-wpo-checklist/) 2016/09/29
  - [shoutem](http://shoutem.github.io/) 2016/09/21
- - [Figma](https://www.figma.com/) 2016/09/21 :star:
+ - [Figma](https://www.figma.com/) 2016/09/21 ★
  - [lory](http://meandmax.github.io/lory/) 2016/09/21
  - [adioma](https://adioma.com/) 2016/09/20
- - [Sans Francis](http://www.sansfrancis.co/) 2016/09/12 :star::star::star::star::star:
- - [nippon colors](http://nipponcolors.com/) 2016/09/12 :star::star::star:
+ - [Sans Francis](http://www.sansfrancis.co/) 2016/09/12 ★★★★★
+ - [nippon colors](http://nipponcolors.com/) 2016/09/12 ★★★
  - [Material Colorion](http://material.colorion.co/) 2016/09/05
  - [HTML Sheets of Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) 2016/09/05
  - [spectre (CSS Framework)](https://github.com/picturepan2/spectre) 2016/09/01
