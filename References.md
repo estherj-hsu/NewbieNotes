@@ -42,7 +42,7 @@
  - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 2016/10/14
 
 ## Front-End
- - [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 2016/10/24
+ - [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 2016/10/24 ★
  - [A critical analysis of the iOS 10 lockscreen experience](https://uxdesign.cc/a-critical-analysis-of-the-ios-10-lockscreen-experience-726ddfba3c1a#.7smv89egz) 2016/10/24 ★★
  - [On Style Maintenance](https://css-tricks.com/on-style-maintenance/) 2016/10/24
  - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
