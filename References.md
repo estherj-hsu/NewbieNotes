@@ -1,4 +1,14 @@
 ## SASS, CSS
+ - [Why is Vertical Rhythm an Important Typography Practice?](https://zellwk.com/blog/why-vertical-rhythms/) 2016/10/28 ★★★
+ - [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/) 2016/10/28
+ - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/) 2016/10/28
+ - [CSS Variables: var(--subtitle); (video)](https://youtu.be/2an6-WVPuJU) 2016/10/28
+ - [Automatic responsive images with client hints](http://www.webdesignerdepot.com/2016/10/automatic-responsive-images-with-client-hints/) 2016/10/28
+ - [Introduction to SVG animation](https://www.oreilly.com/learning/introduction-to-svg-animation) 2016/10/28
+ - [Spoooooky CSS Selectors](https://css-tricks.com/spoooooky-css-selectors/) 2016/10/28
+ - [Create a set of micro-animations](https://medium.com/net-magazine/create-a-set-of-micro-animations-6bb42a292f8b#.i4beffvd4) 2016/10/28 ★★★
+ - [Designing with SVG: How Scalable Vector Graphics Can Increase Visitor Engagement](https://www.shopify.com/partners/blog/5-ways-to-use-svg-in-upcoming-client-projects) 2016/10/28
+ - [3 Essential Tips for Refactoring CSS Without Losing Your Mind](https://www.shopify.com/partners/blog/3-essential-tips-for-refactoring-css-without-losing-your-mind-from-harry-roberts) 2016/10/28
  - [Improving Perceived Performance with Multiple Background Images](http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/) 2016/10/24
  - ["Laying out the future with Grid and Flexbox" - View Source Conference talk by Rachel Andrew (Video)](https://youtu.be/ibeF6rbzD70) 2016/10/24
  - [CSS Grid Layout: Going Responsive](https://webdesign.tutsplus.com/tutorials/css-grid-layout-going-responsive--cms-27270) 2016/10/24
@@ -7,6 +17,7 @@
  - [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors) 2016/10/24
  - [AtoZ CSS Quick Tip: Placeholder Text](https://www.sitepoint.com/atoz-css-placeholder-text/) 2016/10/24
  - [Reactive Animations with CSS Variables](http://slides.com/davidkhourshid/reactanim) 2016/10/24
+    - [Reactive Animations with CSS (video)](https://youtu.be/lTCukb6Zn3g) 2016/10/28
  - [Pure CSS Content Filter](http://csswizardry.com/2016/10/pure-css-content-filter/) 2016/10/24
  - [SVG & media queries](https://jakearchibald.com/2016/svg-media-queries/) 2016/10/24
  - [Quantity queries and Flexbox part 2](http://www.lottejackson.com/learning/quantity-queries-and-flexbox-part-2) 2016/10/24
@@ -47,6 +58,10 @@
  - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
 
 ## Web Design / UX
+ - [How to Make Color Overlays Work in Your Design](https://designshack.net/articles/graphics/how-to-design-color-overlays/) 2016/10/28
+ - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 2016/10/28
+ - [Cinemagraphs in web design](http://www.webdesignerdepot.com/2016/10/cinemagraphs-in-web-design/) 2016/10/28
+ - [How to Lift Your UX Out of the Ordinary with Micro-Interactions](https://www.sitepoint.com/how-to-lift-your-ux-out-of-the-pack-with-micro-interactions/) 2016/10/28 ★★★
  - [The Movement Towards Motion in Website Backgrounds](https://www.sitepoint.com/the-movement-towards-motion-in-website-backgrounds/) 2016/10/24
  - [Designing Grids](https://zellwk.com/blog/designing-grids/) 2016/10/24 ★★★★
  - [Introducing Bootcards: Bootstrap Cards Made Easy](https://www.sitepoint.com/introducing-bootcards-bootstrap-cards-made-easy/) 2016/10/24
