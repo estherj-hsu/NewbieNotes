@@ -1,6 +1,5 @@
 ## SASS, CSS
  - [Improving Perceived Performance with Multiple Background Images](http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/) 2016/10/24
- - [Designing Grids](https://zellwk.com/blog/designing-grids/) 2016/10/24 ★★
  - ["Laying out the future with Grid and Flexbox" - View Source Conference talk by Rachel Andrew (Video)](https://youtu.be/ibeF6rbzD70) 2016/10/24
  - [CSS Grid Layout: Going Responsive](https://webdesign.tutsplus.com/tutorials/css-grid-layout-going-responsive--cms-27270) 2016/10/24
  - [`@supports` will change your life](http://www.lottejackson.com/learning/supports-will-change-your-life) 2016/10/24
@@ -49,6 +48,7 @@
 
 ## Web Design / UX
  - [The Movement Towards Motion in Website Backgrounds](https://www.sitepoint.com/the-movement-towards-motion-in-website-backgrounds/) 2016/10/24
+ - [Designing Grids](https://zellwk.com/blog/designing-grids/) 2016/10/24 ★★★★
  - [Introducing Bootcards: Bootstrap Cards Made Easy](https://www.sitepoint.com/introducing-bootcards-bootstrap-cards-made-easy/) 2016/10/24
  - [The Art Of Meaningful UX Design](https://uxplanet.org/the-art-of-meaningful-ux-design-7b89a8c765b7) 2016/10/24
  - [4 UX mistakes almost every designer makes](http://www.webdesignerdepot.com/2016/10/4-ux-mistakes-almost-every-designer-makes/) 2016/10/24
