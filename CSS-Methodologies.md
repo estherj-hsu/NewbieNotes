@@ -104,7 +104,7 @@ Style UI Tool for CSS (SUIT CSS) 類似 BEM 的 CSS 命名規範，此命名規�
  - 單獨元素
  - 修飾符
 
- SUIT CSS 以帕斯卡命名（PascalCase）為主，搭配駝峰命名（camelCase），減少 BEM 中的 -- / __ 使用量，並增加樣式名稱識別度。
+SUIT CSS 以帕斯卡命名（PascalCase）為主，搭配駝峰命名（camelCase），減少 BEM 中的 -- / __ 使用量，並增加樣式名稱識別度。
 
  > Reference
  > [https://github.com/estherj-hsu/suit/blob/master/doc/naming-conventions.md](https://github.com/estherj-hsu/suit/blob/master/doc/naming-conventions.md)
