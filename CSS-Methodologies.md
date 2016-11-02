@@ -226,6 +226,103 @@ ITCSS 設計者將 ITCSS 與 BEM 做完美融合為 BEMIT，是設計者本身�
     trumps
     -- _clear-fix.scss
 
+## The 7-1 Pattern
+
+sass-guideline 中建議的 sass 架構，7-1 代表 7 folders 1 file，主要是針對 sass 設計。
+
+ > Reference
+ > [https://sass-guidelin.es/#architecture](https://sass-guidelin.es/#architecture)
+
+#### Architecture
+
+    sass/
+    |
+    |– abstracts/             sass 應用相關變數、函式、mixins...等，亦可稱為 utilities 或 helpers
+    |   |– _variables.scss    # Sass Variables
+    |   |– _functions.scss    # Sass Functions
+    |   |– _mixins.scss       # Sass Mixins
+    |   |– _placeholders.scss # Sass Placeholders
+    |
+    |– base/                  基本設定，若專案有大量動畫需求，建議在此增加 _animations.scss
+    |   |– _reset.scss        # Reset/normalize
+    |   |– _typography.scss   # Typography rules
+    |   …                     # Etc.
+    |
+    |– components/            元件，亦可稱為 modules
+    |   |– _buttons.scss      # Buttons
+    |   |– _carousel.scss     # Carousel
+    |   |– _cover.scss        # Cover
+    |   |– _dropdown.scss     # Dropdown
+    |   …                     # Etc.
+    |
+    |– layout/                架構，框架，亦可稱為 partials
+    |   |– _navigation.scss   # Navigation
+    |   |– _grid.scss         # Grid system
+    |   |– _header.scss       # Header
+    |   |– _footer.scss       # Footer
+    |   |– _sidebar.scss      # Sidebar
+    |   |– _forms.scss        # Forms
+    |   …                     # Etc.
+    |
+    |– pages/                 頁面特定樣式
+    |   |– _home.scss         # Home specific styles
+    |   |– _contact.scss      # Contact specific styles
+    |   …                     # Etc.
+    |
+    |– themes/                通用頁面樣式
+    |   |– _theme.scss        # Default theme
+    |   |– _admin.scss        # Admin theme
+    |   …                     # Etc.
+    |
+    |– vendors/               第三方工具樣式
+    |   |– _bootstrap.scss    # Bootstrap
+    |   |– _jquery-ui.scss    # jQuery UI
+    |   …                     # Etc.
+    |
+    `– main.scss              # Main Sass file
+
+
+### Folders Order
+
+ 1. abstracts/
+ 1. vendors/
+ 1. base/
+ 1. layout/
+ 1. components/
+ 1. pages/
+ 1. themes/
+
+### main.scss
+
+    @import 'abstracts/variables';
+    @import 'abstracts/functions';
+    @import 'abstracts/mixins';
+    @import 'abstracts/placeholders';
+    
+    @import 'vendors/bootstrap';
+    @import 'vendors/jquery-ui';
+    
+    @import 'base/reset';
+    @import 'base/typography';
+    
+    @import 'layout/navigation';
+    @import 'layout/grid';
+    @import 'layout/header';
+    @import 'layout/footer';
+    @import 'layout/sidebar';
+    @import 'layout/forms';
+    
+    @import 'components/buttons';
+    @import 'components/carousel';
+    @import 'components/cover';
+    @import 'components/dropdown';
+    
+    @import 'pages/home';
+    @import 'pages/contact';
+    
+    @import 'themes/theme';
+    @import 'themes/admin';
+
 ## MVCSS
 
 MVCSS 是針對 sass 延伸出的 CSS 方法論，融合了SMACSS、OOCSS、BEM的設計模式，是少數**規範完整**的方法論。
@@ -298,16 +395,16 @@ MVCSS 是針對 sass 延伸出的 CSS 方法論，融合了SMACSS、OOCSS、BEM�
 	// Fourth Level
 
 ### Naming
-##### Tools
+#### Tools
 大部分的 Tool 類別看起來是首字母略縮詞。在這個概念下，採用兩個或三個字母的類別。
 .mbm = margin bottom medium
 .mbl = bottom margin large
 
-##### Components/Structures
+#### Components/Structures
  - 單數命名 Ex. icon, button, g (grid), form, modal
  - 如果名稱包含兩個單詞，利用 駝峰式命名（camelCase）Ex. taskList
 
-##### Modifiers
+#### Modifiers
 修飾符的存在允許建立在初始定義上的風格調整。這些調整以兩個連字符 -- 表示。例如，一個按鈕可能有一些不同的顏色和大小。
 
 > 註： 修飾符通常在分層序列（a、b）定義或透過功能（cancel、submit）時發揮最好，而不是使用外觀（red、blue）。
@@ -348,7 +445,7 @@ MVCSS 是針對 sass 延伸出的 CSS 方法論，融合了SMACSS、OOCSS、BEM�
 	.btn--b
 	  background: $c-highlight
 
-##### States
+#### States
 通常是透過 JavaScript 添加，狀態類似於修飾符但具有條件的情境。is- 表示是一個狀態，例如 is-active
 
     // *************************************
@@ -370,7 +467,7 @@ MVCSS 是針對 sass 延伸出的 CSS 方法論，融合了SMACSS、OOCSS、BEM�
 	.btn.is-active
 	  background: $c-highlight
 
-##### Context
+#### Context
 情境選擇器以 has- 開頭表示。
 
     // *************************************
@@ -392,7 +489,7 @@ MVCSS 是針對 sass 延伸出的 CSS 方法論，融合了SMACSS、OOCSS、BEM�
 	.has-dropdown
 	  position: relative
 
-##### Variables
+#### Variables
 定義在 Config 裡，並且帶有他們的角色或相應 Component/Structure 的前綴。
 
  - $b-* 用於基礎變數
