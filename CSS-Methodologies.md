@@ -172,6 +172,8 @@ Inverted Triangle CSS (ITCSS) 以倒三角的形狀為主要概念，由上到�
  - 可與其他方法論融合使用
  - 無特定的資料夾結構，活用度高
 
+=
+
  > Reference
  > [https://read01.com/ndExyQ.html](https://read01.com/ndExyQ.html)
  > [https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.pf75off6e](https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.pf75off6e)
