@@ -1,4 +1,10 @@
 ## SASS, CSS
+ - [CSS Grid布局：理解CSS Grid中自动排列的算法](http://www.w3cplus.com/css3/understanding-the-css-grid-auto-placement-algorithm.html) 2016/11/21
+ - [The Power of the rgba() Color Function in CSS](https://css-tricks.com/the-power-of-rgba/) 2016/11/21
+ - [The Best Way to Create Fantastic ‘Invisible Pen’ Effects in SVG](https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/) 2016/11/21
+ - [How CSS pseudo-classes work, explained with code and lots of diagrams](https://medium.freecodecamp.com/explained-css-pseudo-classes-cef3c3177361#.xtpfeaj6g) 2016/11/21
+ - [15kb of CSS is all you’ll ever need](https://medium.com/@philipardeljan/15kb-of-css-is-all-youll-ever-need-%EF%B8%8F-634da7258338#.l6rljhfgs) 2016/11/21
+ - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 2016/11/21
  - [20 essential CSS tricks every designer should know](http://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/) 2016/11/10
  - [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/) 2016/11/10
  - [A Handmade SVG Bar Chart (featuring some SVG positioning gotchas)](https://css-tricks.com/handmade-svg-bar-chart-featuring-svg-positioning-gotchas/) 2016/11/10
@@ -66,6 +72,10 @@
  - [Accessible floating labels](http://allthingssmitty.com/2016/09/25/accessible-floating-labels/) 2016/10/14
 
 ## JS
+ - [What Future Java Might Look Like](https://www.sitepoint.com/what-java-might-one-day-look-like/) 2016/11/21
+ - [Projects Can Sometimes Be the Worst Way to Learn JavaScript](https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/) 2016/11/21
+ - [12 JavaScript libraries to watch in 2017](http://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/) 2016/11/21
+ - [Maybe I Was Wrong about Java – Part 1](https://www.sitepoint.com/maybe-i-was-wrong-about-java-i/) 2016/11/21
  - [You Might Need JavaScript](http://hugogiraudel.com/2016/10/13/you-might-need-javascript/) 2016/10/24
  - [Stateful and stateless components, the missing manual](https://toddmotto.com/stateful-stateless-components) 2016/10/24
  - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 2016/10/14
@@ -78,6 +88,12 @@
  - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
 
 ## Web Design / UX
+ - [Exploring: Natural Language Forms](http://goodui.org/blog/exploring-natural-language-forms/) 2016/11/21
+ - [Creating a design system language](http://www.webdesignerdepot.com/2016/11/creating-a-design-system-language/) 2016/11/21
+ - [Chinese language on the web](https://www.chenhuijing.com/blog/chinese-web-typography/) 2016/11/21
+ - [Design a Better Logo: 5 Key Concepts to Consider](https://designshack.net/articles/graphics/design-a-better-logo/) 2016/11/21
+ - [Bitmap fonts﹣the (other) future of type](https://blog.fontself.com/bitmap-fonts-the-other-future-of-type-ca8aa5b51aa7#.hor7keb7f) 2016/11/21
+ - [The 8 Commandments of Creating an Awesome User Experience](http://uigarage.net/blog-post/8-commandments-creating-awesome-user-experience/) 2016/11/21
  - [Choosing the Right Display Typeface: 5 Tips for Success](https://designshack.net/articles/graphics/choosing-the-right-display-typeface-5-tips-for-success/) 2016/11/10
  - [5 Tips for Mixing Photos & Illustrations in a Single Design](https://designshack.net/articles/graphics/mixing-photos-illustrations/) 2016/11/10
  - [A Quick Guide For Designing Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/) 2016/11/10
@@ -115,11 +131,13 @@
 
 
 ## Others
+ - [The GIF Is Dead. Long Live the GIF.](http://www.popularmechanics.com/technology/a21457/the-gif-is-dead-long-live-the-gif/) 2016/11/21
  - [COLORON GAME: inspiring developers to use SVG Animations, ES6 and Flexbox ](http://codepen.io/gregh/full/yVLOyO/) 2016/11/10
  - [The Ultimate Guide to Chatbots: Why they’re disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.fbtihab6s) 2016/11/10
  - [Building “Topple Trump”, An Interactive Web-Based Quiz Game (Case Study)](https://www.smashingmagazine.com/2016/10/building-topple-trump-an-interactive-web-based-quiz-game-case-study/) 2016/10/14
 
 ## Tools/Materials
+ - [Tidy list using Mod Queries and Range Selectors](http://www.modqueries.com/) 2016/11/21
  - [materialette](https://mike-schultz.github.io/materialette/) 2016/10/24
  - [React Color](http://casesandberg.github.io/react-color/) 2016/10/24
  - [CSS ICON](http://cssicon.space/#/) 2016/10/24
