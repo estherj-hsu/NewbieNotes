@@ -1,4 +1,17 @@
 ## SASS, CSS
+ - [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) 2016/11/30
+ - [Style List Markers in CSS](https://css-tricks.com/style-list-markers-css/) 2016/11/30
+ - [Swapping State with CSS Keyframes](https://css-tricks.com/swapping-state-css-keyframes/) 2016/11/30
+ - [Tilt Hover Effects](http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/) 2016/11/30
+ - [High Contrast, A PostCSS Plugin Story*](https://css-tricks.com/high-contrast-postcss-plugin-story/) 2016/11/30
+ - [Nesting Your BEM?](http://csswizardry.com/2016/11/nesting-your-bem/) 2016/11/30 ★
+ - [Pure CSS Horizontal Scrolling](https://css-tricks.com/pure-css-horizontal-scrolling/) 2016/11/30
+ - [Seven Ways You Can Place Elements Using CSS Grid Layout](https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layout/) 2016/11/30
+ - [If CSS is so easy why does everyone suck?](https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.o1k6xmhru) 2016/11/30 ★★★
+ - [Sticky footer with flexbox](http://blog.schoenwald.media/sticky-footer-with-flexbox/) 2016/11/30
+ - [Your Ultimate Guide to CSS Units – All You Need to Know](http://blog.alexdevero.com/css-units-ultimate-guide/) 2016/11/30
+ - [Using CSS Variables in Site Development](http://thenewcode.com/1161/Using-CSS-Variables-in-Site-Development) 2016/11/30
+ - [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies) 2016/11/30 ★
  - [CSS Grid布局：理解CSS Grid中自动排列的算法](http://www.w3cplus.com/css3/understanding-the-css-grid-auto-placement-algorithm.html) 2016/11/21
  - [The Power of the rgba() Color Function in CSS](https://css-tricks.com/the-power-of-rgba/) 2016/11/21
  - [The Best Way to Create Fantastic ‘Invisible Pen’ Effects in SVG](https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/) 2016/11/21
@@ -81,6 +94,7 @@
  - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 2016/10/14
 
 ## Front-End
+ - [Random Interesting Facts on HTML/SVG usage](https://css-tricks.com/random-interesting-facts-htmlsvg-usage/) 2016/11/30
  - [How to Improve User Experience with Customer Journey Optimization](https://www.sitepoint.com/how-to-improve-user-experience-with-customer-journey-optimization/) 2016/11/10
  - [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 2016/10/24 ★
  - [A critical analysis of the iOS 10 lockscreen experience](https://uxdesign.cc/a-critical-analysis-of-the-ios-10-lockscreen-experience-726ddfba3c1a#.7smv89egz) 2016/10/24 ★★
@@ -88,6 +102,17 @@
  - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
 
 ## Web Design / UX
+ - [5 ways to identify quality stock images](http://www.webdesignerdepot.com/2016/11/5-ways-to-identify-quality-stock-images/) 2016/11/30
+ - [4 fresh alternatives to the hamburger menu](http://www.webdesignerdepot.com/2016/11/4-fresh-alternatives-to-the-hamburger-menu/) 2016/11/30
+ - [Thinking About Design Thinking: Is It Important?](https://designshack.net/articles/business-articles/thinking-about-design-thinking-is-it-important/) 2016/11/30 ★★★★★
+ - [Does Conversation Hurt Or Help The Chatbot UX?](https://www.smashingmagazine.com/2016/11/does-conversation-hurt-or-help-the-chatbot-ux/) 2016/11/30
+ - [Responsive web 9design basics](http://veerle.duoh.com/design/article/responsive_web_design_basics) 2016/11/30
+ - [Unbox the Web!](https://uxdesign.cc/unbox-the-web-f00bc8e0d0e3?ref=webdesignernews.com#.3orbkvpv9) 2016/11/30 ★★
+ - [The Irrational User – Startup Grind – Medium](https://medium.com/startup-grind/cognitive-bias-ad5f9fe7f59b#.q7yx20tc5) 2016/11/30 ★★★★★
+ - [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.cblb38deo) 2016/11/30 ★★★
+ - [100 Excuses for Designers](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910#.r7ivdjw2e) 2016/11/30 ★★★
+ - [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/) 2016/11/30
+ - [Accessible Design](https://seesparkbox.com/foundry/accessible_design#When:13:45:00Z) 2016/11/30 ★★
  - [Exploring: Natural Language Forms](http://goodui.org/blog/exploring-natural-language-forms/) 2016/11/21
  - [Creating a design system language](http://www.webdesignerdepot.com/2016/11/creating-a-design-system-language/) 2016/11/21
  - [Chinese language on the web](https://www.chenhuijing.com/blog/chinese-web-typography/) 2016/11/21
@@ -137,6 +162,9 @@
  - [Building “Topple Trump”, An Interactive Web-Based Quiz Game (Case Study)](https://www.smashingmagazine.com/2016/10/building-topple-trump-an-interactive-web-based-quiz-game-case-study/) 2016/10/14
 
 ## Tools/Materials
+ - [CSSSPIN](https://webkul.github.io/csspin/) 2016/11/30
+ - [Advanced Colors for OSX](http://advancedcolors.com/) 2016/11/30
+ - [Sprite Spirit](https://eliorshalev.github.io/sprite-spirit/) 2016/11/30
  - [Tidy list using Mod Queries and Range Selectors](http://www.modqueries.com/) 2016/11/21
  - [materialette](https://mike-schultz.github.io/materialette/) 2016/10/24
  - [React Color](http://casesandberg.github.io/react-color/) 2016/10/24
