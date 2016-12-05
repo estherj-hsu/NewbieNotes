@@ -14,6 +14,7 @@
  - 統一空格使用方式（冒號/分號後統一空格）
  - 以  `'單引號'`  呈現字串&路徑，若字串內包含單引號則使用雙引號 `"字串'引用'"`
 
+架構部分可以參考 sass 的 [The 7-1 Patterns](https://sass-guidelin.es/#architecture) 或之前整理的 [CSS-Methodologies](https://github.com/estherj-hsu/NewbieNotes/blob/master/CSS-Methodologies.md)
 
 ## &
 
