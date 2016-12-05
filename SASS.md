@@ -2,8 +2,8 @@
 
 自己整理的sass快速入門重點，對於已有CSS經驗、不想花時間研讀sass手冊的懶人們應該會節省不少時間。
 
- > Reference
- > [http://sass-lang.com/guide](http://sass-lang.com/guide)
+ > Reference  
+ > [http://sass-lang.com/guide](http://sass-lang.com/guide)  
  > [Sass Guidelines](https://sass-guidelin.es/)
 
 
