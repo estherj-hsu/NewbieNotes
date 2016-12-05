@@ -6,10 +6,18 @@
  > [http://sass-lang.com/guide](http://sass-lang.com/guide)  
  > [Sass Guidelines](https://sass-guidelin.es/)
 
+## 重點
+
+ - 以雙空格取代 tab
+ - 理想情況下每行的寬度在 80 字元內
+ - 以多行方式呈現（善用 nesting）
+ - 統一空格使用方式（冒號/分號後統一空格）
+ - 以  `'單引號'`  呈現字串&路徑，若字串內包含單引號則使用雙引號 `"字串'引用'"`
+
 
 ## &
 
-### &.--
+### & --
 
     h3
     font-size: 20px
