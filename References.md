@@ -1,4 +1,13 @@
 ## SASS, CSS
+ - [An SVG That Isn’t All… SVG](http://mediatemple.net/blog/tips/an-svg-that-isnt-all-svg/) 2016/12/08
+ - [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/) 2016/12/08 ★★★
+ - [The Power of Changing Classes](https://css-tricks.com/power-changing-classes/) 2016/12/08
+ - [Input Masking](https://css-tricks.com/input-masking/) 2016/12/08
+ - [Lace Patterns in CSS](http://kukuruku.co/hub/webdev/lace-patterns-in-css) 2016/12/08
+ - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 2016/12/08 ★★★
+ - [How to Add Icon Fonts to Any Element With CSS](http://webdesignerwall.com/tutorials/how-to-add-icon-fonts-to-any-element-with-css) 2016/12/08
+ - [Seven Ways You Can Place Elements Using CSS Grid Layout](https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layout/) 2016/12/08
+ - [Hierarchy view component with pure CSS (SASS)](https://medium.com/@sichisichi/hierarchy-view-component-with-pure-css-sass-1ff5add5cad7#.wwqve6ojd) 2016/12/08
  - [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) 2016/11/30
  - [Style List Markers in CSS](https://css-tricks.com/style-list-markers-css/) 2016/11/30
  - [Swapping State with CSS Keyframes](https://css-tricks.com/swapping-state-css-keyframes/) 2016/11/30
@@ -94,6 +103,8 @@
  - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 2016/10/14
 
 ## Front-End
+ - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/) 2016/12/08
+ - [Document Outlines in HTML 5.1](https://bitsofco.de/document-outlines-in-html-5-1/) 2016/12/08
  - [Random Interesting Facts on HTML/SVG usage](https://css-tricks.com/random-interesting-facts-htmlsvg-usage/) 2016/11/30
  - [How to Improve User Experience with Customer Journey Optimization](https://www.sitepoint.com/how-to-improve-user-experience-with-customer-journey-optimization/) 2016/11/10
  - [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 2016/10/24 ★
@@ -102,6 +113,13 @@
  - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
 
 ## Web Design / UX
+ - [What is Adaptive Design?](https://www.sitepoint.com/adaptive-design-different-responsive-design/) 2016/12/08 ★★★
+ - [Using Color Schemes in Mobile UI Design](https://www.sitepoint.com/using-color-schemes-in-mobile-ui-design/) 2016/12/08
+ - [How Does a User See Design?](https://designshack.net/articles/layouts/how-does-a-user-see-design/) 2016/12/08
+ - [How to use breadcrumbs (the right way)](http://www.webdesignerdepot.com/2016/11/how-to-use-breadcrumbs-the-right-way/) 2016/12/08
+ - [Death by Hamburger](https://uxdesign.cc/death-by-hamburger-2d1db115352a) 2016/12/08
+ - [ANT DESIGN](https://ant.design/) 2016/12/08
+ - [XD Essentials: The Art of Minimalism in App Design](https://blogs.adobe.com/creativecloud/xd-essentials-the-art-of-minimalism-in-app-design/) 2016/12/08 ★★★
  - [5 ways to identify quality stock images](http://www.webdesignerdepot.com/2016/11/5-ways-to-identify-quality-stock-images/) 2016/11/30
  - [4 fresh alternatives to the hamburger menu](http://www.webdesignerdepot.com/2016/11/4-fresh-alternatives-to-the-hamburger-menu/) 2016/11/30
  - [Thinking About Design Thinking: Is It Important?](https://designshack.net/articles/business-articles/thinking-about-design-thinking-is-it-important/) 2016/11/30 ★★★★★
