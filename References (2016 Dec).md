@@ -1,0 +1,197 @@
+## SASS, CSS
+ - [An SVG That Isn’t All… SVG](http://mediatemple.net/blog/tips/an-svg-that-isnt-all-svg/) 2016/12/08
+ - [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/) 2016/12/08 ★★★
+ - [The Power of Changing Classes](https://css-tricks.com/power-changing-classes/) 2016/12/08
+ - [Input Masking](https://css-tricks.com/input-masking/) 2016/12/08
+ - [Lace Patterns in CSS](http://kukuruku.co/hub/webdev/lace-patterns-in-css) 2016/12/08
+ - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 2016/12/08 ★★★
+ - [How to Add Icon Fonts to Any Element With CSS](http://webdesignerwall.com/tutorials/how-to-add-icon-fonts-to-any-element-with-css) 2016/12/08
+ - [Seven Ways You Can Place Elements Using CSS Grid Layout](https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layout/) 2016/12/08
+ - [Hierarchy view component with pure CSS (SASS)](https://medium.com/@sichisichi/hierarchy-view-component-with-pure-css-sass-1ff5add5cad7#.wwqve6ojd) 2016/12/08
+ - [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/) 2016/11/30
+ - [Style List Markers in CSS](https://css-tricks.com/style-list-markers-css/) 2016/11/30
+ - [Swapping State with CSS Keyframes](https://css-tricks.com/swapping-state-css-keyframes/) 2016/11/30
+ - [Tilt Hover Effects](http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/) 2016/11/30
+ - [High Contrast, A PostCSS Plugin Story*](https://css-tricks.com/high-contrast-postcss-plugin-story/) 2016/11/30
+ - [Nesting Your BEM?](http://csswizardry.com/2016/11/nesting-your-bem/) 2016/11/30 ★
+ - [Pure CSS Horizontal Scrolling](https://css-tricks.com/pure-css-horizontal-scrolling/) 2016/11/30
+ - [Seven Ways You Can Place Elements Using CSS Grid Layout](https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layout/) 2016/11/30
+ - [If CSS is so easy why does everyone suck?](https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.o1k6xmhru) 2016/11/30 ★★★
+ - [Sticky footer with flexbox](http://blog.schoenwald.media/sticky-footer-with-flexbox/) 2016/11/30
+ - [Your Ultimate Guide to CSS Units – All You Need to Know](http://blog.alexdevero.com/css-units-ultimate-guide/) 2016/11/30
+ - [Using CSS Variables in Site Development](http://thenewcode.com/1161/Using-CSS-Variables-in-Site-Development) 2016/11/30
+ - [When to use which CSS methodology](http://simurai.com/blog/2016/11/27/css-methodologies) 2016/11/30 ★
+ - [CSS Grid布局：理解CSS Grid中自动排列的算法](http://www.w3cplus.com/css3/understanding-the-css-grid-auto-placement-algorithm.html) 2016/11/21
+ - [The Power of the rgba() Color Function in CSS](https://css-tricks.com/the-power-of-rgba/) 2016/11/21
+ - [The Best Way to Create Fantastic ‘Invisible Pen’ Effects in SVG](https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/) 2016/11/21
+ - [How CSS pseudo-classes work, explained with code and lots of diagrams](https://medium.freecodecamp.com/explained-css-pseudo-classes-cef3c3177361#.xtpfeaj6g) 2016/11/21
+ - [15kb of CSS is all you’ll ever need](https://medium.com/@philipardeljan/15kb-of-css-is-all-youll-ever-need-%EF%B8%8F-634da7258338#.l6rljhfgs) 2016/11/21
+ - [Image Effects with CSS](http://bennettfeely.com/image-effects/) 2016/11/21
+ - [20 essential CSS tricks every designer should know](http://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/) 2016/11/10
+ - [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/) 2016/11/10
+ - [A Handmade SVG Bar Chart (featuring some SVG positioning gotchas)](https://css-tricks.com/handmade-svg-bar-chart-featuring-svg-positioning-gotchas/) 2016/11/10
+ - [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture) 2016/11/10
+ - [Difference between Translate & Position Relative](https://www.sitepoint.com/atoz-css-translate-vs-position/) 2016/11/10
+ - [Notes from CSS Dev Conf 2016](https://css-tricks.com/notes-css-dev-conf-2016/) 2016/11/10
+ - [How and Why You Should Inline Your Critical CSS](https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/) 2016/11/10
+ - [Using Y-Axis Transforms and Matrices](https://www.sitepoint.com/atoz-css-y-axis/) 2016/11/10
+ - [The State of Responsive 3D Shapes](https://css-tricks.com/state-responsive-3d-shapes/) 2016/11/10
+ - [CSS Grid, Flexbox And Box Alignment: Our New System For Web Layout](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/) 2016/11/10
+ - [Get Started on the CSS of the Future with PostCSS-cssnext](https://www.sitepoint.com/future-css-with-postcss-cssnext/) 2016/11/10
+ - [CSS Architecture for Design Systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/) 2016/11/10 ★★★
+ - [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.bxmnn3m1k) 2016/11/10
+ - [CSS Motion Path as of October 2016](http://codepen.io/danwilson/post/css-motion-paths-2016) 2016/11/10
+ - [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/) 2016/11/10 ★★★★★
+ - [Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/) 2016/11/10
+ - [How to Use CSS Shapes in Your Web Design](https://webdesign.tutsplus.com/tutorials/how-to-use-css-shapes-in-your-web-design--cms-27498) 2016/11/10
+ - [CSS Flexbox Explained by Road Tripping Across the Country](https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.xujb3qwko) 2016/11/10
+ - [CSS Loader](http://www.raphaelfabeni.com.br/css-loader/) 2016/11/10
+ - [Why is Vertical Rhythm an Important Typography Practice?](https://zellwk.com/blog/why-vertical-rhythms/) 2016/10/28 ★★★
+ - [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/) 2016/10/28
+ - [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/) 2016/10/28
+ - [CSS Variables: var(--subtitle); (video)](https://youtu.be/2an6-WVPuJU) 2016/10/28
+ - [Automatic responsive images with client hints](http://www.webdesignerdepot.com/2016/10/automatic-responsive-images-with-client-hints/) 2016/10/28
+ - [Introduction to SVG animation](https://www.oreilly.com/learning/introduction-to-svg-animation) 2016/10/28
+ - [Spoooooky CSS Selectors](https://css-tricks.com/spoooooky-css-selectors/) 2016/10/28
+ - [Create a set of micro-animations](https://medium.com/net-magazine/create-a-set-of-micro-animations-6bb42a292f8b#.i4beffvd4) 2016/10/28 ★★★
+ - [Designing with SVG: How Scalable Vector Graphics Can Increase Visitor Engagement](https://www.shopify.com/partners/blog/5-ways-to-use-svg-in-upcoming-client-projects) 2016/10/28
+ - [3 Essential Tips for Refactoring CSS Without Losing Your Mind](https://www.shopify.com/partners/blog/3-essential-tips-for-refactoring-css-without-losing-your-mind-from-harry-roberts) 2016/10/28
+ - [Improving Perceived Performance with Multiple Background Images](http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/) 2016/10/24
+ - ["Laying out the future with Grid and Flexbox" - View Source Conference talk by Rachel Andrew (Video)](https://youtu.be/ibeF6rbzD70) 2016/10/24
+ - [CSS Grid Layout: Going Responsive](https://webdesign.tutsplus.com/tutorials/css-grid-layout-going-responsive--cms-27270) 2016/10/24
+ - [`@supports` will change your life](http://www.lottejackson.com/learning/supports-will-change-your-life) 2016/10/24
+ - [Thoughtful CSS Architecture](https://seesparkbox.com/foundry/thoughtful_css_architecture) 2016/10/24 ★★★★★
+ - [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors) 2016/10/24
+ - [AtoZ CSS Quick Tip: Placeholder Text](https://www.sitepoint.com/atoz-css-placeholder-text/) 2016/10/24
+ - [Reactive Animations with CSS Variables](http://slides.com/davidkhourshid/reactanim) 2016/10/24
+    - [Reactive Animations with CSS (video)](https://youtu.be/lTCukb6Zn3g) 2016/10/28
+ - [Pure CSS Content Filter](http://csswizardry.com/2016/10/pure-css-content-filter/) 2016/10/24
+ - [SVG & media queries](https://jakearchibald.com/2016/svg-media-queries/) 2016/10/24
+ - [Quantity queries and Flexbox part 2](http://www.lottejackson.com/learning/quantity-queries-and-flexbox-part-2) 2016/10/24
+ - [Creating the Periodic Table with Grid CSS](https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css) 2016/10/24
+ - [Continue Normalising Your CSS](http://csswizardry.com/2016/10/continue-normalising-your-css/) 2016/10/24 ★★★
+ - [AtoZ CSS Screencast: The Required Pseudo Class](https://www.sitepoint.com/atoz-css-screencast-required/) 2016/10/24
+ - [AtoZ CSS Quick Tip: Benefits of rem and em Values](https://www.sitepoint.com/atoz-css-quick-tip-rem-em-values/) 2016/10/24
+ - [Styling Underlines on the Web](https://css-tricks.com/styling-underlines-web/) 2016/10/14
+ - [Using CSS Mod Queries with Range Selectors](http://alistapart.com/article/using-css-mod-queries-with-range-selectors) 2016/10/14
+ - [SVG & media queries](https://jakearchibald.com/2016/svg-media-queries/) 2016/10/14
+ - [HTML: HTML5 Form Validation Examples](http://www.the-art-of-web.com/html/html5-form-validation/) 2016/10/14
+ - [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/) 2016/10/14
+ - [Synchronise background position with padding](http://codepen.io/HugoGiraudel/pen/vXpqmw) 2016/10/14
+ - [Refactoring CSS Without Losing Your Mind(Video)](https://slideslive.com/38898201/refactoring-css-without-losing-your-mind) 2016/10/14
+ - [A Redesign with CSS Shapes](http://alistapart.com/article/redesign-with-css-shapes) 2016/10/14
+ - [How to use CSS Feature Queries](https://getflywheel.com/layout/css-feature-queries-how-to/) 2016/10/14
+ - [Responsive table layout](http://allthingssmitty.com/2016/10/03/responsive-table-layout/) 2016/10/14 ★★★★★
+ - [Building a Maintainable and Scalable CSS Codebase with ITCSS](https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.1cx1g0le1) 2016/10/14
+ - [Can we stop bad-mouthing CSS in developer talks, please?](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 2016/10/14
+ - [The Disrupt Factor: What Makes Great Design So Disruptive?](https://www.ceros.com/blog/disrupt-factor-makes-great-design-disruptive/) 2016/10/14
+ - [CSS Selectors Level 4 中的新东西](https://fe.ele.me/css-selectors-level-4-zhong-de-xin-dong-xi/) 2016/10/14
+ - [Magic randomisation with nth-child and Cicada Principle](http://www.lottejackson.com/learning/nth-child-cicada-principle) 2016/10/14
+ - [Transition Effect with CSS Masks](http://tympanus.net/codrops/2016/09/29/transition-effect-with-css-masks/) 2016/10/14
+ - [Will we be flattening our HTML for CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/) 2016/10/14
+ - [Flex-grow 9999 Hack](http://joren.co/flex-grow-9999-hack/) 2016/10/14
+ - [Using Round and Space in Repeated Background Images](http://thenewcode.com/1143/Even-Stevens-Using-Round-and-Space-in-Repeated-Background-Images) 2016/10/14
+ - [Accessible floating labels](http://allthingssmitty.com/2016/09/25/accessible-floating-labels/) 2016/10/14
+
+## JS
+ - [What Future Java Might Look Like](https://www.sitepoint.com/what-java-might-one-day-look-like/) 2016/11/21
+ - [Projects Can Sometimes Be the Worst Way to Learn JavaScript](https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/) 2016/11/21
+ - [12 JavaScript libraries to watch in 2017](http://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/) 2016/11/21
+ - [Maybe I Was Wrong about Java – Part 1](https://www.sitepoint.com/maybe-i-was-wrong-about-java-i/) 2016/11/21
+ - [You Might Need JavaScript](http://hugogiraudel.com/2016/10/13/you-might-need-javascript/) 2016/10/24
+ - [Stateful and stateless components, the missing manual](https://toddmotto.com/stateful-stateless-components) 2016/10/24
+ - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 2016/10/14
+
+## Front-End
+ - [What’s New in HTML 5.1](https://www.sitepoint.com/whats-new-in-html-5-1/) 2016/12/08
+ - [Document Outlines in HTML 5.1](https://bitsofco.de/document-outlines-in-html-5-1/) 2016/12/08
+ - [Random Interesting Facts on HTML/SVG usage](https://css-tricks.com/random-interesting-facts-htmlsvg-usage/) 2016/11/30
+ - [How to Improve User Experience with Customer Journey Optimization](https://www.sitepoint.com/how-to-improve-user-experience-with-customer-journey-optimization/) 2016/11/10
+ - [You Can't Detect A Touchscreen](http://www.stucox.com/blog/you-cant-detect-a-touchscreen/) 2016/10/24 ★
+ - [A critical analysis of the iOS 10 lockscreen experience](https://uxdesign.cc/a-critical-analysis-of-the-ios-10-lockscreen-experience-726ddfba3c1a#.7smv89egz) 2016/10/24 ★★
+ - [On Style Maintenance](https://css-tricks.com/on-style-maintenance/) 2016/10/24
+ - [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/) 2016/10/14
+
+## Web Design / UX
+ - [What is Adaptive Design?](https://www.sitepoint.com/adaptive-design-different-responsive-design/) 2016/12/08 ★★★
+ - [Using Color Schemes in Mobile UI Design](https://www.sitepoint.com/using-color-schemes-in-mobile-ui-design/) 2016/12/08
+ - [How Does a User See Design?](https://designshack.net/articles/layouts/how-does-a-user-see-design/) 2016/12/08
+ - [How to use breadcrumbs (the right way)](http://www.webdesignerdepot.com/2016/11/how-to-use-breadcrumbs-the-right-way/) 2016/12/08
+ - [Death by Hamburger](https://uxdesign.cc/death-by-hamburger-2d1db115352a) 2016/12/08
+ - [ANT DESIGN](https://ant.design/) 2016/12/08
+ - [XD Essentials: The Art of Minimalism in App Design](https://blogs.adobe.com/creativecloud/xd-essentials-the-art-of-minimalism-in-app-design/) 2016/12/08 ★★★
+ - [5 ways to identify quality stock images](http://www.webdesignerdepot.com/2016/11/5-ways-to-identify-quality-stock-images/) 2016/11/30
+ - [4 fresh alternatives to the hamburger menu](http://www.webdesignerdepot.com/2016/11/4-fresh-alternatives-to-the-hamburger-menu/) 2016/11/30
+ - [Thinking About Design Thinking: Is It Important?](https://designshack.net/articles/business-articles/thinking-about-design-thinking-is-it-important/) 2016/11/30 ★★★★★
+ - [Does Conversation Hurt Or Help The Chatbot UX?](https://www.smashingmagazine.com/2016/11/does-conversation-hurt-or-help-the-chatbot-ux/) 2016/11/30
+ - [Responsive web 9design basics](http://veerle.duoh.com/design/article/responsive_web_design_basics) 2016/11/30
+ - [Unbox the Web!](https://uxdesign.cc/unbox-the-web-f00bc8e0d0e3?ref=webdesignernews.com#.3orbkvpv9) 2016/11/30 ★★
+ - [The Irrational User – Startup Grind – Medium](https://medium.com/startup-grind/cognitive-bias-ad5f9fe7f59b#.q7yx20tc5) 2016/11/30 ★★★★★
+ - [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.cblb38deo) 2016/11/30 ★★★
+ - [100 Excuses for Designers](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910#.r7ivdjw2e) 2016/11/30 ★★★
+ - [The Wireframe Perfectionist’s Guide](https://www.smashingmagazine.com/2016/11/wireframe-perfectionist-guide/) 2016/11/30
+ - [Accessible Design](https://seesparkbox.com/foundry/accessible_design#When:13:45:00Z) 2016/11/30 ★★
+ - [Exploring: Natural Language Forms](http://goodui.org/blog/exploring-natural-language-forms/) 2016/11/21
+ - [Creating a design system language](http://www.webdesignerdepot.com/2016/11/creating-a-design-system-language/) 2016/11/21
+ - [Chinese language on the web](https://www.chenhuijing.com/blog/chinese-web-typography/) 2016/11/21
+ - [Design a Better Logo: 5 Key Concepts to Consider](https://designshack.net/articles/graphics/design-a-better-logo/) 2016/11/21
+ - [Bitmap fonts﹣the (other) future of type](https://blog.fontself.com/bitmap-fonts-the-other-future-of-type-ca8aa5b51aa7#.hor7keb7f) 2016/11/21
+ - [The 8 Commandments of Creating an Awesome User Experience](http://uigarage.net/blog-post/8-commandments-creating-awesome-user-experience/) 2016/11/21
+ - [Choosing the Right Display Typeface: 5 Tips for Success](https://designshack.net/articles/graphics/choosing-the-right-display-typeface-5-tips-for-success/) 2016/11/10
+ - [5 Tips for Mixing Photos & Illustrations in a Single Design](https://designshack.net/articles/graphics/mixing-photos-illustrations/) 2016/11/10
+ - [A Quick Guide For Designing Better Buttons](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/) 2016/11/10
+ - [Content Strategy & Web Design: Connecting the Dots](https://designshack.net/articles/business-articles/content-strategy-for-web-designers/) 2016/11/10
+ - [Hamburger menu alternatives for mobile navigation](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.4xg9ffp4l) 2016/11/10
+ - [Designing Confirmation](https://uxdesign.cc/designing-confirmation-278d159723e#.k3d6xn9rv) 2016/11/10
+ - [The Future of Web Forms](https://blog.prototypr.io/the-future-of-web-forms-4578485e1461) 2016/11/10
+ - [Designers, We Need to Talk About Development](https://webdesign.tutsplus.com/articles/designers-we-need-to-talk-about-development--cms-27286) 2016/11/10
+ - [How to Make Color Overlays Work in Your Design](https://designshack.net/articles/graphics/how-to-design-color-overlays/) 2016/10/28
+ - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 2016/10/28
+ - [Cinemagraphs in web design](http://www.webdesignerdepot.com/2016/10/cinemagraphs-in-web-design/) 2016/10/28
+ - [How to Lift Your UX Out of the Ordinary with Micro-Interactions](https://www.sitepoint.com/how-to-lift-your-ux-out-of-the-pack-with-micro-interactions/) 2016/10/28 ★★★
+ - [The Movement Towards Motion in Website Backgrounds](https://www.sitepoint.com/the-movement-towards-motion-in-website-backgrounds/) 2016/10/24
+ - [Designing Grids](https://zellwk.com/blog/designing-grids/) 2016/10/24 ★★★★
+ - [Introducing Bootcards: Bootstrap Cards Made Easy](https://www.sitepoint.com/introducing-bootcards-bootstrap-cards-made-easy/) 2016/10/24
+ - [The Art Of Meaningful UX Design](https://uxplanet.org/the-art-of-meaningful-ux-design-7b89a8c765b7) 2016/10/24
+ - [4 UX mistakes almost every designer makes](http://www.webdesignerdepot.com/2016/10/4-ux-mistakes-almost-every-designer-makes/) 2016/10/24
+ - [Button Design Tips: Simple, Small and Vitally Important](https://designshack.net/articles/graphics/button-design-tips/)
+ - [Line Maker: Animated Decorative Lines](http://tympanus.net/codrops/2016/10/12/animated-decorative-lines/) 2016/10/24
+ - [Material Design Awards 2016](https://design.google.com/articles/material-design-awards-2016/) 2016/10/24 ★★★
+ - [5 Top Landing Page Mistakes](https://www.sitepoint.com/5-top-landing-page-mistakes/) 2016/10/24
+ - [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6) 2016/10/24
+ - [How To Build Honest UIs And Help Users Make Better Decisions](https://www.smashingmagazine.com/2016/10/how-to-build-honest-uis-and-help-users-make-better-decisions/) 2016/10/24
+ - [Designing for mobile app commerce](http://www.webdesignerdepot.com/2016/10/designing-for-mobile-app-commerce/) 2016/10/24
+ - [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/) 2016/10/24 ★★★
+ - [A Beginner’s Guide to Emotive UI](https://designshack.net/articles/graphics/beginners-guide-to-emotive-ui/) 2016/10/24
+ - [Designing Card-Based User Interfaces](https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/) 2016/10/14 ★★
+ - [Zoom Mocks: Bridging The Divide Between Styles And Page Design](https://www.lullabot.com/articles/zoom-mocks-bridging-the-divide-between-styles-and-page-design) 2016/10/14
+ - [The State of HTML5 Input Elements](https://www.sitepoint.com/the-state-of-html5-input-elements/) 2016/10/14
+ - [In-App Gestures And Mobile App User Experience](https://www.smashingmagazine.com/2016/10/in-app-gestures-and-mobile-app-user-experience/) 2016/10/14
+ - [Your Body Text Is Too Small](https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.83wtetcdk) 2016/10/14
+ - [Grid layout is a much needed step-change for CSS](http://maketea.co.uk/2016/09/28/css-grid-layout-is-a-step-change.html) 2016/10/14
+ - [Should UX Designers Join the Dark Side?](https://uxdesign.cc/should-ux-designers-join-the-dark-side-13e74eec1c33) 2016/10/14
+ - [Good Enough Design](https://medium.com/this-also/good-enough-design-29ab5132f3a3) 2016/10/14
+
+
+## Others
+ - [The GIF Is Dead. Long Live the GIF.](http://www.popularmechanics.com/technology/a21457/the-gif-is-dead-long-live-the-gif/) 2016/11/21
+ - [COLORON GAME: inspiring developers to use SVG Animations, ES6 and Flexbox ](http://codepen.io/gregh/full/yVLOyO/) 2016/11/10
+ - [The Ultimate Guide to Chatbots: Why they’re disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.fbtihab6s) 2016/11/10
+ - [Building “Topple Trump”, An Interactive Web-Based Quiz Game (Case Study)](https://www.smashingmagazine.com/2016/10/building-topple-trump-an-interactive-web-based-quiz-game-case-study/) 2016/10/14
+
+## Tools/Materials
+ - [CSSSPIN](https://webkul.github.io/csspin/) 2016/11/30
+ - [Advanced Colors for OSX](http://advancedcolors.com/) 2016/11/30
+ - [Sprite Spirit](https://eliorshalev.github.io/sprite-spirit/) 2016/11/30
+ - [Tidy list using Mod Queries and Range Selectors](http://www.modqueries.com/) 2016/11/21
+ - [materialette](https://mike-schultz.github.io/materialette/) 2016/10/24
+ - [React Color](http://casesandberg.github.io/react-color/) 2016/10/24
+ - [CSS ICON](http://cssicon.space/#/) 2016/10/24
+ - [SVG Charting Libraries](http://mediatemple.net/blog/tips/svg-charting-libraries/) 2016/10/24
+ - [Type Nugget](http://beta.typenugget.com/) 2016/10/14
+ - [YOU MIGHT NOT NEED JAVASCRIPT](http://youmightnotneedjs.com/) 2016/10/14 ★★★★★
+ - [Hero Patterns](http://www.heropatterns.com/) 2016/10/14
+ - [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/) 2016/10/14
+ - [10 Mega Menu CSS Templates](https://designshack.net/articles/inspiration/10-mega-menu-css-templates/) 2016/10/14
+ - [Open color](https://yeun.github.io/open-color/) 2016/10/14
+ - [Coolors: Beautiful Color Palettes](https://cristhgunners.github.io/Coolors/) 2016/10/14
