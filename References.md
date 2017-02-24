@@ -1,4 +1,29 @@
 ## SASS, CSS
+ - [A Trick: Individual CSS Transform Functions](https://danielcwilson.com/blog/2017/02/individual-transforms/) 2017/02/24
+ - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) 2017/02/24
+ - [Box Alignment Cheatsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment) 2017/02/24
+ - [Do we need a new heading element? We don't know](https://jakearchibald.com/2017/do-we-need-a-new-heading-element/) 2017/02/24
+ - [How to Use CSS Animations Like a Pro](https://stories.jotform.com/how-to-use-css-animations-like-a-pro-dfacc1e97338#.z9r7uzaa0) 2017/02/24
+ - [Responsive CSS Patterns without Media Queries](https://www.sitepoint.com/responsive-css-patterns-without-media-queries/) 2017/02/24
+ - [Squeezy Stretchy Flexbox Nav](https://css-tricks.com/squeezy-stretchy-flexbox-nav/) 2017/02/24
+ - [Deep dive CSS: font metrics, line-height and vertical-align](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align) 2017/02/24 ★★
+ - [CSS and progressive enhancement](https://justmarkup.com/log/2017/02/css-and-progressive-enhancement/) 2017/02/24
+ - [How to Build an Off-Canvas Navigation With CSS Grid](https://webdesign.tutsplus.com/tutorials/how-to-build-an-off-canvas-navigation-with-css-grid--cms-28191) 2017/02/24
+ - [Coding CSS for Context](https://snook.ca/archives/html_and_css/coding-css-for-context) 2017/02/24
+ - [User Sortable Lists with Flexbox and jQuery](https://www.sitepoint.com/user-sortable-lists-flexbox-jquery/) 2017/02/24
+ - [CSS Pseudo-classes: Styling Elements Based on Their Index](https://www.sitepoint.com/css-pseudo-classes-styling-elements-based-on-their-index/) 2017/02/24
+ - [html & css is hard](https://internetingishard.com/html-and-css/) 2017/02/24 ★
+ - [Exercises in Flexbox: Simple Web Components](https://webdesign.tutsplus.com/tutorials/exercises-in-flexbox-simple-web-components--cms-28049) 2017/02/24
+ - [Code Smells in CSS Revisited](https://csswizardry.com/2017/02/code-smells-in-css-revisited/) 2017/02/13
+ - [Bringing Websites to Life with CSS Animations](https://www.sitepoint.com/css-animations-bringing-websites-to-life/) 2017/02/13
+ - [Bridging CSS and JS with Custom Properties](https://sgom.es/posts/2017-02-10-bridging-css-and-js-with-custom-properties/) 2017/02/13
+ - [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/) 2017/02/13
+ - [Utilizing the “C” in CSS](https://blog.graphitegtc.com/utilizing-the-c-in-css-ed1947657ea3#.c520p1hbg) 2017/02/13
+ - [CSS Pseudo-classes: Styling Form Fields Based on Their Input](https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/) 2017/02/13
+ - [Pocket Guide to CSS only Drawings and Animations](https://journal.helabs.com/pocket-guide-to-css-only-drawings-and-animations-781470436ecc#.yjkhbyvcm) 2017/02/13
+ - [CSS Grid – Table layout is back. Be there and be square.](https://developers.google.com/web/updates/2017/01/css-grid) 2017/02/13
+ - [A Step by Step Guide to the Auto-Placement Algorithm in CSS Grid](https://www.sitepoint.com/a-step-by-step-guide-to-the-auto-placement-algorithm-in-css-grid/) 2017/02/13
+ - [More HTML5 Semantics: New Elements and Features](https://www.sitepoint.com/more-html5-semantics-new-elements-and-features/) 2017/02/13
  - [Nope, nope, nope, line-height is unitless](http://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless/) 2017/02/06
  - [How to Create Direction-Aware CSS-Only Hover Effects](http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects) 2017/02/06
  - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.az2figkz3) 2017/02/06
@@ -44,10 +69,20 @@
 
 
 ## Front-End
+ - [Frontend Design](http://bradfrost.com/blog/post/frontend-design/) 2017/02/24
+ - [Writing a Great README — Written by Daniel Bader](https://medium.com/code-the-world/writing-a-great-readme-written-by-daniel-bader-4a02d1edc7a#.eczdg4tqn) 2017/02/24
+ - [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572#.nppfloslf) 2017/02/24
  - [The most promising design tools you should try in 2017](https://blog.prototypr.io/the-most-promising-design-tools-you-should-try-in-2017-2e5d34b16261#.ngvqjsv57) 2017/01/19
 
 
 ## Web Design / UX
+ - [How To Use Shadows And Blur Effects In Modern UI Design](https://www.smashingmagazine.com/2017/02/shadows-blur-effects-user-interface-design/) 2017/02/24
+ - [10 Ways to Simplify Your Design](https://designshack.net/articles/graphics/10-ways-to-simplify-your-design/) 2017/02/24
+ - [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd?ref=webdesignernews.com#.fkul7mmh5) 2017/02/24
+ - [Context is key for effective UX Design](http://www.webdesignerdepot.com/2017/02/context-is-key-for-effective-ux-design/) 2017/02/24
+ - [Do responsive sites have to be so tall on mobile?](https://www.viget.com/articles/do-responsive-sites-have-to-be-so-tall-on-mobile) 2017/02/23
+ - [4 simple steps for perfect web navigation](http://www.webdesignerdepot.com/2017/02/4-simple-steps-for-perfect-web-navigation/) 2017/02/23
+ - [Inspiration for Search UI Effects](https://tympanus.net/codrops/2017/02/08/inspiration-search-ui-effects/) 2017/02/13
  - [5 psychology rules every UX designer must know](http://www.webdesignerdepot.com/2017/02/5-psychology-rules-every-ux-designer-must-know/) 2017/02/06
  - [Guilty Pleasures for Designers](https://medium.com/ux-power-tools/guilty-pleasures-for-designers-b34f2a3f604a?ref=webdesignernews.com#.him2sduev) 2017/02/06
  - [Beware These Nine Design Elements Your Front-End Developers Hate](https://www.lullabot.com/articles/nine-design-elements-frontend-developers-hate) 2017/02/06
@@ -89,6 +124,10 @@
 
 
 ## Tools/Materials
+ - [WebGradients](https://webgradients.com/) 2017/02/24 ★
+ - [CSS Loader](http://www.raphaelfabeni.com.br/css-loader/) 2017/02/24 ★★★
+ - [iOS Human Interface Guidelines(NEW)](https://developer.apple.com/ios/human-interface-guidelines/resources/) 2017/02/24 ★★★
+ - [Vecteezy Editor](https://www.vecteezy.com/editor) 2017/02/24
  - [Color Supply](http://colorsupplyyy.com/app/) 2017/01/19 ★★★
  - [ColorMe](https://colorme.io/) 2017/01/19
  - [Design Guidelines.](http://designguidelines.co) 2017/01/19 ★★★★★
