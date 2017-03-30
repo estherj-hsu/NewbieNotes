@@ -1,4 +1,38 @@
 ## SASS, CSS
+ - [You Kinda Can Use Custom Fonts in HTML Emails](https://css-tricks.com/kinda-can-use-custom-fonts-html-emails/) 2017/03/24
+ - [Your CSS could be more understandable](http://waarissyb.nl/articles/your-css-could-be-more-understandable.html) 2017/03/24
+ - [CSS Grid Fallbacks and Overrides](https://rachelandrew.co.uk/archives/2017/03/20/css-grid-fallbacks-and-overrides/) 2017/03/24
+ - [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.ua3i3gdq5) 2017/03/24
+ - [CSS Grid Layout: A New Layout Module for the Web](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/) 2017/03/24
+ - [Structuring and managing CSS](https://unboxed.co/blog/structuring-and-managing-css/) 2017/03/24
+ - [Writing modular CSS](https://zellwk.com/blog/css-architecture-1/) 2017/03/24
+ - [Animating your hero header](https://cssanimation.rocks/animating-hero-header/) 2017/03/24
+ - [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/) 2017/03/24
+ - [Text Effects with CSS (and a little contenteditable trick)](https://css-tricks.com/text-effects-css-little-contenteditable-trick/) 2017/03/24
+ - [CSS Architecture: CSS File Organization](https://www.sitepoint.com/css-architecture-css-file-organization/) 2017/03/24
+ - [Thoughts on Negative Margins](http://daverupert.com/2017/03/thoughts-on-negative-margins/) 2017/03/24
+ - 
+ - [How to Build Your Own Progressive Image Loader](https://www.sitepoint.com/how-to-build-your-own-progressive-image-loader/) 2017/03/01
+ - [Scaling SVG Clipping Paths for CSS Use](http://meyerweb.com/eric/thoughts/2017/02/24/scaling-svg-clipping-paths-for-css-use/) 2017/03/01
+ - [HTML5 Forms: New Controls](https://www.sitepoint.com/html5-forms-new-controls/) 2017/03/01
+ - [How to use Flexbox to create a modern card design layout](https://getflywheel.com/layout/how-to-use-flexbox-to-create-a-modern-card-design-layout/) 2017/03/01
+ - [MaintainableCSS](http://maintainablecss.com/) 2017/03/01 ★★★★★
+ - [Text Stroke: Stuck In The Middle With You](https://css-tricks.com/text-stroke-stuck-middle/) 2017/03/06
+ - [Grid + Flexbox: the best 1-2 punch in web layout](https://www.chenhuijing.com/blog/css-grid-flexbox-combo/) 2017/03/06 ★
+ - [The benefits of learning how to code layouts with CSS](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css) 2017/03/06
+ - [CSS Reference: Grid](https://tympanus.net/codrops/css_reference/grid/) 2017/03/06 ★★★★★
+ - [How We Built EQCSS & Why You Should Try Building Your Own Polyfills Too](https://www.sitepoint.com/how-we-built-eqcss-why-you-should-try-building-your-own-polyfills-too/) 2017/03/10 ★★★
+ - [CSS Tip: Use :not to Save Time and Lines of Code](https://theboldreport.net/2017/02/css-tip-use-not-to-save-time-and-lines-of-code/) 2017/03/10
+ - [CSS Architecture Block-Element-Modifier (BEM)](https://www.sitepoint.com/css-architecture-block-element-modifier-bem/) 2017/03/10
+ - [Linting HTML using CSS](https://bitsofco.de/linting-html-using-css/) 2017/03/10
+ - [A horizontal scrolling navigation pattern for touch and mouse with moving current indicator](https://benfrain.com/a-horizontal-scrolling-navigation-pattern-for-touch-and-mouse-with-moving-current-indicator/) 2017/03/13
+ - [Hassle-free Full Bleed with *:not()](http://daverupert.com/2017/03/full-bleed-with-not/) 2017/03/13
+ - [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/) 2017/03/13
+ - [Learn about CSS Architecture: Atomic CSS](https://www.sitepoint.com/atomic-css/) 2017/03/13
+ - [How to Order and Align Items in Grid Layout](https://www.sitepoint.com/order-align-items-grid-layout/) 2017/03/15
+ - [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/) 2017/03/15
+ - [Golden Guidelines for Writing Clean CSS](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/) 2017/03/15
+ - [Stack Motion Hover Effects](https://tympanus.net/codrops/2017/03/15/stack-motion-hover-effects/) 2017/03/16
  - [A Trick: Individual CSS Transform Functions](https://danielcwilson.com/blog/2017/02/individual-transforms/) 2017/02/24
  - [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) 2017/02/24
  - [Box Alignment Cheatsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment) 2017/02/24
@@ -61,6 +95,9 @@
  - [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.qtcrzlijy) 2017/01/19
 
 ## JS
+ - [Writing JavaScript with Accessibility in Mind](https://www.sitepoint.com/writing-javascript-with-accessibility-in-mind/) 2017/03/24
+ - 
+ - [React Quickly: How to Work with Forms in React](https://www.sitepoint.com/work-with-forms-in-react/) 2017/03/06
  - [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/) 2017/02/06
  - [A Beginner’s Guide to JavaScript Variables and Datatypes](https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/) 2017/02/06
  - [A Beginner’s Guide to Webpack 2 and Module Bundling](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) 2017/02/06
@@ -69,6 +106,11 @@
 
 
 ## Front-End
+ - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446#.k2n4yzs8r) 2017/03/24
+ - 
+ - [Implementing Critical CSS on your website](https://nystudio107.com/blog/implementing-critical-css) 2017/03/10 ★★★
+ - [hyperHTML: A Virtual DOM Alternative](https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e#.og7bh2dsk) 2017/03/13
+ - [Better CSS with JavaScript](https://medium.com/making-internets/better-css-with-javascript-88463deecf3#.ofrenzica) 2017/03/16
  - [Frontend Design](http://bradfrost.com/blog/post/frontend-design/) 2017/02/24
  - [Writing a Great README — Written by Daniel Bader](https://medium.com/code-the-world/writing-a-great-readme-written-by-daniel-bader-4a02d1edc7a#.eczdg4tqn) 2017/02/24
  - [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572#.nppfloslf) 2017/02/24
@@ -76,6 +118,19 @@
 
 
 ## Web Design / UX
+ - [The Road To Resilient Web Design](https://www.smashingmagazine.com/2017/03/resilient-web-design/) 2017/03/24
+ - [Design Trend: Experimental Navigation Patterns](https://designshack.net/articles/layouts/design-trend-experimental-navigation-patterns/) 2017/03/24
+ - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791#.tbphwz356) 2017/03/24
+ - [Which Responsive Design Framework Is Best? Of Course, It Depends.](https://www.smashingmagazine.com/2017/03/which-responsive-design-framework-is-best/) 2017/03/24
+ - [How To Create a Web Design Style Guide](https://designmodo.com/create-style-guides/) 2017/03/24
+ - 
+ - [7 Design Myths That Will Wreck Your Site](http://www.webdesignerdepot.com/2017/03/7-design-myths-that-will-wreck-your-site/) 2017/03/10
+ - [From student to professional](https://medium.muz.li/from-student-to-professional-2bccb86f77a2#.x2ita19gu) 2017/03/13
+ - [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4?ref=webdesignernews.com#.veaxnekgy) 2017/03/13
+ - [Realising You Suck at Design](https://uxplanet.org/realising-you-suck-at-design-5d7d5437f4e1) 2017/03/13
+ - [Zara: A Usability Case Study](https://uxdesign.cc/zara-a-usability-case-study-981b7ca93db8) 2017/03/13
+ - [The Design of the Dark Side – the UX Dark Patterns](https://uxstudioteam.com/ux-blog/dark-pattern/) 2017/03/13
+ - [How To Spark A UX Revolution](https://www.smashingmagazine.com/2017/03/spark-ux-revolution/) 2017/03/15
  - [How To Use Shadows And Blur Effects In Modern UI Design](https://www.smashingmagazine.com/2017/02/shadows-blur-effects-user-interface-design/) 2017/02/24
  - [10 Ways to Simplify Your Design](https://designshack.net/articles/graphics/10-ways-to-simplify-your-design/) 2017/02/24
  - [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd?ref=webdesignernews.com#.fkul7mmh5) 2017/02/24
@@ -124,6 +179,14 @@
 
 
 ## Tools/Materials
+ - [GRIDPRINT](https://gridprint.in/) 2017/03/24
+ - [LOLCOLORS](http://www.lolcolors.com/) 2017/03/24
+ - [Waffle grid](https://lucasgruwez.github.io/waffle-grid/) 2017/03/24
+ - 
+ - [Material Mixer](https://www.sankk.in/material-mixer/) 2017/03/06
+ - [TentCSS](https://css.sitetent.com/) 2017/03/06
+ - [9 Best Responsive Web Design Frameworks](http://blog.templatetoaster.com/best-responsive-web-design-frameworks/) 2017/03/13
+ - [RATIO:BUDDY](http://ratiobuddy.com/) 2017/03/15
  - [WebGradients](https://webgradients.com/) 2017/02/24 ★
  - [CSS Loader](http://www.raphaelfabeni.com.br/css-loader/) 2017/02/24 ★★★
  - [iOS Human Interface Guidelines(NEW)](https://developer.apple.com/ios/human-interface-guidelines/resources/) 2017/02/24 ★★★
