@@ -5,13 +5,27 @@
  - [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.ua3i3gdq5) 2017/03/24
  - [CSS Grid Layout: A New Layout Module for the Web](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/) 2017/03/24
  - [Structuring and managing CSS](https://unboxed.co/blog/structuring-and-managing-css/) 2017/03/24
- - [Writing modular CSS](https://zellwk.com/blog/css-architecture-1/) 2017/03/24
+ - [Writing modular CSS PartI](https://zellwk.com/blog/css-architecture-1/) 2017/03/24
+ - [Writing modular CSS PartII](https://zellwk.com/blog/css-architecture-2/) 2017/04/05
  - [Animating your hero header](https://cssanimation.rocks/animating-hero-header/) 2017/03/24
  - [How You Can Use HTML5 Custom Data Attributes and Why](https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/) 2017/03/24
  - [Text Effects with CSS (and a little contenteditable trick)](https://css-tricks.com/text-effects-css-little-contenteditable-trick/) 2017/03/24
  - [CSS Architecture: CSS File Organization](https://www.sitepoint.com/css-architecture-css-file-organization/) 2017/03/24
  - [Thoughts on Negative Margins](http://daverupert.com/2017/03/thoughts-on-negative-margins/) 2017/03/24
- - 
+ - [CSS is Not Broken](http://keithjgrant.com/posts/2017/03/css-is-not-broken/) 2017/04/05
+ - [What are Container Queries?](http://codepen.io/tomhodgins/post/what-are-container-queries) 2017/04/05
+ - [8 CSS gotchas to start your morning off right](https://medium.com/@isaaclyman/8-css-gotchas-to-start-your-morning-off-right-c5daade0731d) 2017/04/05 ★★★
+ - [CSS deep-dive: matrix3d() for a frame-perfect custom scrollbar](https://developers.google.com/web/updates/2017/03/custom-scrollbar) 2017/04/05
+ - [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/) 2017/04/05
+ - [CSS is Fine, It’s Just Really Hard](https://medium.com/@jdan/css-is-fine-its-just-really-hard-638da7a3dce0) 2017/04/05
+ - [Organize your CSS properties however you dang like](http://michael.blog/2017/03/30/organize-your-css-properties-however-you-dang-like/) 2017/04/05
+ - [CSS Viewport Units: A Quick Start](https://www.sitepoint.com/css-viewport-units-quick-start/) 2017/04/05
+ - [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/) 2017/04/05
+ - [Tame Unruly Style Sheets With These Three CSS Methodologies](https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/) 2017/04/05 ★★
+ - [Building a CSS Grid Overlay](https://css-tricks.com/building-css-grid-overlay/) 2017/04/05
+ - [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid) 2017/04/05
+ - [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/) 2017/04/05
+ - [CSS SIDEBAR TOGGLE](https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/) 2017/04/05
  - [How to Build Your Own Progressive Image Loader](https://www.sitepoint.com/how-to-build-your-own-progressive-image-loader/) 2017/03/01
  - [Scaling SVG Clipping Paths for CSS Use](http://meyerweb.com/eric/thoughts/2017/02/24/scaling-svg-clipping-paths-for-css-use/) 2017/03/01
  - [HTML5 Forms: New Controls](https://www.sitepoint.com/html5-forms-new-controls/) 2017/03/01
@@ -96,7 +110,8 @@
 
 ## JS
  - [Writing JavaScript with Accessibility in Mind](https://www.sitepoint.com/writing-javascript-with-accessibility-in-mind/) 2017/03/24
- - 
+ - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 2017/04/05
+ - [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) 2017/04/05
  - [React Quickly: How to Work with Forms in React](https://www.sitepoint.com/work-with-forms-in-react/) 2017/03/06
  - [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/) 2017/02/06
  - [A Beginner’s Guide to JavaScript Variables and Datatypes](https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/) 2017/02/06
@@ -107,7 +122,9 @@
 
 ## Front-End
  - [Testing Your Frontend Code : Part I (Introduction)](https://hackernoon.com/testing-your-frontend-code-part-i-introduction-7e307eac4446#.k2n4yzs8r) 2017/03/24
- - 
+ - [Making Animations Wait](https://css-tricks.com/making-animations-wait/) 2017/04/05 
+ - [Debugging CSS for UI Responsiveness](https://www.sitepoint.com/debugging-css-for-ui-responsiveness/) 2017/04/05 
+ - [How to Select the Perfect Image Format to Optimize Your Website](https://www.sitepoint.com/how-to-select-the-perfect-image-format-to-optimize-your-website/) 2017/04/05 
  - [Implementing Critical CSS on your website](https://nystudio107.com/blog/implementing-critical-css) 2017/03/10 ★★★
  - [hyperHTML: A Virtual DOM Alternative](https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e#.og7bh2dsk) 2017/03/13
  - [Better CSS with JavaScript](https://medium.com/making-internets/better-css-with-javascript-88463deecf3#.ofrenzica) 2017/03/16
@@ -123,7 +140,16 @@
  - [Better grid systems in UI design tools](https://medium.com/subform/better-grid-systems-in-ui-design-tools-495dc35c5791#.tbphwz356) 2017/03/24
  - [Which Responsive Design Framework Is Best? Of Course, It Depends.](https://www.smashingmagazine.com/2017/03/which-responsive-design-framework-is-best/) 2017/03/24
  - [How To Create a Web Design Style Guide](https://designmodo.com/create-style-guides/) 2017/03/24
- - 
+ - [Toggle Buttons](https://inclusive-components.club/toggle-button/) 2017/04/05
+ - [Become a Better Designer With FullStory’s Latest Features](http://www.webdesignerdepot.com/2017/04/become-a-better-designer-with-fullstorys-latest-features/) 2017/04/05
+ - [Sidebars in UI Design](https://medium.com/inspiration-supply/sidebars-in-ui-design-a327e8940dc3) 2017/04/05 ★★★
+ - [Stop using device breakpoints](https://medium.com/simple-human/stop-using-device-breakpoints-b11a87e2625c) 2017/04/05 ★★★★★
+ - [5 Tips for Improving Your Consumer UX](https://www.sitepoint.com/5-tips-for-improving-your-consumer-ux/) 2017/04/05
+ - [How to Succeed With Design Thinking](http://www.webdesignerdepot.com/2017/03/how-to-succeed-with-design-thinking/) 2017/04/05
+ - [15 Psychology Hacks that Boost UX](http://www.webdesignerdepot.com/2017/03/15-psychology-hacks-that-boost-ux/) 2017/04/05
+ - [How to use space in UI Design](https://blog.prototypr.io/how-to-use-space-in-ui-design-15e169127236) 2017/04/05 ★
+ - [Best Design Advice No One Ever Gave Me](https://medium.muz.li/best-design-advice-no-one-ever-gave-me-92acf6b0858a) 2017/04/05
+ - [The Ultimate Guide to Finding Web Design Clients](https://www.shopify.com/partners/blog/finding-web-design-clients) 2017/04/05
  - [7 Design Myths That Will Wreck Your Site](http://www.webdesignerdepot.com/2017/03/7-design-myths-that-will-wreck-your-site/) 2017/03/10
  - [From student to professional](https://medium.muz.li/from-student-to-professional-2bccb86f77a2#.x2ita19gu) 2017/03/13
  - [Design Better Cards](https://uxdesign.cc/design-better-cards-c0d12ab581c4?ref=webdesignernews.com#.veaxnekgy) 2017/03/13
@@ -182,7 +208,6 @@
  - [GRIDPRINT](https://gridprint.in/) 2017/03/24
  - [LOLCOLORS](http://www.lolcolors.com/) 2017/03/24
  - [Waffle grid](https://lucasgruwez.github.io/waffle-grid/) 2017/03/24
- - 
  - [Material Mixer](https://www.sankk.in/material-mixer/) 2017/03/06
  - [TentCSS](https://css.sitetent.com/) 2017/03/06
  - [9 Best Responsive Web Design Frameworks](http://blog.templatetoaster.com/best-responsive-web-design-frameworks/) 2017/03/13
