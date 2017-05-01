@@ -1,4 +1,8 @@
 ## SASS, CSS
+ - [欢迎你 Grid Layout](https://zhuanlan.zhihu.com/p/26259608) 2017/05/01
+ - [Make some magic with CSS blend modes](https://pawelgrzybek.com/make-some-magic-with-css-blend-modes/) 2017/05/01
+ - [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/) 2017/05/01
+
  - [Pseudo-classes – The Basics](https://www.sitepoint.com/pseudo-classes-the-basics/) 2017/04/14
  - [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) 2017/04/17
  - [Minifying CSS With CSS Optimizer](https://www.sitepoint.com/minifying-css-with-css-optimizer/) 2017/04/17
@@ -13,7 +17,7 @@
  - [Container Query Discussion](https://css-tricks.com/container-query-discussion/) 2017/04/17
  - [Design Tricks with SVG Filters: A Masked Blur Effect](https://www.sitepoint.com/design-tricks-with-svg-filters-a-masked-blur-effect/) 2017/04/17
  - [Organize your CSS properties however you dang like](https://michael.blog/2017/03/30/organize-your-css-properties-however-you-dang-like/) 2017/04/17
- - 
+ -
  - [Writing modular CSS PartII](https://zellwk.com/blog/css-architecture-2/) 2017/04/05
  - [CSS is Not Broken](http://keithjgrant.com/posts/2017/03/css-is-not-broken/) 2017/04/05
  - [What are Container Queries?](http://codepen.io/tomhodgins/post/what-are-container-queries) 2017/04/05
@@ -31,21 +35,24 @@
  - [CSS SIDEBAR TOGGLE](https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/) 2017/04/05
 
 ## JS
+ - [Vue.js 2.0从基础到组件](http://gitbook.cn/books/58ef8e5a23bb8c646f93beef/index.html) 2017/05/01
+ - [A progressive Web application with Vue JS, Webpack & Material Design](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 2017/05/01
+ - 
  - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 2017/04/17
  - [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/) 2017/04/17
  - [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) 2017/04/17
  - [React Conf 2017](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) 2017/04/17
- - 
  - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 2017/04/05
  - [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) 2017/04/05
 
 
 ## Front-End
+ - [Stop using CSS in JavaScript for web development](https://hackernoon.com/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) 2017/05/01
+ -
  - [10 Answered Questions About A/B Testing](http://goodui.org/blog/10-answered-questions-about-ab-testing/) 2017/04/17
  - [7 Ways to Delight Users with Animation](https://www.webdesignerdepot.com/2017/04/7-ways-to-delight-users-with-animation/) 2017/04/17 ★★★
- - 
- - [Making Animations Wait](https://css-tricks.com/making-animations-wait/) 2017/04/05 
- - [Debugging CSS for UI Responsiveness](https://www.sitepoint.com/debugging-css-for-ui-responsiveness/) 2017/04/05 
+ - [Making Animations Wait](https://css-tricks.com/making-animations-wait/) 2017/04/05
+ - [Debugging CSS for UI Responsiveness](https://www.sitepoint.com/debugging-css-for-ui-responsiveness/) 2017/04/05
  - [How to Select the Perfect Image Format to Optimize Your Website](https://www.sitepoint.com/how-to-select-the-perfect-image-format-to-optimize-your-website/) 2017/04/05
 
 ## Web Design / UX
@@ -58,7 +65,7 @@
  - [3 trends in landing page design](https://medium.muz.li/3-trends-in-landing-page-design-5cf900f2c90f) 2017/04/17
  - [What Every Web Designer Needs to Know About HTML Tables](https://blog.alexdevero.com/web-designer-needs-know-html-tables/) 2017/04/17
  - [The Five Core Components of UX](https://webdesign.tutsplus.com/articles/the-5-core-components-of-ux--cms-28432) 2017/04/17
- - 
+ -
  - [Toggle Buttons](https://inclusive-components.club/toggle-button/) 2017/04/05
  - [Become a Better Designer With FullStory’s Latest Features](http://www.webdesignerdepot.com/2017/04/become-a-better-designer-with-fullstorys-latest-features/) 2017/04/05
  - [Sidebars in UI Design](https://medium.com/inspiration-supply/sidebars-in-ui-design-a327e8940dc3) 2017/04/05 ★★★
@@ -72,9 +79,11 @@
 
 ## Others
  - [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0) 2017/04/17
- - 
+ -
 
 ## Tools/Materials
+ - [CMS(Vue2+Element-UI)](https://github.com/lin-xin/vue-manage-system) 2017/05/01
+ -
  - [RAGrid](https://argyleink.github.io/ragrid/) 2017/04/17
  - [Griddy](http://griddy.io/) 2017/04/17
  - [GRID GARDEN](http://cssgridgarden.com/) 2017/04/17 ★★★★★
@@ -82,5 +91,3 @@
  - [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy/) 2017/04/17
  - [Colormind](http://colormind.io/) 2017/04/17
  - [COLOR TOOL](https://material.io/color/#!/) 2017/04/17 ★★★★★
- - 
-
