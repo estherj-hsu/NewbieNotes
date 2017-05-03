@@ -2,7 +2,29 @@
  - [欢迎你 Grid Layout](https://zhuanlan.zhihu.com/p/26259608) 2017/05/01
  - [Make some magic with CSS blend modes](https://pawelgrzybek.com/make-some-magic-with-css-blend-modes/) 2017/05/01
  - [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/) 2017/05/01
-
+ - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab) 2017/05/03
+ - [Winning with CSS Variables](https://vgpena.github.io/winning-with-css-variables/) 2017/05/03 ★★★
+ - [CSS Custom Properties - everyday applications](https://www.mikestreety.co.uk/blog/css-custom-properties-everyday-applications) 2017/05/03
+ - [CSS Custom Properties and Theming](https://css-tricks.com/css-custom-properties-theming/) 2017/05/03
+ - [Focus Styles on Non-Interactive Elements?](https://css-tricks.com/focus-styles-non-interactive-elements/) 2017/05/03
+ - [CSS Poly Fluid Sizing using calc(), vw, breakpoints and linear equations](https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab) 2017/05/03
+ - [How to Set CSS Margins and Padding (And Cool Layout Tricks)](https://www.sitepoint.com/set-css-margins-padding-cool-layout-tricks/) 2017/05/03
+ - [The Different Logical Ways to Group CSS Properties](http://mediatemple.net/blog/tips/different-logical-ways-group-css-properties/) 2017/05/03
+ - [Spring Into CSS Grid](http://jonibologna.com/spring-into-css-grid/) 2017/05/03
+ - [Creating Media Queries for Responsive Web Designs](https://www.sitepoint.com/creating-media-queries-for-responsive-web-designs/) 2017/05/03
+ - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/) 2017/05/03
+ - [How we made our product more personalized with CSS Variables and React](https://medium.com/geckoboard-under-the-hood/how-we-made-our-product-more-personalized-with-css-variables-and-react-b29298fde608) 2017/05/03
+ - [CSS Viewport Units: A Quick Start](https://www.sitepoint.com/css-viewport-units-quick-start/) 2017/05/03 ★
+ - [Give Yourself Over to CSS Grid](https://www.webdirections.org/blog/give-css-grid-mike-riethmuller/) 2017/05/03
+ - [Mistakes Were Made: Lessons learned while building our styleguide(Video)](https://pusher.com/sessions/meetup/london-css/mistakes-were-made) 2017/05/03
+ - [Structural Pseudo-Classes](https://www.sitepoint.com/structural-pseudo-classes/) 2017/05/03
+ - [Managing the CSS Box Model](https://www.sitepoint.com/managing-the-css-box-model/) 2017/05/03
+ - [Journey to Highly Effective and Maintainable CSS Media Queries](https://notes.devlabs.bg/journey-to-highly-effective-and-maintainable-css-media-queries-876e5b92f918) 2017/05/03
+ - [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) 2017/05/03
+ - [Individualizing CSS Properties with CSS Variables](https://danielcwilson.com/blog/2017/04/individualized-properties/) 2017/05/03
+ - [Customize the Browser’s Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css) 2017/05/03
+ - [The Rise of CSS](http://thehistoryoftheweb.com/the-rise-of-css/) 2017/05/03 ★★
+ - 
  - [Pseudo-classes – The Basics](https://www.sitepoint.com/pseudo-classes-the-basics/) 2017/04/14
  - [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) 2017/04/17
  - [Minifying CSS With CSS Optimizer](https://www.sitepoint.com/minifying-css-with-css-optimizer/) 2017/04/17
@@ -17,7 +39,6 @@
  - [Container Query Discussion](https://css-tricks.com/container-query-discussion/) 2017/04/17
  - [Design Tricks with SVG Filters: A Masked Blur Effect](https://www.sitepoint.com/design-tricks-with-svg-filters-a-masked-blur-effect/) 2017/04/17
  - [Organize your CSS properties however you dang like](https://michael.blog/2017/03/30/organize-your-css-properties-however-you-dang-like/) 2017/04/17
- -
  - [Writing modular CSS PartII](https://zellwk.com/blog/css-architecture-2/) 2017/04/05
  - [CSS is Not Broken](http://keithjgrant.com/posts/2017/03/css-is-not-broken/) 2017/04/05
  - [What are Container Queries?](http://codepen.io/tomhodgins/post/what-are-container-queries) 2017/04/05
@@ -36,7 +57,11 @@
 
 ## JS
  - [Vue.js 2.0从基础到组件](http://gitbook.cn/books/58ef8e5a23bb8c646f93beef/index.html) 2017/05/01
- - [A progressive Web application with Vue JS, Webpack & Material Design](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 2017/05/01
+ - [A progressive Web application with Vue JS, Webpack & Material Design](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 2017/05/01 ★
+ - [Managing State in CSS with Reusable JavaScript Functions](https://css-tricks.com/managing-state-css-reusable-javascript-functions/) 2017/05/03
+ - [Create Element Transitions with Vue.js](http://codepen.io/Splode/post/create-element-transitions-with-vue-js) 2017/05/03
+ - [Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/) 2017/05/03
+ - [The Power of Custom Directives in Vue](https://css-tricks.com/power-custom-directives-vue/) 2017/05/03
  - 
  - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 2017/04/17
  - [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/) 2017/04/17
@@ -47,8 +72,10 @@
 
 
 ## Front-End
- - [Stop using CSS in JavaScript for web development](https://hackernoon.com/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) 2017/05/01
- -
+ - [Stop using CSS in JavaScript for web development](https://hackernoon.com/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) 2017/05/01 ★
+ - [6 Tools to Stop Your Devs and Designers Strangling Each Other](https://www.sitepoint.com/6-collaboration-tools-for-your-devs-and-designers/) 2017/05/03
+ - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32) 2017/05/03
+ - 
  - [10 Answered Questions About A/B Testing](http://goodui.org/blog/10-answered-questions-about-ab-testing/) 2017/04/17
  - [7 Ways to Delight Users with Animation](https://www.webdesignerdepot.com/2017/04/7-ways-to-delight-users-with-animation/) 2017/04/17 ★★★
  - [Making Animations Wait](https://css-tricks.com/making-animations-wait/) 2017/04/05
@@ -56,6 +83,10 @@
  - [How to Select the Perfect Image Format to Optimize Your Website](https://www.sitepoint.com/how-to-select-the-perfect-image-format-to-optimize-your-website/) 2017/04/05
 
 ## Web Design / UX
+ - [The Meaning and Purpose of Responsive Web Design](https://www.sitepoint.com/the-meaning-and-purpose-of-responsive-web-design/) 2017/05/03
+ - [A Brief Overview On Responsive Navigation Patterns](https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/) 2017/05/03
+ - [Yeah, redesign(Part 1)](https://medium.muz.li/yeah-redesign-part-1-b61af07eb41a) 2017/05/03
+ - 
  - [Are Gradients The New Colors?](https://medium.muz.li/why-gradients-are-the-new-colors-3d8d42a7a6fc) 2017/04/17
  - [6 Ways to Improve Long-Scroll Mobile Websites](https://www.sitepoint.com/6-ways-to-improve-long-scroll-mobile-websites/) 2017/04/17
  - [Inspiration for Grid Loading Animations](https://tympanus.net/codrops/2017/04/11/inspiration-for-grid-loading-animations/) 2017/04/17
@@ -65,7 +96,6 @@
  - [3 trends in landing page design](https://medium.muz.li/3-trends-in-landing-page-design-5cf900f2c90f) 2017/04/17
  - [What Every Web Designer Needs to Know About HTML Tables](https://blog.alexdevero.com/web-designer-needs-know-html-tables/) 2017/04/17
  - [The Five Core Components of UX](https://webdesign.tutsplus.com/articles/the-5-core-components-of-ux--cms-28432) 2017/04/17
- -
  - [Toggle Buttons](https://inclusive-components.club/toggle-button/) 2017/04/05
  - [Become a Better Designer With FullStory’s Latest Features](http://www.webdesignerdepot.com/2017/04/become-a-better-designer-with-fullstorys-latest-features/) 2017/04/05
  - [Sidebars in UI Design](https://medium.com/inspiration-supply/sidebars-in-ui-design-a327e8940dc3) 2017/04/05 ★★★
@@ -83,7 +113,9 @@
 
 ## Tools/Materials
  - [CMS(Vue2+Element-UI)](https://github.com/lin-xin/vue-manage-system) 2017/05/01
- -
+ - [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/) 2017/05/03
+ - [Syncope](http://nowodzinski.pl/syncope/) 2017/05/03 ★★★
+ - 
  - [RAGrid](https://argyleink.github.io/ragrid/) 2017/04/17
  - [Griddy](http://griddy.io/) 2017/04/17
  - [GRID GARDEN](http://cssgridgarden.com/) 2017/04/17 ★★★★★
