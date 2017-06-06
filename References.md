@@ -1,4 +1,33 @@
 ## SASS, CSS
+ - [The Issue with Preprocessing CSS Custom Properties](https://css-tricks.com/issue-preprocessing-css-custom-properties/) 2017/05/12
+ - [Tracing the History of CSS Fonts](https://css-tricks.com/tracing-history-css-fonts/) 2017/05/12
+ - [Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/) 2017/05/12
+ - [Accessibly labelling interactive elements](https://hiddedevries.nl/en/blog/2017-05-05-accessibly-labelling-interactive-elements) 2017/05/12
+ - [Combining fonts](https://jakearchibald.com/2017/combining-fonts/) 2017/05/12
+ - [CSS Ruleset Terminology](https://css-tricks.com/css-ruleset-terminology/) 2017/05/12
+ - [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b) 2017/06/05
+ - [Build a Style Guide Straight from Sass](https://css-tricks.com/build-style-guide-straight-sass/) 2017/06/05 ★★★
+ - [A Love Letter to CSS](http://developer.telerik.com/topics/web-development/love-letter-css/) 2017/06/05 ★
+ - [Simplifying CSS Cubes with Custom Properties](https://css-tricks.com/simplifying-css-cubes-custom-properties) 2017/06/05
+ - [Non-linear interpolation in CSS](https://madebymike.com.au//writing/non-linear-interpolation-in-css/) 2017/06/05
+ - [CSS and the First Meaningful Paint(Video)](https://pusher.com/sessions/meetup/london-css/css-and-the-first-meaningful-paint) 2017/06/05
+ - [Grid by Example](https://gridbyexample.com/video/) 2017/06/05
+ - [CSS 布局经典问题初步整理](http://brianway.github.io/2017/05/18/css-layout-classical-problems/) 2017/06/05
+ - [Learning CSS Grids](http://varun.ca/css-grid/) 2017/06/05
+ - [Enforcing CSS Syntax Style (and more!)](https://css-tricks.com/enforcing-css-syntax-style/) 2017/06/05
+ - [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/) 2017/06/05
+ - [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/) 2017/06/05
+ - [Solving the Last Item Problem for a Circular Distribution with Partially Overlapping Items](https://css-tricks.com/solving-last-item-problem-circular-distribution-partially-overlapping-items/) 2017/06/05 ★★★
+ - [Creative Splash Transition with CSS and SVG](https://scotch.io/tutorials/creative-splash-transition-with-css-and-svg) 2017/06/05
+ - [Learning CSS Grids](http://varun.ca/css-grid/) 2017/06/06
+ - [Some Extremely Handy `:nth-child` Recipes as Sass Mixins](https://css-tricks.com/extremely-handy-nth-child-recipes-sass-mixins/) 2017/06/06
+ - [Methods for Contrasting Text Against Backgrounds](https://css-tricks.com/methods-contrasting-text-backgrounds/) 2017/06/06
+ - [Experiments in fixed aspect ratios](http://ramenhog.com/blog/2017/05/09/experiments-in-fixed-aspect-ratios) 2017/06/06
+ - [Writing Tidy Code](https://csswizardry.com/2017/05/writing-tidy-code/) 2017/06/06
+ - [The `:focus-within` pseudo class](https://www.iandevlin.com/blog/2017/04/css/the-focus-within-pseudo-class) 2017/06/06
+ - [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout/) 2017/06/06
+ - [A Walkthrough of CSS Length Units You Can Use for Font Size](https://www.sitepoint.com/a-walkthrough-of-css-length-units-you-can-use-for-font-size/) 2017/06/06
+ - [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/) 2017/06/06
  - [欢迎你 Grid Layout](https://zhuanlan.zhihu.com/p/26259608) 2017/05/01
  - [Make some magic with CSS blend modes](https://pawelgrzybek.com/make-some-magic-with-css-blend-modes/) 2017/05/01
  - [Now that CSS Custom Properties are a Thing, All Value Parts Can Be Changed Individually](https://css-tricks.com/now-css-custom-properties-thing-value-parts-can-changed-individually/) 2017/05/01
@@ -24,7 +53,6 @@
  - [Individualizing CSS Properties with CSS Variables](https://danielcwilson.com/blog/2017/04/individualized-properties/) 2017/05/03
  - [Customize the Browser’s Scrollbar with CSS](https://scotch.io/tutorials/customize-the-browsers-scrollbar-with-css) 2017/05/03
  - [The Rise of CSS](http://thehistoryoftheweb.com/the-rise-of-css/) 2017/05/03 ★★
- - 
  - [Pseudo-classes – The Basics](https://www.sitepoint.com/pseudo-classes-the-basics/) 2017/04/14
  - [Replace Bootstrap Layouts with CSS Grid](https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/) 2017/04/17
  - [Minifying CSS With CSS Optimizer](https://www.sitepoint.com/minifying-css-with-css-optimizer/) 2017/04/17
@@ -56,13 +84,14 @@
  - [CSS SIDEBAR TOGGLE](https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/) 2017/04/05
 
 ## JS
+ - [Getting Started with Vue.Js](https://www.webdesignerdepot.com/2017/05/getting-started-with-vue-js/) 2017/05/12
+ - [Switching From React To Vue.js](http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/) 2017/06/05
  - [Vue.js 2.0从基础到组件](http://gitbook.cn/books/58ef8e5a23bb8c646f93beef/index.html) 2017/05/01
  - [A progressive Web application with Vue JS, Webpack & Material Design](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 2017/05/01 ★
  - [Managing State in CSS with Reusable JavaScript Functions](https://css-tricks.com/managing-state-css-reusable-javascript-functions/) 2017/05/03
  - [Create Element Transitions with Vue.js](http://codepen.io/Splode/post/create-element-transitions-with-vue-js) 2017/05/03
  - [Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/) 2017/05/03
  - [The Power of Custom Directives in Vue](https://css-tricks.com/power-custom-directives-vue/) 2017/05/03
- - 
  - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 2017/04/17
  - [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/) 2017/04/17
  - [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) 2017/04/17
@@ -72,10 +101,12 @@
 
 
 ## Front-End
+ - [A Modern Front-End Workflow – Umar Hansa](https://www.youtube.com/watch?v=v5r_n6Tq0uk) 2017/05/12
+ - [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 2017/06/05 ★★★
+ - [What is the Future of Front End Web Development?](https://css-tricks.com/future-front-end-web-development/) 2017/06/05 ★★★
  - [Stop using CSS in JavaScript for web development](https://hackernoon.com/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) 2017/05/01 ★
  - [6 Tools to Stop Your Devs and Designers Strangling Each Other](https://www.sitepoint.com/6-collaboration-tools-for-your-devs-and-designers/) 2017/05/03
  - [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32) 2017/05/03
- - 
  - [10 Answered Questions About A/B Testing](http://goodui.org/blog/10-answered-questions-about-ab-testing/) 2017/04/17
  - [7 Ways to Delight Users with Animation](https://www.webdesignerdepot.com/2017/04/7-ways-to-delight-users-with-animation/) 2017/04/17 ★★★
  - [Making Animations Wait](https://css-tricks.com/making-animations-wait/) 2017/04/05
@@ -83,10 +114,35 @@
  - [How to Select the Perfect Image Format to Optimize Your Website](https://www.sitepoint.com/how-to-select-the-perfect-image-format-to-optimize-your-website/) 2017/04/05
 
 ## Web Design / UX
+ - [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) 2017/05/12
+ - [How to Boost Usability with Intelligent Color Choices](https://www.sitepoint.com/how-to-boost-usability-with-intelligent-color-choices/) 2017/05/12
+ - [Easing Linear Gradients](https://css-tricks.com/easing-linear-gradients/) 2017/05/12
+ - [Mobile, Small, Portrait, Slow, Interlace, Monochrome, Coarse, Non-Hover, First](https://css-tricks.com/mobile-small-portrait-slow-interlace-monochrome-coarse-non-hover-first/) 2017/05/12
+ - [How to Balance Information Density in Web Design](https://www.webdesignerdepot.com/2017/05/how-to-balance-information-density-in-web-design/) 2017/05/12
+ - [An introduction to accessibility](https://getflywheel.com/layout/an-introduction-to-accessibility-part-1/) 2017/05/12
+ - [Making Your Design Optically Perfect](http://rafaltomal.com/optically-perfect/) 2017/05/12
+ - [Don’t mess up your grid like Medium](https://medium.com/pixelpoint/dont-mess-up-your-grid-like-medium-723089d141cd) 2017/05/12
+ - [The Real Effects Of Bad Web Design](http://usabilitygeek.com/real-effects-bad-web-design/) 2017/05/12
+ - [4 Reasons Why Your Body Text Should Be Bigger](https://designshack.net/articles/graphics/4-reasons-why-your-body-text-should-be-bigger/) 2017/06/05
+ - [Designing a Small Business Website: Wants vs Needs](https://blogs.adobe.com/creativecloud/designing-a-small-business-website-wants-vs-needs/) 2017/06/05
+ - [Breaking out with CSS Grid explained](https://rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/) 2017/06/05
+ - [4 Smart Ways to Use Illustration in UI Design](https://www.webdesignerdepot.com/2017/06/4-smart-ways-to-use-illustration-in-ui-design/) 2017/06/05
+ - [Designing More Efficient Forms: Structure, Inputs, Labels And Actions](https://blogs.adobe.com/creativecloud/designing-more-efficient-forms-structure-inputs-labels-and-actions/) 2017/06/05 ★★★
+ - [Floating labels are problematic](https://medium.com/simple-human/floating-labels-are-a-bad-idea-82edb64220f6) 2017/06/05
+ - [User-Centered Design: An Introduction](http://usabilitygeek.com/user-centered-design-introduction/) 2017/06/05
+ - [Desktop-First Design Tips for Responsive Websites](https://designmodo.com/desktop-first-design-responsive/) 2017/06/05
+ - [Design Trend: Side Navigation Is Everywhere, but Does It Work?](https://designshack.net/articles/navigation/side-navigation-trend/) 2017/06/05
+ - [4 Ways to Use Functional Animation in UI Design](https://www.webdesignerdepot.com/2017/05/4-ways-use-functional-animation-in-ui-design/) 2017/06/05
+ - [Responsive Design for Motion](https://webkit.org/blog/7551/responsive-design-for-motion/) 2017/06/05
+ - [Inspirational UI Design Ideas for Your Next Website Project](https://www.sitepoint.com/creative-ui-design-ideas-you-can-use-in-your-next-website/) 2017/06/06
+ - [10 Essential Rules for UI Design](https://www.webdesignerdepot.com/2017/05/10-essential-rules-for-ui-design/) 2017/06/06
+ - [How Many Design Options Should You Show a Client?](https://designshack.net/articles/business-articles/how-many-design-options-should-you-show-a-client/) 2017/06/06
+ - [Poly Shapes: A New Design Trend We Love](https://designshack.net/articles/graphics/poly-shapes-a-new-design-trend-we-love/) 2017/06/06
+ - [Basic Patterns of Mobile Navigation](https://blogs.adobe.com/creativecloud/basic-patterns-of-mobile-navigation/) 2017/06/06
+ - [The End of Web Forms](https://www.toptal.com/designers/ux/end-of-web-forms-conversational-uis-chatbots) 2017/06/06
  - [The Meaning and Purpose of Responsive Web Design](https://www.sitepoint.com/the-meaning-and-purpose-of-responsive-web-design/) 2017/05/03
  - [A Brief Overview On Responsive Navigation Patterns](https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/) 2017/05/03
  - [Yeah, redesign(Part 1)](https://medium.muz.li/yeah-redesign-part-1-b61af07eb41a) 2017/05/03
- - 
  - [Are Gradients The New Colors?](https://medium.muz.li/why-gradients-are-the-new-colors-3d8d42a7a6fc) 2017/04/17
  - [6 Ways to Improve Long-Scroll Mobile Websites](https://www.sitepoint.com/6-ways-to-improve-long-scroll-mobile-websites/) 2017/04/17
  - [Inspiration for Grid Loading Animations](https://tympanus.net/codrops/2017/04/11/inspiration-for-grid-loading-animations/) 2017/04/17
@@ -109,13 +165,19 @@
 
 ## Others
  - [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0) 2017/04/17
- -
 
 ## Tools/Materials
+ - [archetype](http://www.archetypeapp.com/) 2017/05/12 ★★★
+ - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/) 2017/05/12
+ - [iotaCSS](https://www.iotacss.com/) 2017/05/12 ★
+ - [formations](https://winkervsbecks.github.io/formations/) 2017/05/12
+ - [Trendy CSS Text Shadows](https://www.mixfont.com/shadows) 2017/06/05
+ - [Web Design Museum](https://www.webdesignmuseum.org/) 2017/06/05 ★★★★★
+ - [css-doodle](http://yuanchuan.name/css-doodle/) 2017/06/05
+ - [PAPERSIZES](http://papersizes.io/) 2017/06/06 ★★★
  - [CMS(Vue2+Element-UI)](https://github.com/lin-xin/vue-manage-system) 2017/05/01
  - [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/) 2017/05/03
  - [Syncope](http://nowodzinski.pl/syncope/) 2017/05/03 ★★★
- - 
  - [RAGrid](https://argyleink.github.io/ragrid/) 2017/04/17
  - [Griddy](http://griddy.io/) 2017/04/17
  - [GRID GARDEN](http://cssgridgarden.com/) 2017/04/17 ★★★★★
