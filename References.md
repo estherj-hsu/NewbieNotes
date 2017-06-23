@@ -1,4 +1,23 @@
 ## SASS, CSS
+ - [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) 2017/06/21
+ - [BEM by Example](https://seesparkbox.com/foundry/bem_by_example) 2017/06/21
+ - [An Introduction to the `fr` CSS unit](https://css-tricks.com/introduction-fr-css-unit/) 2017/06/21
+ - [CSS Shapes, clipping and masking – and how to use them](https://hacks.mozilla.org/2017/06/css-shapes-clipping-and-masking/) 2017/06/21
+ - [A Practical Guide to CSS Variables (Custom Properties)](https://www.sitepoint.com/practical-guide-css-variables-custom-properties/) 2017/06/21
+ - [How to Apply CSS3 Transforms to Background Images](https://www.sitepoint.com/css3-transform-background-image/) 2017/06/22
+ - [How I Built a Pure CSS Crossword Puzzle](https://www.sitepoint.com/how-built-pure-css-crossword-puzzle/) 2017/06/22 ★★★★★
+ - [Naming Things is Only Getting Harder](https://css-tricks.com/naming-things-is-only-getting-harder/) 2017/06/22 ★
+ - [What Does a Well-Documented CSS Codebase Look Like?](https://css-tricks.com/well-documented-css-codebase-look-like/) 2017/06/22 ★★★
+ - [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience) 2017/06/22
+ - [Using CSS variables correctly](https://madebymike.com.au/writing/using-css-variables/) 2017/06/22
+ - [Oh No! Our Stylesheet Only Grows and Grows and Grows! (The Append-Only Stylesheet Problem)](https://css-tricks.com/oh-no-stylesheet-grows-grows-grows-append-stylesheet-problem/) 2017/06/22 ★★★★★
+ - [The web designer's guide to Flexbox](http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093) 2017/06/22
+ - [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/) 2017/06/22
+ - [Thoughts on Self-Documenting CSS](http://keithjgrant.com/posts/2017/06/self-documenting-css/) 2017/06/22
+ - [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/) 2017/06/22
+ - [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/) 2017/06/22
+ - [CSS Shapes, clipping and masking – and how to use them](https://hacks.mozilla.org/2017/06/css-shapes-clipping-and-masking/) 2017/06/22
+ - [css-doodle](http://yuanchuan.name/css-doodle/) 2017/06/22
  - [The Issue with Preprocessing CSS Custom Properties](https://css-tricks.com/issue-preprocessing-css-custom-properties/) 2017/05/12
  - [Tracing the History of CSS Fonts](https://css-tricks.com/tracing-history-css-fonts/) 2017/05/12
  - [Making Custom Properties (CSS Variables) More Dynamic](https://css-tricks.com/making-custom-properties-css-variables-dynamic/) 2017/05/12
@@ -84,6 +103,8 @@
  - [CSS SIDEBAR TOGGLE](https://silvestarbistrovic.from.hr/en/articles/css-sidebar-toggle/) 2017/04/05
 
 ## JS
+ - [How to Create Interactive JavaScript Charts from Custom Data Sets](https://www.sitepoint.com/javascript-charts-custom-data-sets/) 2017/06/22
+ - [Vue.js: a 3-minute interactive introduction](https://medium.freecodecamp.com/learn-basic-vue-js-crash-course-guide-vue-tutorial-e3da361c635) 2017/06/22
  - [Getting Started with Vue.Js](https://www.webdesignerdepot.com/2017/05/getting-started-with-vue-js/) 2017/05/12
  - [Switching From React To Vue.js](http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/) 2017/06/05
  - [Vue.js 2.0从基础到组件](http://gitbook.cn/books/58ef8e5a23bb8c646f93beef/index.html) 2017/05/01
@@ -114,6 +135,17 @@
  - [How to Select the Perfect Image Format to Optimize Your Website](https://www.sitepoint.com/how-to-select-the-perfect-image-format-to-optimize-your-website/) 2017/04/05
 
 ## Web Design / UX
+ - [4 Ways Vibrant Colors Boost UI Design](https://www.webdesignerdepot.com/2017/06/4-ways-vibrant-colors-boost-ui-design/) 2017/06/21
+ - [Connecting With Users: Incorporating Humor In Web Design](https://www.smashingmagazine.com/2017/06/connecting-users-humor-web-design/) 2017/06/21
+ - [Design systems, style guides, pattern libraries. What the hell is the difference?](https://product-unicorn.com/design-systems-style-guides-all-those-libraries-what-the-hell-is-the-difference-4c2741193fdc) 2017/06/21
+ - [Accessible Modal Dialogs -- A11ycasts #19(video)](https://www.youtube.com/watch?v=JS68faEUduk) 2017/06/21
+ - [Designing The Perfect Accordion](https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/) 2017/06/22
+ - [RIP Web Forms — You Will Not Be Missed!](https://blog.prototypr.io/rip-web-forms-you-will-not-be-missed-7d9eecdc0df2) 2017/06/22
+ - [Flat Design: An Evolving Trend](https://designshack.net/articles/graphics/flat-design-an-evolving-trend/) 2017/06/22 ★★★
+ - [Dropdowns: Design Guidelines](https://www.nngroup.com/articles/drop-down-menus/) 2017/06/22
+ - [3 UX Rules for Conversational UI Design](https://www.webdesignerdepot.com/2017/06/3-ux-rules-for-conversational-ui-design/) 2017/06/22
+ - [The Designer’s AI Study Guide](http://www.hugeinc.com/ideas/perspective/the-designers-ai-study-guide) 2017/06/22
+ - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows) 2017/06/22
  - [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) 2017/05/12
  - [How to Boost Usability with Intelligent Color Choices](https://www.sitepoint.com/how-to-boost-usability-with-intelligent-color-choices/) 2017/05/12
  - [Easing Linear Gradients](https://css-tricks.com/easing-linear-gradients/) 2017/05/12
@@ -167,6 +199,8 @@
  - [The 100% Correct Coding Style Guide](https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0) 2017/04/17
 
 ## Tools/Materials
+ - [coolhue](https://webkul.github.io/coolhue/) 2017/06/22
+ - [Pattern Libraries](https://blog.prototypr.io/pattern-libraries-5d627c5c65b4) 2017/06/22 ★★★
  - [archetype](http://www.archetypeapp.com/) 2017/05/12 ★★★
  - [A11Y Style Guide](http://a11y-style-guide.com/style-guide/) 2017/05/12
  - [iotaCSS](https://www.iotacss.com/) 2017/05/12 ★
