@@ -7,20 +7,21 @@
 針對 `:global` 下的樣式，不做樣式名稱編譯
 
 ## `composes` 合併樣式
-類似 @extend 功能，用於導入重複樣式，達成多樣式套疊
+類似 `@extend` 功能，用於導入重複樣式，達成多樣式套疊
 
 ### CSS
 
+```
     /* components/btn.css */
     .btn {
         cursor: pointer;
     }
-    
+
     /* colors.css */
     .c-pr-red {
         color: #D50000;
     }
-    
+
     .submit {
         composes: btn;
         background-color: c-pr-red from './colors.css'; /* 從其他css導入樣式 */
@@ -29,13 +30,18 @@
         composes: btn;
         background-color: blue;
     }
--
+```
+
 ### JS
+```
     import btn from './btn.css';
     buttonElem.outerHTML = `<button class=${btn.submit}>Submit</button>`
--
+```
+
 ### Compiled CSS
+```
     <button class="btn--fec26 btn--submit-abc53">Submit</button>
+```
 
 ## 現行系統實踐問題
  - 無法與目前系統併行 😱

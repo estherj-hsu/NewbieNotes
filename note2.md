@@ -1,4 +1,4 @@
-#PostCSS
+# PostCSS
 
 
 **Reference**
@@ -12,7 +12,7 @@
  - [Breaking up with Sass: it’s not you, it’s me](http://benfrain.com/breaking-up-with-sass-postcss/)
  - [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
 
-##概念
+## 概念
 基本內容與CSS無異，可使用sass的@mixin、@extend、nest等功能與特色，更可藉由JS構成的plugin對CSS加工，且能快速編譯
 
  1. All plugins with custom syntax should be added via postcss-use
@@ -22,7 +22,7 @@
  5. Use PostCSS to hide hacks
  6. Use PostCSS to lint CSS, not just to transform it
 
-##What PostCSS is Not
+## What PostCSS is Not
 
  - Not a *Pre*-processor
  - Not a *Post*-processor
@@ -30,7 +30,7 @@
  - Not a Clean Up / Optimization Tool
  - Not Any *One* Thing
 
-##CSS Modules
+## CSS Modules
 
 **Reference**
  - [CSS Modules](https://github.com/css-modules/css-modules)

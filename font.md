@@ -1,4 +1,4 @@
-#font-face
+# font-face
 
 **Reference**
  - https://css-tricks.com/snippets/css/using-font-face/
@@ -7,21 +7,21 @@
  - https://dev.opera.com/articles/better-font-face/
  - http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
 
-##usage
+## usage
 
     // define a custom font
     @font-face {
       font-family: myFont;
       src: url(sansation_light.woff);
     }
-    
+
     // set different font-weight
     @font-face {
       font-family: myFont;
       src: url(sansation_bold.woff);
       font-weight: bold;
     }
-    
+
     // Use in CSS
     body {
       font-family: myFont, sans-serif;
@@ -31,35 +31,36 @@
     }
 
 
-##Chinese Web Font
+## Chinese Web Font
 
       //Noto Sans TC
       @import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
-      
+
       //Noto Sans SC
       @import url(http://fonts.googleapis.com/earlyaccess/notosanssc.css);
-      
+
       // cwTeXFangSong 仿宋體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
-      
+
       // cwTeXHei 黑體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
 
       // cwTeXKai 楷體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexkai.css);
-      
+
       // cwTeXMing 明體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexming.css);
-      
+
       // cwTeXYen 圓體
       @import url(http://fonts.googleapis.com/earlyaccess/cwtexyen.css);
-      
+
 ---------------
 
 > Other (Korean or Japanese) languages: https://www.google.com/fonts/earlyaccess
 
 
-##Browser Support
+## Browser Support
+
 |  font format   |   Chrome  |  IE Edge  |  Firefox  |  Safari  | Opera
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | TTF/OTF | 4.0 | 12.0* | 3.5 | 3.1 | 10.0 |
@@ -70,9 +71,9 @@
 
 > WOFF/WOFF2: Web Open Font Format
 
-##漢字標準格式
+## 漢字標準格式
 
-Source: 
+Source:
 * https://css.hanzi.co/manual/
 * https://css.hanzi.co/manual/sass-api
 
@@ -80,12 +81,12 @@ Source:
     // Sass
     @import '[node_modules]/han-css/index';
 
-##amazeUI 簡體中文字體定義
+## amazeUI 簡體中文字體定義
 
     font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans","wenquanyi micro hei","Hiragino Sans GB", "Hiragino Sans GB W3", Arial, sans-serif;
 
 
-##Font Families
+## Font Families
 
  - **Sans-Serif**
 Arial, sans-serif;

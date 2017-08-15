@@ -1,28 +1,28 @@
-#Centering
+# Centering
 
 **Reference**
 * https://css-tricks.com/centering-css-complete-guide/
 * http://howtocenterincss.com/
 
-##Horizontal
+## Horizontal
 
     // Text
     text-align: center
-    
+
     // Div
     margin: 0 auto
     display: inline-block (多行)
 
-##Vertical
+## Vertical
 
     // Text
     vertical-align: middle
-    
+
     // Div
     top: 50% (不論child高度是否固定情況下皆可用)
     position: absolute (並設定parent容器position: relative)
 
-##Flexbox
+## Flexbox
 
 **Reference**
 * https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.3bd4xfkt8
@@ -30,7 +30,7 @@
 Refer to [flexbox](https://github.com/estherj-hsu/NewbieNotes/blob/master/flexbox.md) note. :")
 
 ----
-##display
+## display
 
 * display: none 不可見、不佔空間
 * visibility: hidden 不可見、佔空間
