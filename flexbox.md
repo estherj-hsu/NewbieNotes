@@ -28,7 +28,7 @@
 
     display: flex
 
-###flex-direction
+### flex-direction
 
 容器內部child排列方向
 
@@ -39,7 +39,7 @@
     flex-direction: column-reverse 逆縱向
 
 
-###flex-wrap
+### flex-wrap
 容器內部child換行
 
     flex-wrap: nowrap 單行
@@ -49,13 +49,13 @@
 > 當採**橫向**(row/row-reverse)排列時，需藉由控制容器**寬度**來呈現多行排列模式
 > 當採**縱向**(column/column-reverse)排列時，需藉由控制容器**高度**來呈現多行排列模式
 
-###flex-flow
+### flex-flow
 合併flex-direction與flex-wrap，共有4(方向)*3(換行)總組合方式
 
     flex-flow: row wrap
     flex-flow: column wrap
 
-###justify-content
+### justify-content
 容器內部**單行**主軸(X軸)對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/justify-content.svg)
@@ -66,7 +66,7 @@
     justify-content: space-between 對齊主軸左右
     justify-content: space-around 對齊主軸左右且每個item左右保有相同空間
  
-###align-items
+### align-items
 容器內部**單行**側軸(Y軸)對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
@@ -77,7 +77,7 @@
     align-items: stretch 延展至側軸雙邊、對齊側軸雙邊
     align-items: baseline 對齊文字基準線
 
-###align-content
+### align-content
 容器內部**多行**對齊
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
@@ -89,23 +89,23 @@
     align-content: space-between 對齊主軸左右
     align-content: space-around 對齊主軸左右且每個item左右保有相同空間
 
-##Child (item)
+## Child (item)
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-items.svg)
 
-###order
+### order
 控制子項目順序，數字越小越接近起始點
 
     order: # (1, 2, 3, ...)
 
-###flex-basis
+### flex-basis
 取代item之width，預約空間
 
     flex-basis: auto(default) 不指定 | <width> (100px, 50%, ...) 指定 | content 以內容計算
 
 > [注意]  flex-shrink屬性**優先**於width，但若兩者之一值為auto，則非auto之屬性優先
 
-###flex-grow
+### flex-grow
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/flex-grow.svg)
 
@@ -121,7 +121,7 @@
 
     flex-grow: 0(default) | #(1, 2, 3, ...)
  
-###flex-shrink
+### flex-shrink
 主容器剩餘空間吸收之縮小比例，default為1，代表若主容器寬/高度**不足時**，各item吸收比例皆相同，數字代表吸收之份量。
 
 假設容器寬度為700px，預設4個item的寬度皆為200px，
@@ -133,12 +133,12 @@
 
     flex-shrink: 1(default) | #(1, 2, 3, ...)
 
-###flex
+### flex
 整合**flex-grow**、**flex-shrink**、**flex-basis**之屬性，依序以空格區隔
 
     flex: 0 1 auto(default) | none 不指定
 
-###align-self
+### align-self
 針對item之側軸對齊設定，**可取代主容器之align-item屬性**
 
 ![enter image description here](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
@@ -154,9 +154,9 @@
 
 ----------
 
-##Compatibility
+## Compatibility
 
-###Parant
+### Parant
 
     display: -webkit-box
     display: -moz-box
@@ -164,7 +164,7 @@
     display: -webkit-flex
     display: flex
 
-###Child
+### Child
 
     -webkit-box-flex: 0 1 auto
 	-moz-box-flex: 0 1 auto
@@ -175,7 +175,7 @@
 	-ms-flex-order: 1
 	order: 1
 
-###Bugs in IE10, IE11
+### Bugs in IE10, IE11
 
 **Reference**
  - [Flexbugs](https://github.com/philipwalton/flexbugs)
