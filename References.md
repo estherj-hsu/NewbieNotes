@@ -1,112 +1,31 @@
 ## SASS, CSS
- - [The Difference Between Explicit and Implicit Grids](https://css-tricks.com/difference-explicit-implicit-grids/) 2017/08/11
- - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/) 2017/08/11
- - [The Best Way to Implement a “Wrapper” in CSS](https://css-tricks.com/best-way-implement-wrapper-css/) 2017/08/11
- - [How We Solve CSS Versioning Conflicts Here at New Relic](https://blog.newrelic.com/2017/07/27/css-versioning-conflicts/) 2017/08/11
- - [How to use -ms-high-contrast](http://www.gwhitworth.com/blog/2017/04/how-to-use-ms-high-contrast) 2017/08/11
- - [Making A Bar Chart with CSS Grid](https://css-tricks.com/making-a-bar-chart-with-css-grid/) 2017/08/11
- - [Using CSS Grid where appropriate](https://www.silvestarbistrovic.from.hr/articles/using-css-grid-where-appropriate/) 2017/08/11 ★★★★★
- - [CSS Inheritance: An Introduction](https://www.sitepoint.com/css-inheritance-introduction/) 2017/08/11
- - [Replaced Elements in HTML: Myths and Realities](https://www.sitepoint.com/replaced-elements-html-myths-realities/) 2017/08/11
- - [Getting Started with Sass](https://www.sitepoint.com/getting-started-with-sass/) 2017/08/11
- - [Inspiration for Menu Hover Effects](https://tympanus.net/codrops/2017/08/01/inspiration-for-menu-hover-effects/) 2017/08/11
- - [How to create a beautiful animated loader with nothing but CSS](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c) 2017/08/11
- - [Why display: contents is not CSS Grid Layout subgrid](https://www.rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/) 2017/08/11
- - [Using viewport units to scale fixed layouts](https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9) 2017/08/11
- - [13 CSS Page Transitions](http://freefrontend.com/css-page-transitions/) 2017/08/11
+ - [Best Way to Programmatically Zoom a Web Application](https://css-tricks.com/best-way-programmatically-zoom-web-application/) 2017/09/04
+ - [Building Skeleton Screens with CSS Custom Properties](https://css-tricks.com/building-skeleton-screens-css-custom-properties/) 2017/09/04
+ - [Here's a Super Quick Way to Try out CSS Grid](http://jensimmons.com/post/aug-15-2017/heres-super-quick-way-try-out-css-grid) 2017/09/04
+ - [LIBERATING LAYOUT THROUGH CSS GRID](https://cssgrid.cc/) 2017/09/04
+ - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/amp/) 2017/09/04
+ - [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 2017/09/04 ★★★
+ - [说说CSS学习中的瓶颈](https://zhuanlan.zhihu.com/p/28870032) 2017/09/04
+ - [How to Create CSS Conic Gradients for Pie Charts and More](https://www.sitepoint.com/create-css-conic-gradients-pie-charts/) 2017/09/04
+ - [Overthinking BEM](https://mono.company/journal/frontend/overthinking-bem/) 2017/09/04
  - 
- - [The Power of CSS – Una Kravets / Front-Trends 2017(Video)](https://www.youtube.com/watch?v=IRI1H5tyEAo) 2017/07/31 ★★★★★
- - [Building a responsive timeline in CSS with Sass and BEM](https://assortment.io/posts/building-responsive-timelines-in-css-sass-bem) 2017/07/31
- - [Morten Rand-Hendriksen: CSS Grid Changes Everything (About Web Layouts)](https://www.youtube.com/watch?v=txZq7Laz7_4) 2017/07/31
- - [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/) 2017/07/31
- - [CSS Custom Properties—Dynamic Changes With And Without Javascript](http://vanseodesign.com/css/custom-properties-and-javascript/) 2017/07/31
- - [Building Better Backgrounds](https://medium.com/@zackkrida/building-better-backgrounds-e8dad55943c) 2017/07/31
- - [Refer to the spec : background and motivation](https://www.rachelandrew.co.uk/archives/2017/07/19/refer-to-the-spec-background-and-motivation/) 2017/07/31
- - [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/) 2017/07/25 ★★★
- - [Using CSS to detect and counting Prime Numbers](https://github.com/xieranmaya/blog/issues/12) 2017/07/25 ★★
- - [CSS Grid Layout Slideshow](https://tympanus.net/codrops/2017/07/19/css-grid-layout-slideshow/) 2017/07/25
- - [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/) 2017/07/25
- - [12 Fun CSS Text Shadows You Can Copy and Paste](https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/) 2017/07/25
- - [Let’s Talk About Speech CSS](https://css-tricks.com/lets-talk-speech-css/) 2017/07/25 ★★★★
- - [CSS Database](https://jonathantneal.github.io/css-db/) 2017/07/25
- - [CSS-only image slider using SVG patterns](https://codepen.io/damianmuti/full/OgBWej/) 2017/07/25
- - [Advanced SCSS](https://gist.github.com/jareware/4738651) 2017/07/25
- - [Did CSS get more complicated since the late nineties?](https://hiddedevries.nl/en/blog/2017-07-03-did-css-get-more-complicated-since-the-late-nineties) 2017/07/25 ★★★★★
- - [Methods to Organize CSS](https://css-tricks.com/methods-organize-css/) 2017/07/25 ★★★
- - [CSS Myths](https://medium.com/surviving-css/css-myths-6b7c159795aa) 2017/07/25
- - [Is it really safe to start using CSS Grid Layout?](https://www.rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/) 2017/07/25
- - [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/) 2017/07/25
- - [The Options for Programmatically Documenting CSS](https://css-tricks.com/options-programmatically-documenting-css/) 2017/07/25
- - [Does__BEM — work?](https://medium.com/@jackappleby/does-bem-work-945c523116c) 2017/07/25
- - [A Friendly Introduction to Flexbox for Beginners](https://www.sitepoint.com/flexbox-css-flexible-box-layout/) 2017/07/25
- - [The Options for Programmatically Documenting CSS](https://css-tricks.com/options-programmatically-documenting-css/) 2017/07/25 ★★★
- - [Letter Effects and Interaction Ideas (Part 2)](https://tympanus.net/codrops/2017/07/05/letter-effects-and-interaction-ideas-part-2/) 2017/07/25
- - [Grid layout, grid layout everywhere!](https://fettblog.eu/grid-concepts/) 2017/07/25
- - [You do not need a CSS Grid based Grid System](https://www.rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system/) 2017/07/25
- - [Five Huge CSS Milestones](http://mediatemple.net/blog/tips/five-huge-css-milestones/) 2017/07/25
- - [CSS is Awesome](https://css-tricks.com/css-is-awesome/) 2017/07/25
- - [FONT ALIASING, OR HOW TO RENAME A FONT IN CSS](https://www.zachleat.com/web/rename-font/) 2017/07/25
- - [Aspect Ratios in CSS are a Hack](https://www.bram.us/2017/06/16/aspect-ratios-in-css-are-a-hack/) 2017/07/25
- - [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience) 2017/07/25
- - [Style Guides as Products](https://seesparkbox.com/foundry/style_guides_as_products) 2017/07/25
- - [9 Exciting Open Source Sass Frameworks](https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/) 2017/07/25
- - [Less Grid Boilerplate](https://github.com/joeberthelot88/Less-Grid-Boilerplate) 2017/07/25
- - [Powerful New Additions to the CSS Grid Inspector in Firefox Nightly](https://hacks.mozilla.org/2017/06/new-css-grid-layout-panel-in-firefox-nightly/) 2017/07/25
 
 ## JS
- - [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/) 2017/08/11
+ - []()
  - 
- - 
- - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) 2017/07/31
- - [Creating Beautiful Charts Using Vue.js Wrappers for Chart.js](https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/) 2017/07/31
 
 ## Front-End
- - [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/) 2017/08/11
- - 
- - [How to Bundle a Simple Static Site Using Webpack](https://www.sitepoint.com/bundle-static-site-webpack/) 2017/07/25 ★★★★★
- - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) 2017/07/25 ★★★
- - [CSS Architecture with ReactJS](https://cheesecakelabs.com/blog/css-architecture-reactjs/) 2017/07/25
- - [CSS vs. JavaScript: Trust vs. Control](https://christianheilmann.com/2017/06/21/css-vs-javascript-trust-vs-control/) 2017/07/25
+ - [Managing CSS & JS in an HTTP/2 World](https://www.viget.com/articles/managing-css-js-http-2) 2017/09/04
+ - []()
+ -
 
 ## Web Design / UX
- - [Improve Your UX With a Niche Approach](https://www.webdesignerdepot.com/2017/08/improve-your-ux-with-a-niche-approach/) 2017/08/11
- - [Friendly, Frictionless Work: Best Practices For Enterprise Messaging UX, From Slack](https://www.smashingmagazine.com/2017/08/best-practices-enterprise-messaging-ux-slack/) 2017/08/11
- - [UI vs UX: What is the Difference?](https://www.sitepoint.com/ui-vs-ux-what-is-the-difference/) 2017/08/11 ★★★★★
- - [A Designer’s Guide to Fast Websites and Perceived Performance](https://www.sitepoint.com/a-designers-guide-to-fast-websites-and-perceived-performance/) 2017/08/11
- - [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/) 2017/08/11 ★★
- - [How Google Designers Adapt Material](https://medium.com/google-design/how-google-designers-adapt-material-e2818ad09d7d) 2017/08/11
- - [How to identify Good Design in 6 steps](https://medium.muz.li/how-to-identify-good-design-in-6-steps-e35da387b7c9) 2017/08/11
+ - [How to Design Checkout UX Like a Pro](https://www.webdesignerdepot.com/2017/08/how-to-design-checkout-ux-like-a-pro/) 2017/09/04
  - 
- - 
- - [Improving your visual design skills: Thoughts for beginners](https://www.viget.com/articles/improving-your-visual-design-skills-resources-tools-and-lessons-for-beginners) 2017/07/31
- - [Mobile-first Indexing is Coming: What This Means for Web Design](https://webdesign.tutsplus.com/articles/mobile-first-indexing-is-coming-what-this-means-for-web-design--cms-29174) 2017/07/31
- - [The 3 Times UX Design Is Bad Design](https://www.webdesignerdepot.com/2017/07/the-3-times-ux-design-is-bad-design/) 2017/07/31
- - [What is Timeless Web Design?](https://css-tricks.com/timeless-web-design/) 2017/07/31
- - [Tiny Text: 6 Ways to Use It Effectively in Web Design](https://designshack.net/articles/typography/tiny-text-web-design/) 2017/07/25
- - [The designer’s guide to using colour in branding](http://www.creativebloq.com/features/the-designers-guide-to-using-colour-in-branding) 2017/07/25
- - [Designing The Perfect Slider](https://www.smashingmagazine.com/2017/07/designing-perfect-slider/) 2017/07/25
- - [5 Unbreakable Rules for UI Animation on the Web](https://www.webdesignerdepot.com/2017/07/5-unbreakable-rules-for-ui-animation-on-the-web/) 2017/07/25
- - [Punctuation & Grammar: Bridging the Gap Between UX and Copywriting](https://www.sitepoint.com/bridging-gap-between-ux-and-copywriting/) 2017/07/25
- - [Designing The Perfect Date And Time Picker](https://www.smashingmagazine.com/2017/07/designing-perfect-date-time-picker/) 2017/07/25
- - [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53) 2017/07/25
- - [Don’t Use Split Buttons for Navigation Menus](https://www.nngroup.com/articles/split-buttons-navigation/) 2017/07/25
- - [The 1 UX Mistake We Nearly All Make](https://www.webdesignerdepot.com/2017/07/the-1-ux-mistake-we-nearly-all-make/) 2017/07/25
- - [Inline validation is problematic](https://medium.com/simple-human/inline-validation-is-problematic-399dd01d436f) 2017/07/25 ★★★
 
 ## Others
  - []()
 
 ## Tools/Materials
- - [Css Grid Highlighter for Chrome](https://github.com/ademilter/chrome-css-grid-highlighter) 2017/08/11
+ - [awesome-vue](https://github.com/vuejs/awesome-vue) 2017/09/04 ★★★
  - 
- - [Grabient](https://www.grabient.com/) 2017/07/31 ★★★
- - [Shoelace.css](https://shoelace.style/) 2017/07/31
- - [Random Material Palette](http://www.threebu.it/random-material-palette/) 2017/07/25
- - [Learn Colors](https://www.canva.com/colors/) 2017/07/25
- - [Materialize](http://materializecss.com/) 2017/07/25
- - [MUI](https://www.muicss.com/) 2017/07/25
- - [Surface](http://mildrenben.github.io/surface/) 2017/07/25
- - [Material Foundation](https://eucalyptuss.github.io/material-foundation/) 2017/07/25
- - [Material Design Lite](https://getmdl.io/) 2017/07/25
- - [Material Components for the Web](https://material.io/components/web/) 2017/07/25
- - [reproCSS](https://tomhodgins.github.io/reprocss/) 2017/07/25
