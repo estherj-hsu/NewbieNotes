@@ -9,3 +9,83 @@
  - 函式名稱為動詞、變數名稱為名詞
  - 變數 `let`：可隨時改變的值、**小駝峰式**命名
  - 常數 `let`：可隨時改變的值、**大寫**命名
+
+
+## `groupBy` & `sumBy`
+
+### Goal
+
+get data and group by specific key, then create a new object
+use lodash `_.groupBy` & `_.sumBy`
+
+#### Original data
+
+    [
+      {
+        "id": 1,
+        "name": "Esther",
+        "saving": {
+          "currency": "USD",
+          "amount": 100
+        }
+      },
+      {
+        "id": 2,
+        "name": "Alice",
+        "saving": {
+          "currency": "TWD",
+          "amount": 100
+        }
+      },
+      {
+        "id": 3,
+        "name": "Tim",
+        "saving": {
+          "currency": "USD",
+          "amount": 500
+        }
+      }
+    ]
+
+#### Grouped Data
+
+    [
+	    {
+		    "currency": "USD",
+		    "amount": 600
+	    },
+	    {
+		    "currency": "TWD",
+		    "amount": 100
+	    },
+
+    ]
+
+
+### Solutions
+
+#### Solution 1
+
+	function getSavingByCurrency(savingData) {
+	  const groupData = _.groupBy(
+	    savingData,
+	    (data) => data.saving.currency
+	  );
+	  const res = Object.entries(groupData)
+	    .map(([currency, users]) => ({
+	      currency: currency,
+	      amount: _.sumBy(users, (user) => user.saving.amount),
+	    }));
+	  return res;
+	}
+
+#### Solution 2
+
+	function getSavingByCurrency(savingData) {
+	  const res = Object.entries(_.groupBy(savingData, 'saving.currency'))
+	    .map(([currency, users]) => ({
+	      currency: currency,
+	      amount: _.sumBy(users, 'saving.amount') }),
+	    );
+	  return res;
+	}
