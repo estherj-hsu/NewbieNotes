@@ -1,4 +1,15 @@
 ## SASS, CSS
+ - [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb) 2018/03/12
+ - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/) 2018/03/12
+ - [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/) 2018/03/12
+ - [CSS Techniques and Effects for Knockout Text](https://css-tricks.com/css-techniques-and-effects-for-knockout-text/) 2018/03/12
+ - [We Write CSS Like We Did in the 90s, and Yes, It’s Silly](http://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-silly) 2018/03/12
+ - [Some Things About `alt` Text](https://css-tricks.com/some-things-about-alt-text/) 2018/03/12
+ - [How We Adpoted CSS Grid at Scale](https://julian.is/article/css-grid-at-scale/) 2018/03/12
+ - [What Houdini Means for Animating Transforms](https://css-tricks.com/what-houdini-means-for-animating-transforms/) 2018/03/12
+ - [Responsive Vertical Rhythm with CSS Custom Properties and CSS Calc](https://zellwk.com/blog/responsive-vertical-rhythm/) 2018/03/12
+ - [Stunning hover effects with CSS variables](https://blog.prototypr.io/stunning-hover-effects-with-css-variables-f855e7b95330) 2018/03/12
+ - [How to easily create themes with CSS Variables](https://medium.freecodecamp.org/how-to-easily-create-themes-with-css-variables-2d0f4cfa5b9a) 2018/03/12
  - [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/) 2018/03/01
  - [Using Sass to Control Scope With BEM Naming](https://css-tricks.com/using-sass-control-scope-bem-naming/) 2018/03/01
  - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855) 2018/03/01
@@ -57,6 +68,7 @@
  - [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/) 2018/01/22
 
 ## JS
+ - [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/) 2018/03/12
  - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/) 2018/03/01
  - [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) 2018/02/12
  - [Please Stop Using Local Storage](https://www.rdegges.com/2018/please-stop-using-local-storage/) 2018/02/12
@@ -64,6 +76,7 @@
  - [Infinite Scroll](https://infinite-scroll.com/) 2018/01/22
 
 ## Front-End
+ - [SAY HELLO TO HOUDINI AND THE CSS PAINT API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/) 2018/03/12
  - [frontend case studies](https://github.com/andrew--r/frontend-case-studies) 2018/03/01
  - [Getting started with CSS modules in React](https://blog.pusher.com/css-modules-react/) 2018/03/01
  - [Designer-Oriented Styles](https://the-pastry-box-project.net/james-kyle/2018-january-22) 2018/03/01
@@ -76,6 +89,20 @@
  - [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) 2018/01/22
 
 ## Web Design / UX
+ - [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5) 2018/03/12
+ - [Bringing Back Skeuomorphic Design](https://blog.prototypr.io/bringing-back-skeuomorphic-design-d211cc1c22d2) 2018/03/12
+ - [User Experience Design Case Study: Lonely Planet Trips App Redesign](https://medium.muz.li/ux-case-study-lonely-planet-trips-app-redesign-20f4d9134b78) 2018/03/12
+ - [V6: Color](http://v6.robweychert.com/blog/2018/02/v6-color/) 2018/03/12
+ - [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b) 2018/03/12
+ - [Design Microsites](http://mediatemple.net/blog/tips/design-microsites/) 2018/03/12
+ - [Accessibility Guidelines](http://accessibility.voxmedia.com/) 2018/03/12
+ - [A Comprehensive Guide To User Testing](https://www.smashingmagazine.com/2018/03/guide-user-testing/) 2018/03/12
+ - [Serif, Sans, Script & Slab: 4 Font Types Explained](https://designshack.net/articles/typography/font-types-explained-serif-sans-script-slab/) 2018/03/12
+ - [10 cheat codes for designing User Interfaces](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9) 2018/03/12
+ - [The less interface, the better](https://uxdesign.cc/the-less-interface-the-better-c7e938cd5517) 2018/03/12
+ - [What Is the Perfect Color Worth?](https://www.nytimes.com/2018/02/28/magazine/what-is-the-perfect-color-worth.html) 2018/03/12
+ - [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography) 2018/03/12
+ - [Looking at the Most Popular Google Fonts](https://speckyboy.com/most-popular-google-fonts/) 2018/03/12
  - [Accessible By Design](https://seesparkbox.com/foundry/accessible_by_design) 2018/03/01
  - [Popup Explorations](http://goodui.org/blog/popup-explorations-pdf-template/) 2018/03/01
  - [Handlebars in UI Design](https://uxdesign.cc/handlebars-in-ui-design-4b36af67733b) 2018/03/01
@@ -125,6 +152,10 @@
  - [Colour management, part 1](https://bjango.com/articles/colourmanagementgamma/) 2018/01/22
 
 ## Tools/Materials
+ - [simpleParallax](https://anakao-theme.com/simpleparallax/) 2018/03/12
+ - [Egg Shape](http://www.eggradients.club/) 2018/03/12
+ - [Atomic Bulldog Grid](https://vinceumo.github.io/atomic-bulldog-grid/) 2018/03/12
+ - [Frow CSS](http://frowcss.com) 2018/03/12
  - [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables) 2018/03/01
  - [Unused CSS](https://www.jitbit.com/unusedcss/) 2018/03/01
  - [Flat UI Colors](https://flatuicolors.com/) 2018/03/01
