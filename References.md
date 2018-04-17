@@ -1,4 +1,18 @@
 ## SASS, CSS
+ - [CSS: The bad bits (and how to avoid them)](https://www.joeforshaw.com/blog/css-the-bad-bits-and-how-to-avoid-them) 2018/03/26
+ - [CSS in the Age of React: How We Traded the Cascade for Consistency](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html) 2018/03/26
+ - [Theming With Variables: Globals and Locals](https://css-tricks.com/theming-with-variables-globals-and-locals/) 2018/03/26
+ - [Responsive Table](https://j.eremy.net/responsive-table/) 2018/03/26
+ - [Glitch Effect Slideshow](https://tympanus.net/codrops/2018/03/13/glitch-effect-slideshow/) 2018/03/26
+ - [20 Responsive & Lightweight CSS Frameworks](https://speckyboy.com/responsive-lightweight-css-frameworks/) 2018/03/14
+ - [Theming With Variables: Globals and Locals](https://css-tricks.com/theming-with-variables-globals-and-locals/) 2018/03/14
+ - [Animate a Container on Mouse Over Using Perspective and Transform](https://css-tricks.com/animate-a-container-on-mouse-over-using-perspective-and-transform/) 2018/03/14
+ - [Overlap on the Web, Graphic Design Made Easy with CSS Grid (Youtube)](https://youtu.be/EashgVqboWo) 2018/03/14
+ - [Learn Bootstrap 4 in 5 minutes](https://medium.freecodecamp.org/learn-bootstrap-4-in-5-minutes-da94728efe41) 2018/03/14
+ - [Notched Boxes](https://css-tricks.com/notched-boxes/) 2018/03/14
+ - [Swapping Images with the Sizes Attribute](https://www.filamentgroup.com/lab/sizes-swap/) 2018/03/14
+ - [Clean Up Your Code with Modular CSS](http://blog.teamtreehouse.com/clean-up-your-code-with-modular-css) 2018/03/14
+ - [`:focus-within`](https://css-tricks.com/almanac/selectors/f/focus-within/) 2018/03/14
  - [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb) 2018/03/12
  - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/) 2018/03/12
  - [Responsive Components: a Solution to the Container Queries Problem](https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/) 2018/03/12
@@ -68,6 +82,8 @@
  - [Design Systems and CSS Grid](https://24ways.org/2017/design-systems-and-css-grid/) 2018/01/22
 
 ## JS
+ - [Vue.js: The Cookbook](https://vuejs.org/v2/cookbook/) 2018/03/26
+ - [Angular Introduction: What It Is, and Why You Should Use It](https://www.sitepoint.com/angular-introduction/) 2018/03/26
  - [The JavaScript Learning Landscape in 2018](https://css-tricks.com/javascript-learning-landscape-2018/) 2018/03/12
  - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/) 2018/03/01
  - [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) 2018/02/12
@@ -76,6 +92,9 @@
  - [Infinite Scroll](https://infinite-scroll.com/) 2018/01/22
 
 ## Front-End
+ - [GraphQL CSS](https://github.com/braposo/graphql-css) 2018/03/26
+ - [node-sass 初探](https://dwatow.github.io/2018/03-12-node-sass/) 2018/03/14
+ - [Owning the Role of the Front-End Developer](http://alistapart.com/article/owning-the-role-of-the-front-end-developer) 2018/03/14
  - [SAY HELLO TO HOUDINI AND THE CSS PAINT API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/) 2018/03/12
  - [frontend case studies](https://github.com/andrew--r/frontend-case-studies) 2018/03/01
  - [Getting started with CSS modules in React](https://blog.pusher.com/css-modules-react/) 2018/03/01
@@ -89,6 +108,13 @@
  - [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) 2018/01/22
 
 ## Web Design / UX
+ - [Design a responsive site with em-based sizing](https://www.creativebloq.com/how-to/design-a-responsive-site-with-em-based-sizing) 2018/03/26
+ - [UX Testing for the Masses: Keep It Simple and Cost Effective](https://www.toptal.com/designers/ux/ux-testing-for-the-masses) 2018/03/26
+ - [Creating A UX Strategy](https://www.smashingmagazine.com/2018/03/creating-a-ux-strategy/) 2018/03/26
+ - [Using Ethics In Web Design](https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/) 2018/03/26
+ - [Not Everything is a User Story](https://www.lullabot.com/articles/not-everything-is-a-user-story) 2018/03/26
+ - [Creating User-friendly forms](https://blog.prototypr.io/creating-user-friendly-forms-46e3f7f4eef2) 2018/03/14
+ - [A 6-point microcopy checklist for product teams without UX writers](https://medium.com/swlh/my-6-point-microcopy-checklist-for-non-ux-writers-634eb52b29c9) 2018/03/14
  - [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5) 2018/03/12
  - [Bringing Back Skeuomorphic Design](https://blog.prototypr.io/bringing-back-skeuomorphic-design-d211cc1c22d2) 2018/03/12
  - [User Experience Design Case Study: Lonely Planet Trips App Redesign](https://medium.muz.li/ux-case-study-lonely-planet-trips-app-redesign-20f4d9134b78) 2018/03/12
@@ -152,6 +178,15 @@
  - [Colour management, part 1](https://bjango.com/articles/colourmanagementgamma/) 2018/01/22
 
 ## Tools/Materials
+ - [Trianglify](https://trianglify.io/) 2018/03/26
+ - [ScrollBooster](https://ilyashubin.github.io/scrollbooster/) 2018/03/26
+ - [FICTOAN](https://sujan-s.github.io/fictoan/) 2018/03/26
+ - [VUEDS](https://vueds.com/) 2018/03/26
+ - [Visual Inspector](https://www.canvasflip.com/visual-inspector/) 2018/03/26
+ - [GradPad](http://ourownthing.co.uk/gradpad.html) 2018/03/26
+ - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) 2018/03/26
+ - [Prettier](https://prettier.io/) 2018/03/14
+ - [CSS Gradient](https://cssgradient.io/) 2018/03/14
  - [simpleParallax](https://anakao-theme.com/simpleparallax/) 2018/03/12
  - [Egg Shape](http://www.eggradients.club/) 2018/03/12
  - [Atomic Bulldog Grid](https://vinceumo.github.io/atomic-bulldog-grid/) 2018/03/12
