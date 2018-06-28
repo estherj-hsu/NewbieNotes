@@ -16,7 +16,6 @@
  - [Practical tips for working with CSS variables](https://css-irl.info/practical-tips-css-variables)
  - [Creating a Bar Graph with CSS Grid](https://css-tricks.com/creating-a-bar-graph-with-css-grid/)
  - [Z-Index Explained: How to Stack Elements Using CSS](https://medium.freecodecamp.org/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3)
- -
  - [CSS 專家密技](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW) ★★★★★
  - [Foreword for CSS In Depth](https://css-tricks.com/foreword-for-css-in-depth/)
  - [New CSS Features That Are Changing Web Design](https://www.smashingmagazine.com/2018/05/future-of-web-design/) ★★
@@ -58,7 +57,6 @@
  - [Building a RSS Viewer With Vue: Part 1](https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/)
  - [Building a RSS Viewer With Vue: Part 2](https://css-tricks.com/building-a-rss-viewer-with-vue-part-2/)
  - [HTTP请求方法：GET、HEAD、POST、PUT、DELETE、CONNECT、OPTIONS、TRACE 说明](http://www.css88.com/archives/9341)
- -
  - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/)
  - [Compile Vue.js templates on the Fly with v-runtime-template](https://alligator.io/vuejs/v-runtime-template/)
  - [Vue页面骨架屏注入实践](https://segmentfault.com/a/1190000014832185)
@@ -68,7 +66,6 @@
  - [The Four Big Ways Jetpack Helps with Image Performance](https://css-tricks.com/the-four-big-ways-jetpack-helps-with-image-performance/)
  - [Building a responsive image](https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6)
  - [Your Brain on Front-End Development](https://css-tricks.com/your-brain-on-front-end-development/)
- -
  - [what’s wrong with css-in-js?](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/)
  - [CSS-IN-JS](http://www.brianmuenzenmeyer.com/css-in-jss)
  - [Webpack 4 configurator](https://www.browserstack.com/start)
@@ -79,7 +76,6 @@
  - [The Problem with Patterns](http://alistapart.com/article/problem-with-patterns)
  - [8-Point Grid: Typography On The Web](https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc) ★★★
  - [A Collection of Unique Password Field & Form Utility Code Snippets](https://speckyboy.com/unique-password-fields-utilities/)
- -
  - [Plasma design system](https://medium.com/owl-studios/plasma-design-system-4d63fb6c1afc) ★★★★★
  - [7 typography trends in web design](https://webflow.com/blog/7-typography-trends-in-web-design)
  - [Design Systems](https://www.designsystems.com) ★★
@@ -113,7 +109,6 @@
  - [vivid.js](https://webkul.github.io/vivid)
  - [Box-shadows.css](https://madeas.github.io/box-shadows)
  - [Grid System Library](http://grid.kkuistore.com/)
- -
  - [crunch](https://github.com/chrissimpkins/Crunch)
  - [LayoutIt](https://www.layoutit.com/grid)
  - [Text Mask](https://text-mask.github.io)
