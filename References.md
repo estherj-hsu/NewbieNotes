@@ -1,4 +1,22 @@
 ## SASS, CSS
+ - [Flexbox: How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
+ - [The Cascade and Other Essential Unessentials](https://timkadlec.com/remembers/2018-09-10-the-cascade-and-other-essential-unessentials/)
+ - [Complete Guide to CSS Scroll Snap](https://newinweb.com/2018/09/06/css-scroll-snap/)
+ - [How to Use 2D Transformation Functions in CSS](https://www.sitepoint.com/how-to-use-2d-transformation-functions-in-css/)
+ - [Changes on CSS Grid Layout in percentages and indefinite height](https://blogs.igalia.com/mrego/2018/08/10/changes-on-css-grid-layout-in-percentages-and-indefinite-height/)
+ - [CSS Architecture: Block-Element-Modifier (BEM) & Atomic CSS](https://www.sitepoint.com/css-architecture-block-element-modifier-bem-atomic-css/)
+ - [Variables in CSS: Custom Properties](https://www.sitepoint.com/variables-in-css-custom-properties/)
+ - [Progressively Enhanced CSS Layouts: Floats to Flexbox & Grid](https://www.sitepoint.com/css-layouts-floats-flexbox-grid/)
+ - [The Complete CSS Demo for OpenType Features](https://sparanoid.com/lab/opentype-features/)
+ - [Take A New Look At CSS Shapes](https://www.smashingmagazine.com/2018/09/css-shapes/)
+ - [The Benefits of Using CSS Grid for Web Form Layout](https://www.sitepoint.com/css-grid-web-form-layout/)
+ - [Super-Powered Grid Components with CSS Custom Properties](https://css-tricks.com/super-power-grid-components-with-css-custom-properties/)
+ - [Customize Radio Buttons without Compromising Accessibility](https://blog.bitsrc.io/customise-radio-buttons-without-compromising-accessibility-b03061b5ba93)
+ - [CSS Logical Properties and Values in Chromium and WebKit](https://blogs.igalia.com/mrego/2018/08/08/css-logical-properties-and-values-in-chromium/)
+ - [Creating the “Perfect” CSS System](https://medium.com/gusto-design/creating-the-perfect-css-system-fa38f5bcdd9e)
+ - [CSS on Steroids: Introduction to SASS and LESS](https://www.codepicky.com/sass-less-intro/)
+ - [Hamburger Menu Animations](https://codepen.io/Zaku/pen/ejLNJL/)
+ - 
  - [Scrolling Gradient](https://codepen.io/MadeByMike/pen/eKPZZz)
  - [Unused](https://css-tricks.com/unused/)
  - [Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/) ★★★
@@ -29,6 +47,11 @@
  - [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
 
 ## JS
+ - [Vue.js + GSAP = 🔥 Animations](https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a)
+ - [Working With Events in React](https://css-tricks.com/working-with-events-in-react/)
+ - [Render Caching for React](https://css-tricks.com/render-caching-for-react/)
+ - [Props and PropTypes in React](https://css-tricks.com/props-and-proptypes-in-react/)
+ - 
  - [用最简单的方式理解 JavaScript 中的 Symbols，Iterators(迭代器)，Generators(生成器)，Async/Await(异步/等待) 和 Async Iterators(异步迭代器)](http://www.css88.com/archives/9386)
  - [Vue.js: the good, the meh, and the ugly](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684)
  - [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/) ★★★★
@@ -38,11 +61,21 @@
  - [Vue + TypeScript: A Match Made in Your Code Editor](https://css-tricks.com/vue-typescript-a-match-made-in-your-code-editor/)
 
 ## Front-End
+ - [HTML elements, unite! The Voltron-like powers of combining elements.](https://css-tricks.com/html-elements-unite-the-voltron-like-powers-of-combining-elements/)
+ - [Beer Slider Responsive & Accessible Before-After Slider](https://pepsized.com/beer-slider-responsive-accessible-before-after-slider/)
+ - [Updating a CSS Variable with JavaScript](https://css-tricks.com/updating-a-css-variable-with-javascript/)
+ - [Google AMP Can Go To Hell](https://www.polemicdigital.com/google-amp-go-to-hell/)
+ - 
  - [What kind of ethics do front-end developers need?](https://hiddedevries.nl/en/blog/2018-07-05-what-kind-of-ethics-do-front-end-developers-need)
  - [Improving Performance Perception: On-demand Image Resizing](https://www.sitepoint.com/improving-performance-perception-on-demand-image-resizing/)
  - [Using Background Processing to Speed Up Page Load Times](https://www.sitepoint.com/using-background-processing-to-speed-up-page-load-times/)
 
 ## Web Design / UX
+ - [Designing With Code](https://matthewstrom.com/writing/designing-with-code.html)
+ - [Designing UI with Color Blind Users in Mind](https://www.secretstache.com/blog/designing-for-color-blind-users/)
+ - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+ - [Create your design system, part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd)
+ - 
  - [Design Systems: Everything You Should Know](https://thedesignest.net/design-systems-brief-guide/)
  - [The Design Tool Dilemma](https://medium.freecodecamp.org/the-design-tool-dilemma-225541c4ad1d)
  - [Design Systems at GitHub](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542)
@@ -67,6 +100,10 @@
 
 
 ## Tools/Materials
+ - [Picular](https://picular.co/)
+ - [GRID: Visual Cheatsheet](http://grid.malven.co/)
+ - [Trendy Palettes](https://trendypalettes.com/)
+ - 
  - [Flexit](https://mrkaran.com/flexit/)
  - [Fleep](https://fleep.io/)
  - [UnusedCSS](https://unused-css.com/)
