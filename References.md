@@ -11,6 +11,7 @@
 
 ## Web Design / UX
  - [UX vs UI vs IA vs IxD : 4 Confusing Digital Design Terms Defined](https://www.mockplus.com/blog/post/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined) ★★★
+ - [All You Need To Know About UX Team Structure](https://uxstudioteam.com/ux-blog/ux-team-structure/) ★★★★★
 
 ## Others
  - [前端工程師面試問題集](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese-traditional/)

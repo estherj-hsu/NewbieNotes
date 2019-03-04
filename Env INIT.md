@@ -1,5 +1,5 @@
 # TOOLS
-  - iterm
+  - iterm & ohmyzsh
   - SourceTree / GitKraken
   - Visual Studio Code / Atom
     - Beautify
@@ -22,7 +22,18 @@
 
 # INIT
   - brew(http://brew.sh/)
-  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   - nvm(https://github.com/creationix/nvm)
-  `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash`
   - nodejs(https://nodejs.org/en/)
+
+# Git
+ - Alias
+  `$ git config --global alias.g git`
+  `$ git config --global alias.co checkout`
+  `$ git config --global alias.ps push`
+  `$ git config --global alias.pl pull`
+  `$ git config --global alias.cm commit`
+  `$ git config --global alias.cl clone`
+  `$ git config --global alias.rb rebase`
+- Fixup & autosquash
+  `g cm --fixup 144c43`
+  `g rb -i --autosquash 144c2`
