@@ -36,6 +36,14 @@
  - [Avoiding jagged edges on gradients](https://medium.com/pixel-and-ink/avoiding-jagged-edges-on-gradients-f485cc7401f5)
  - [The Smallest Difference](https://www.robinrendle.com/notes/the-smallest-difference.html) ★★★★★
  - [Embracing the Universal Web](https://css-tricks.com/embracing-the-universal-web/)
+ - [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
+ - [Making a Better Custom Select Element](https://24ways.org/2019/making-a-better-custom-select-element)
+ - [Motion Paths – Past, Present and Future](https://tympanus.net/codrops/2019/12/03/motion-paths-past-present-and-future/)
+ - [Calculating Color: Dynamic Color Theming with Pure CSS](https://una.im/css-color-theming/)
+ - [CSS: An Art, a Science, a Nightmare (Everything You Should Know)](https://www.taniarascia.com/overview-of-css-concepts/) ★★★
+ - [Use CSS Subgrid to layout full-width content stripes in an article template](https://bryanlrobinson.com/blog/use-css-subgrid-laying-out-full-width-article-stripes/)
+ - [Add Scroll Effects & Utilities to Your Website with These CSS & JS Snippets](https://speckyboy.com/scroll-effects-utilities-css-js-snippets/)
+ - [Beautiful Scrolling Experiences – Without Libraries](https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries)
 
 ## JS
  - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
@@ -52,6 +60,7 @@
  - [Build your own React](https://pomb.us/build-your-own-react/)
  - [Is There a Viable Alternative to Javascript? ](https://www.webdesignerdepot.com/2019/11/is-there-a-viable-alternative-to-javascript/)
  - [Create a Toggle Switch in React as a Reusable Component](https://www.sitepoint.com/react-toggle-switch-reusable-component/)
+ - [How I created 488 "live images"](https://bitsofco.de/how-i-created-488-live-images)
 
 ## Front-End
  - [Inconsistent behavior among browsers when clicking on buttons](https://zellwk.com/blog/inconsistent-button-behavior/)
@@ -60,6 +69,9 @@
  - [What I Like About Writing Styles with Svelte](https://css-tricks.com/what-i-like-about-writing-styles-with-svelte/)
  - [Become a Front-End Master in 2020 With These 10 Project Ideas](https://css-tricks.com/become-a-front-end-master-in-2020-with-these-10-project-ideas/) ★★
  - [Web Almanac 2019](https://almanac.httparchive.org/en/2019/)
+ - [How to Use Material Data Tables on the Web](https://medium.com/google-design/how-to-use-material-data-tables-on-the-web-b12e881119a4)
+ - [CSS Architecture for Modern JavaScript Applications](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/) ★★★★
+ - [How to fight back against Google AMP as a web user and a web developer](https://markosaric.com/google-amp/)
 
 ## Web Design / UX
  - [UX vs UI vs IA vs IxD : 4 Confusing Digital Design Terms Defined](https://www.mockplus.com/blog/post/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined) ★★★
@@ -95,10 +107,17 @@
  - [How To Use FOMO To Increase Conversions](https://www.smashingmagazine.com/2019/11/fomo-increase-conversions/)
  - [Enhancing The Clickable Area Size](https://ishadeed.com/article/clickable-area)
  - [How we scaled our design system to unleash Skyscanner’s new brand](https://medium.com/@SkyscannerEng/how-we-scaled-our-design-system-to-unleash-skyscanners-new-brand-845a1f501b0b)
+ - [What’s the next UI design trend?](https://uxdesign.cc/whats-the-next-ui-design-trend-75c8b61f5c7c) ★★★★★
+ - [Web layouts like it’s 2020](https://blog.logrocket.com/web-layouts-like-its-2020) ★★★
+ - [Get Started With UI Design With These Tips To Speed Up Your Workflow](https://www.smashingmagazine.com/2019/12/ui-design-tips-speed-up-workflow/)
+ - [10 Rules of Dashboard Design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
+ - [The State of UX in 2020](https://trends.uxdesign.cc/2020)
 
 ## Others
  - [前端工程師面試問題集](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese-traditional/)
  - [How to Build a Web App with GraphQL and React](https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react)
+ - [10 Zsh Tips & Tricks: Configuration, Customization & Usage](https://www.sitepoint.com/zsh-tips-tricks)
+ - [The Component Based WordPress Starter Theme for Developers](https://flyntwp.com/)
 
 ## App
  - [Performing iOS Animations On Views With UIKit And UIView](https://www.smashingmagazine.com/2019/11/performing-ios-animations-views-uikit-uiview/)
@@ -123,3 +142,5 @@
  - [Material UI Colors](http://materialuicolors.co/)
  - [Color Hunt](https://colorhunt.co/)
  - [Glyphy](https://www.glyphy.io/)
+ - [CSS Layout](https://csslayout.io/)
+ - [Make a smooth shadow, friend](https://brumm.af/shadows)
