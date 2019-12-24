@@ -50,6 +50,9 @@
  - [How to Use New CSS `:is()` for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223) ★★★
  - [Why CSS HSL Colors are Better!](https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead)
  - [A History of CSS Through Fifteen Years of 24 ways](https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/)
+ - [Moving Rainbow Underlines](https://css-tricks.com/moving-rainbow-underlines/)
+ - [CSS3 Properties](https://www.web4college.com/css-play/index.php)
+ - [Understanding positioning in CSS](https://dev.to/huijing/understanding-positioning-in-css-7mn)
 
 ## JS
  - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
@@ -70,6 +73,8 @@
  - [The Evolution of JavaScript Tooling: A Modern Developer’s Guide](https://www.sitepoint.com/javascript-tooling-evolution-modern-developers-guide)
  - [Detecting Inactive Users](https://css-tricks.com/detecting-inactive-users/)
  - [Styled Components, Styled Systems and How They Work](https://rangle.io/blog/styled-components-styled-systems-and-how-they-work/)
+ - [How to Get the Current Page URL in Gatsby](https://css-tricks.com/how-to-the-get-current-page-url-in-gatsby/)
+ - [Five Interesting Ways to Use Array.reduce() (And One Boring Way)](https://24ways.org/2019/five-interesting-ways-to-use-array-reduce/)
 
 ## Front-End
  - [Inconsistent behavior among browsers when clicking on buttons](https://zellwk.com/blog/inconsistent-button-behavior/)
@@ -125,6 +130,13 @@
  - [Is The F-Pattern Still Relevant in Web Design?](https://www.webdesignerdepot.com/2019/12/is-the-f-pattern-still-relevant-in-web-design/)
  - [Live Sketching A Site Visitor Journey To Create A Sitemap With Your Client](https://www.smashingmagazine.com/2019/12/live-sketching-site-visitor-journey-sitemap-client/)
  - [Now You See It: Understanding Display](https://noti.st/rachelandrew/TB025V#smdtmKz)
+ - [Less is (Almost) Definitely More: An Introduction to Hick’s Law for Web Designers](https://www.webdesignerdepot.com/2019/12/less-is-almost-definitely-more-an-introduction-to-hicks-law-for-web-designers/)
+ - [Quantitative Data Tools For UX Designers](https://www.smashingmagazine.com/2019/12/quantitative-data-tools-uxdesigners/)
+ - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+ - [8 Tips — Choosing the Right Font for your Design](https://blog.prototypr.io/8-tips-choosing-the-right-font-for-your-design-5b1060fae6d8)
+ - [Data-driven UX with Google Analytics](https://uxdesign.cc/data-driven-ux-with-google-analytics-cae75ac1f123)
+ - [How to Design for Arabic Users](https://blog.marvelapp.com/mirroring-designing-for-arab-users/)
+ - [Visualizing Every Pantone Color of the Year](https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year)
 
 ## Others
  - [前端工程師面試問題集](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese-traditional/)
@@ -132,6 +144,7 @@
  - [10 Zsh Tips & Tricks: Configuration, Customization & Usage](https://www.sitepoint.com/zsh-tips-tricks)
  - [The Component Based WordPress Starter Theme for Developers](https://flyntwp.com/)
  - [5 Signs It’s Time to Quit Your Job](https://www.sitepoint.com/quitting-job-signs) ★★★★★
+ - [Design APIs: The Evolution of Design Systems](https://matthewstrom.com/writing/design-apis/)
 
 ## App
  - [Performing iOS Animations On Views With UIKit And UIView](https://www.smashingmagazine.com/2019/11/performing-ios-animations-views-uikit-uiview/)
@@ -160,3 +173,4 @@
  - [Make a smooth shadow, friend](https://brumm.af/shadows)
  - [Leonardo](https://github.com/adobe/leonardo)
  - [Gradient Magic](https://www.gradientmagic.com/)
+ - [CSS Icons](https://css.gg)
