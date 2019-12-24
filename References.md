@@ -30,7 +30,6 @@
  - [Using CSS custom properties to reduce the size of your CSS](https://codyhouse.co/blog/post/using-css-custom-properties-to-reduce-the-size-of-your-css)
  - [CSS Architecture for Modern JavaScript Applications](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications)
  - [How Do You Remove Unused CSS From a Site?](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site)
- -
  - [CSS Logical Properties](https://adrianroselli.com/2019/11/css-logical-properties.html)
  - [How Do You Remove Unused CSS From a Site?](https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/)
  - [Avoiding jagged edges on gradients](https://medium.com/pixel-and-ink/avoiding-jagged-edges-on-gradients-f485cc7401f5)
@@ -44,6 +43,13 @@
  - [Use CSS Subgrid to layout full-width content stripes in an article template](https://bryanlrobinson.com/blog/use-css-subgrid-laying-out-full-width-article-stripes/)
  - [Add Scroll Effects & Utilities to Your Website with These CSS & JS Snippets](https://speckyboy.com/scroll-effects-utilities-css-js-snippets/)
  - [Beautiful Scrolling Experiences – Without Libraries](https://24ways.org/2019/beautiful-scrolling-experiences-without-libraries)
+ - [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/)
+ - [A Look at the Proper Usage of the alt Attribute](https://speckyboy.com/proper-usage-alt-attribute/)
+ - [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
+ - [5 CSS Predictions For 2020](https://dev.to/argyleink/5-css-predictions-for-2020-pl3)
+ - [How to Use New CSS `:is()` for Easy Element Targeting](https://webdesign.tutsplus.com/articles/new-css-is-for-easy-element-targeting--cms-34223) ★★★
+ - [Why CSS HSL Colors are Better!](https://medium.com/@elad/why-css-hsl-colors-are-better-83b1e0b6eead)
+ - [A History of CSS Through Fifteen Years of 24 ways](https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/)
 
 ## JS
  - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
@@ -56,11 +62,14 @@
  - [Getting Started With An Express And ES6+ JavaScript Stack](https://www.smashingmagazine.com/2019/11/express-es6-javascript-stack-mongodb-mongoose-servers/) ★★★★★
  - [Delay, Sleep, Pause, & Wait in JavaScript](https://www.sitepoint.com/delay-sleep-pause-wait/)
  - [Testing React Hooks With Enzyme and React Testing Library](https://css-tricks.com/testing-react-hooks-with-enzyme-and-react-testing-library/)
- -
  - [Build your own React](https://pomb.us/build-your-own-react/)
  - [Is There a Viable Alternative to Javascript? ](https://www.webdesignerdepot.com/2019/11/is-there-a-viable-alternative-to-javascript/)
  - [Create a Toggle Switch in React as a Reusable Component](https://www.sitepoint.com/react-toggle-switch-reusable-component/)
  - [How I created 488 "live images"](https://bitsofco.de/how-i-created-488-live-images)
+ - [The Complete Guide to JavaScript Classes](https://dmitripavlutin.com/javascript-classes-complete-guide/)
+ - [The Evolution of JavaScript Tooling: A Modern Developer’s Guide](https://www.sitepoint.com/javascript-tooling-evolution-modern-developers-guide)
+ - [Detecting Inactive Users](https://css-tricks.com/detecting-inactive-users/)
+ - [Styled Components, Styled Systems and How They Work](https://rangle.io/blog/styled-components-styled-systems-and-how-they-work/)
 
 ## Front-End
  - [Inconsistent behavior among browsers when clicking on buttons](https://zellwk.com/blog/inconsistent-button-behavior/)
@@ -112,12 +121,17 @@
  - [Get Started With UI Design With These Tips To Speed Up Your Workflow](https://www.smashingmagazine.com/2019/12/ui-design-tips-speed-up-workflow/)
  - [10 Rules of Dashboard Design](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
  - [The State of UX in 2020](https://trends.uxdesign.cc/2020)
+ - [It’s Time to Start Making Your Web Apps Reactive](https://www.sitepoint.com/quitting-job-signs/)
+ - [Is The F-Pattern Still Relevant in Web Design?](https://www.webdesignerdepot.com/2019/12/is-the-f-pattern-still-relevant-in-web-design/)
+ - [Live Sketching A Site Visitor Journey To Create A Sitemap With Your Client](https://www.smashingmagazine.com/2019/12/live-sketching-site-visitor-journey-sitemap-client/)
+ - [Now You See It: Understanding Display](https://noti.st/rachelandrew/TB025V#smdtmKz)
 
 ## Others
  - [前端工程師面試問題集](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese-traditional/)
  - [How to Build a Web App with GraphQL and React](https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react)
  - [10 Zsh Tips & Tricks: Configuration, Customization & Usage](https://www.sitepoint.com/zsh-tips-tricks)
  - [The Component Based WordPress Starter Theme for Developers](https://flyntwp.com/)
+ - [5 Signs It’s Time to Quit Your Job](https://www.sitepoint.com/quitting-job-signs) ★★★★★
 
 ## App
  - [Performing iOS Animations On Views With UIKit And UIView](https://www.smashingmagazine.com/2019/11/performing-ios-animations-views-uikit-uiview/)
@@ -144,3 +158,5 @@
  - [Glyphy](https://www.glyphy.io/)
  - [CSS Layout](https://csslayout.io/)
  - [Make a smooth shadow, friend](https://brumm.af/shadows)
+ - [Leonardo](https://github.com/adobe/leonardo)
+ - [Gradient Magic](https://www.gradientmagic.com/)
