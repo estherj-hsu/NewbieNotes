@@ -11,15 +11,32 @@
  - [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/)
  - [Get Moving (or not) with CSS Motion Path](https://danielcwilson.com/blog/2020/01/motion-path-quirks/)
  - [Building my bullet journal layout with CSS Grid & Subgrid & Flexbox](https://blog.stephaniestimac.com/posts/12-29-2019-bullet-journal)
+ - [The Auto-Flowing Powers of Grid’s Dense Keyword](https://css-tricks.com/the-auto-flowing-powers-of-grids-dense-keyword/)
+ - [Multi-Thumb Sliders: General Case](https://css-tricks.com/multi-thumb-sliders-general-case/)
+ - [Why You Should Choose HTML5 <article> Over <section>](https://www.smashingmagazine.com/2020/01/html5-article-section/)
+ - [7 CSS properties you had no idea about](https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75)
+ - [Flash Grid: learn CSS Grid by building a grid system](https://dev.to/codyhouse/flash-grid-learn-css-grid-by-building-a-grid-system-2c4f)
+ - [Finally, a CSS only solution to :hover on touchscreens](https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c)
+ - [CSS-Only Carousel](https://css-tricks.com/css-only-carousel/)
+ - [Hiding Elements On The Web](https://ishadeed.com/article/hiding-web/)
+ - [Using easing for more than just CSS transitions](https://kilianvalkhof.com/2020/css-html/using-easing-for-more-than-just-css-transitions/)
+ - [Animate Text on Scroll](https://css-tricks.com/animate-text-on-scroll/)
 
 ## JS
  - [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
+ - [On `let` vs `const`](https://overreacted.io/on-let-vs-const/)
+ - [Understanding Async Await](https://css-tricks.com/understanding-async-await/)
+ - [5 JavaScript Features I Couldn't Code Without](https://www.javascriptjanuary.com/blog/5-javascript-features-i-couldnt-code-without)
+ - [An Introduction To React’s Context API](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
 
 ## Front-End
  - [What it means to be a front-end developer in 2020 (and beyond)](https://getflywheel.com/layout/what-it-means-to-be-a-front-end-developer/)
  - [One Way to Break Users Out of the Habit of Reloading Too Much ](https://css-tricks.com/one-way-to-break-users-out-of-the-habit-of-reloading-too-much/)
  - [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)
  - [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+ - [4 Reasons to Use Image Processing to Optimize Website Media](https://www.sitepoint.com/4-reasons-to-use-image-processing-to-optimize-website-media)
+ - [2019 Frontend Review](https://zhuanlan.zhihu.com/p/101517039)
+ - [Adding separators to layouts with CSS-in-JS](https://medium.com/pixel-and-ink/adding-separators-to-layouts-with-css-in-js-1e15017c0c68)
 
 ## Web Design / UX
  - [Should a Web Page Have a Single CTA?](https://www.webdesignerdepot.com/2019/12/should-a-web-page-have-a-single-cta/)
@@ -31,6 +48,7 @@
  - [UX For Enterprise: 3 Biggest Challenges (and How to Tackle Them)](https://www.webdesignerdepot.com/2020/01/ux-for-enterprise-3-biggest-challenges-and-how-to-tackle-them/)
  - [Fundamentals of Hierarchy in Interface Design (UI)](https://medium.com/swlh/fundamentals-of-hierarchy-in-interface-design-ui-ba8e3017dceb)
  - [2020 will be the year AI kills company dashboards](https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/)
+ - [How Many Types of X Acronym Are There? And Does It Matter?](https://www.webdesignerdepot.com/2020/01/how-many-types-of-x-acronym-are-there-and-does-it-matter/)
 
 ## App
  - [面对Flutter，我终于迈出了第一步](https://www.jianshu.com/p/e6d66f77733b)
@@ -45,6 +63,8 @@
  - [Color Sinspo](https://colorsinspo.com/)
  - [Excalidraw](https://github.com/excalidraw/excalidraw)
  - [sscaffold](https://sscaffold-css.com/)
+ - [Calcolor](https://calcolor.co/)
+ - [Flexulator](https://www.flexulator.com/)
 
 ## Others
  - []()
