@@ -41,6 +41,22 @@
  - [Some Imaginary CSS](https://cloudfour.com/thinks/some-imaginary-css/)
  - [CSS Specificity](https://dev.to/emmabostian/css-specificity-1kca)
  - [BEM Methodology In CSS: A Quick Start Guide](https://scalablecss.com/bem-quickstart-guide/)
+ - [Resizing Values in Steps in CSS](https://css-tricks.com/resizing-values-in-steps-in-css/)
+ - [How Do You Do max-font-size in CSS?](https://css-tricks.com/how-do-you-do-max-font-size-in-css/)
+ - [Animating CSS Width and Height Without the Squish Effect](https://pqina.nl/blog/animating-width-and-height-without-the-squish-effect/)
+ - [Sticky Table of Contents with Scrolling Active States](https://css-tricks.com/sticky-table-of-contents-with-scrolling-active-states/)
+ - [CSS resize none on textarea is bad for UX](https://catalin.red/css-resize-none-is-bad-for-ux/)
+ - [10 Useful and Hard-To-Remember CSS Selectors](https://dev.to/proticm/10-useful-and-hard-to-remember-css-selectors-56h2)
+ - [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+ - [Flipping Images Horizontally or Vertically with CSS and JavaScript](https://pqina.nl/blog/flipping-images-with-css-and-javascript/)
+ - [attributes.css](https://gist.github.com/emmabostian/ed933bc7f9711acdc565f42f1b159407)
+ - [Corner ribbon with trigonometry](https://hugogiraudel.com/2020/01/22/corner-ribbon-with-trigonometry)
+ - [Magic Flip Cards: Solving A Common Sizing Problem](https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem/)
+ - [CSS4 is a Bad Idea](https://www.impressivewebs.com/css4-bad-idea/)
+ - [Getting fancy with CSS’s Position Sticky](https://thecleverest.com/getting-fancy-with-csss-position-sticky/)
+ - [Full-Width Elements By Using Edge-to-Edge Grid](https://css-tricks.com/full-width-elements-by-using-edge-to-edge-grid/)
+ - [Custom Styling Form Inputs With Modern CSS Features](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/)
+ - [Quick and Easy Dark Mode with CSS Custom Properties](https://css-irl.info/quick-and-easy-dark-mode-with-css-custom-properties/)
 
 ## JS
  - [Getting Started with Front End Testing](https://www.javascriptjanuary.com/blog/getting-started-with-front-end-testing)
@@ -54,6 +70,12 @@
  - [How To Pass Data Between Components In Vue.js](https://www.smashingmagazine.com/2020/01/data-components-vue-js/)
  - [Bundling JavaScript for Performance: Best Practices](https://calendar.perfplanet.com/2019/bundling-javascript-for-performance-best-practices/)
  - [ESLint configuration and best practices](https://blog.geographer.fr/eslint-guide)
+ - [React Tutorial](https://react-tutorial.app/)
+ - [Understanding Immutability in JavaScript](https://css-tricks.com/understanding-immutability-in-javascript/)
+ - [Practical Ways to Advance Your TypeScript Skills](https://www.sitepoint.com/advance-typescript-skills-practical-ways/)
+ - [Coder Guide](https://coders.guide/)
+ - [An Introduction to REST and RESTful APIs](https://www.sitepoint.com/developers-rest-api/)
+ - [Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
 
 ## Front-End
  - [What it means to be a front-end developer in 2020 (and beyond)](https://getflywheel.com/layout/what-it-means-to-be-a-front-end-developer/)
@@ -65,6 +87,7 @@
  - [Adding separators to layouts with CSS-in-JS](https://medium.com/pixel-and-ink/adding-separators-to-layouts-with-css-in-js-1e15017c0c68)
  - [Searching the JAMStack](https://www.stackbit.com/blog/jamstack-search/)
  - [JAMstack](https://snipcart.com/blog/jamstack)
+ - [Styled Components vs. CSS Stylesheets](https://getstream.io/blog/styled-components-vs-css-stylesheets/)
 
 ## Web Design / UX
  - [Should a Web Page Have a Single CTA?](https://www.webdesignerdepot.com/2019/12/should-a-web-page-have-a-single-cta/)
@@ -97,12 +120,17 @@
  - [UX design process: a simple (but complete) guide](https://webflow.com/blog/ux-design-process)
  - [Ten practical principles for designing better experiences](https://uxdesign.cc/ten-practical-principles-for-designing-experiences-e4ce1057e85a)
  - [How To Design Emails That People Will Actually Read](https://icons8.com/articles/email-design-tips)
+ - [What Is Modern Web Design in 2020? 20 Stunning Examples](https://designshack.net/articles/inspiration/modern-website-design/)
+ - [The Complete Beginner’s Guide to Design Systems](https://designxplorer.co/the-complete-beginners-guide-to-design-systems/)
+ - [3 Lessons UX Designers Can Take From Netflix](https://www.webdesignerdepot.com/2020/02/3-lessons-ux-designers-can-take-from-netflix/)
+ - [7 Principles of Icon Design](https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2)
 
 ## App
  - [面对Flutter，我终于迈出了第一步](https://www.jianshu.com/p/e6d66f77733b)
  - [5 Things To Stop Doing In Mobile App Design](https://www.smashingmagazine.com/2019/12/things-stop-doing-mobile-app-design/)
  - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
  - [Neumorphism will NOT be a huge trend in 2020](https://uxdesign.cc/neumorphism-will-not-be-a-huge-trend-in-2020-67a8c35e52cc)
+ - [Using CSCS Scripting Language For Cross-Platform Development](https://www.smashingmagazine.com/2020/01/cscs-scripting-language-cross-platform-development/)
 
 ## Tools/Materials
  - [Multicolor Gradients](https://gradienta.io/)
@@ -118,6 +146,10 @@
  - [clubhouse](https://clubhouse.io)
  - [Griddle](https://github.com/daveberning/griddle)
  - [Startup Colors](https://logobly.com/colors/)
+ - [subcolor](https://subcolor.github.io/)
+ - [Palette Generator](https://hexcolor.co/palette-generator)
+ - [Neumorphism](https://neumorphism.io/#55b9f3)
+ - [GuideChimp](https://github.com/Labs64/GuideChimp)
 
 ## Others
  - []()
