@@ -22,6 +22,18 @@
  - [CSS `:is()` and `:where()` are coming to browsers](https://webplatform.news/issues/2020-06-04)
  - [A user’s guide to CSS variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
  - [Hybrid positioning with CSS variables and `max()`](https://lea.verou.me/2020/06/hybrid-positioning-with-css-variables-and-max/)
+ - [How-to guide for creating edge-to-edge color bars that work with a grid](https://www.imarc.com/blog/how-to-guide-for-creating-edge-to-edge-color-bars-that-work-with-a-grid)
+ - [When a Line Doesn’t Break](https://css-tricks.com/when-a-line-doesnt-break/)
+ - [Styling Layout Wrappers In CSS](https://ishadeed.com/article/styling-wrappers-css/)
+ - [Using Custom Property “Stacks” to Tame the Cascade](https://css-tricks.com/using-custom-property-stacks-to-tame-the-cascade/)
+ - [When Sass and New CSS Features Collide](https://css-tricks.com/when-sass-and-new-css-features-collide/)
+ - [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
+ - [Displaying the Current Step with CSS Counters](https://css-tricks.com/displaying-the-current-step-with-css-counters/)
+ - [How to Make a List Component with Emotion](https://css-tricks.com/how-to-make-a-list-component-with-emotion/)
+ - [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+ - [The Cicada Principle, revisited with CSS variables](https://lea.verou.me/2020/07/the-cicada-principle-revisited-with-css-variables/)
+ - [Accordion Rows in CSS Grid](https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid/)
+ - [Uncommon CSS Properties](https://www.ishadeed.com/article/uncommon-css/)
 
 ## JS
  - [15 React Interview Questions with Solutions](https://www.sitepoint.com/react-interview-questions-solutions/)
@@ -33,11 +45,14 @@
  - [Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
  - [Everything You Need to Know About FLIP Animations in React](https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/)
  - [Internationalization In Vue With The Vue I18n Plugin](https://www.smashingmagazine.com/2020/06/internationalization-vue-i18n/)
+ - [Getting CSS Translate values with JavaScript](https://zellwk.com/blog/css-translate-values-in-javascript/)
+ - [How To Test Your React Apps With The React Testing Library](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 
 ## Front-End
  - [Let’s Make a Multi-Thumb Slider That Calculates The Width Between Thumbs](https://css-tricks.com/lets-make-a-multi-thumb-slider-that-calculates-the-width-between-thumbs/)
  - [Atomic CSS-in-JS vs utility-first frameworks](https://blog.logrocket.com/atomic-css-in-js-vs-utility-first-frameworks/)
  - [Stay DRY Using axios for API Requests](https://css-tricks.com/stay-dry-using-axios-for-api-requests/)
+ - [Differences Between Static Generated Sites And Server-Side Rendered Apps](https://www.smashingmagazine.com/2020/07/differences-static-generated-sites-server-side-rendered-apps/)
 
 ## Web Design / UX
  - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
@@ -58,6 +73,11 @@
  - [Striking a Balance Between Native and Custom Select Elements](https://css-tricks.com/striking-a-balance-between-native-and-custom-select-elements/)
  - [Colors in UI Design: A Guide for Creating the Perfect UI](https://usabilitygeek.com/colors-in-ui-design-a-guide-for-creating-the-perfect-ui/)
  - [Web site vs web app: What’s the difference and why does it matter?](https://www.browserlondon.com/blog/2020/06/08/web-site-vs-web-app-whats-the-difference-does-it-matter/)
+ - [Information And Information Architecture: The BIG Picture](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/)
+ - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+ - [Design Better Buttons](https://medium.com/nextux/design-better-buttons-6b64eb7f13bc)
+ - [How to design a sleek dashboard UI](https://prototypr.io/post/how-to-design-a-sleek-dashboard-ui)
+ - [Visual storytelling for UI-UX design with examples](https://www.justinmind.com/blog/guide-to-visual-storytelling-for-ux/)
 
 ## App
  - [Solving Common Cross-Platform Issues When Working With Flutter](https://www.smashingmagazine.com/2020/06/common-cross-platform-issues-flutter/)
@@ -82,7 +102,10 @@
  - [No Design Development](https://nodesign.dev/)
  - [The Hero Generator](https://hero-generator.netlify.app/)
  - [Sorted Colors](https://enes.in/sorted-colors/)
+ - [Ext JS](https://www.sencha.com/products/extjs/)
+ - [Ember](https://emberjs.com/)
 
 ## Others
  - [What is Developer Experience (DX)?](https://css-tricks.com/what-is-developer-experience-dx/)
  - [Learn GitHub CLI: Your Guide to GitHub from the Command Line](https://www.sitepoint.com/github-cli-quickstart-guide/)
+ - [Learn Regex: A Beginner's Guide](https://www.sitepoint.com/learn-regex/)
